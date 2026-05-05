@@ -1,0 +1,822 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Goldman Sachs Insights (unofficial mirror)</title>
+    <link>https://raw.githubusercontent.com/QuantumBoIt/gs-insights-feed/main/insights.xml</link>
+    <description>Unofficial RSS mirror of articles, videos, and podcasts published at goldmansachs.com/insights. Items link to the original Goldman Sachs page.</description>
+    <atom:link href="https://raw.githubusercontent.com/QuantumBoIt/gs-insights-feed/main/insights.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 May 2026 05:35:31 +0000</lastBuildDate>
+    <item>
+      <title>Which Equity Markets Will Outperform?</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/which-equity-markets-will-outperform</link>
+      <description>What factors could drive global equities in 2026 – and how should investors think about hedging their exposure? Kunal Shah, co-CEO of Goldman Sachs International and global co-head of the Fixed Income, Currency, and Commodities business, discusses with Chris Hussey.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/which-equity-markets-will-outperform</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goldman Sachs Exchanges: Outlook 2026 Episode 3: Assets and Allocation</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-exchanges-outlook-2026-episode-3-assets-and-allocation</link>
+      <description>In the third and final episode of the Goldman Sachs Exchanges Outlook 2026 series, Goldman Sachs Research’s Peter Oppenheimer, Kamakshya Trivedi, Daan Struyven, and Christian Mueller-Glissmann share the trends shaping assets and portfolio allocation in 2026.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-exchanges-outlook-2026-episode-3-assets-and-allocation</guid>
+      <category>Outlooks</category>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global FX 2026 Outlook: Different Dollar Downside</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/global-fx-outlook-2026-different-dollar-downside</link>
+      <description>Goldman Sachs Research expects the dollar to continue weakening in 2026 as demand for US assets diminishes.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/global-fx-outlook-2026-different-dollar-downside</guid>
+      <category>Outlooks</category>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anastasia Soare: Building a Billion-Dollar Beauty Brand</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/anastasia-soare</link>
+      <description>Anastasia Beverly Hills has revolutionized the beauty industry, establishing the art of eyebrow shaping as a cornerstone of modern aesthetics. Anastasia Soare, Founder and CEO of Anastasia Beverly Hills, joins Meena Flynn, Co-Head of Global Private Wealth Management and Co-Head of One Goldman Sachs, to discuss her journey immigrating to the US without speaking English, to building a billion-dollar beauty empire from scratch. Anastasia shares how a client-centric focus, creative approach to overcoming setbacks, and dedication to her craft powered the company&amp;#x27;s rise. This session was recorded on October 28, 2025.  </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/anastasia-soare</guid>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What to Expect From AI in 2026: Personal Agents, Mega Alliances, and the Gigawatt Ceiling</title>
+      <link>https://www.goldmansachs.com/insights/articles/what-to-expect-from-ai-in-2026-personal-agents-mega-alliances</link>
+      <description>AI models have reached an important inflection point, which will change how humans and machines work together.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/what-to-expect-from-ai-in-2026-personal-agents-mega-alliances</guid>
+      <category>Outlooks</category>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“A Massive Broadening Trade”</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/a-massive-broadening-trade</link>
+      <description>Concerns over US tariffs and Japanese fiscal policy are inserting fresh volatility into markets. So how are investors positioning – and where are the best opportunities in global equities now? Rich Privorotsky, head of European One Delta trading in Goldman Sachs Global Banking &amp;amp; Markets, discusses with Chris Hussey.&#13;
+</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/a-massive-broadening-trade</guid>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qatar PM Al Thani: Diplomacy and Qatar's Economic Future</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/al-thani</link>
+      <description>Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, Prime Minister and Minister of Foreign Affairs of Qatar, discusses Qatar&amp;#x27;s pivotal role in global diplomacy, and his strategic vision driving his nation&amp;#x27;s economic growth and international role. Prime Minister Al Thani outlines Qatar&amp;#x27;s foreign policy, explaining how mediation efforts, both regionally and globally, contribute to national security and stability. He also covers Qatar&amp;#x27;s investments in education and highlights the country&amp;#x27;s Vision 2030, aiming to transform Qatar’s economy and strengthen its national champion companies. This session was moderated by Jared Cohen, president of Global Affairs and co-head of the Goldman Sachs Global Institute, on October 30, 2025. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/al-thani</guid>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goldman Sachs Chairman and CEO David Solomon on AI, M&amp;A, and Markets</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-chairman-and-ceo-david-solomon-on-ai-m-and-a-and-markets</link>
+      <description>Goldman Sachs Chairman and CEO David Solomon discusses AI, M&amp;amp;A, and the firm’s path forward. &#13;
+This episode was recorded on January 20th, 2026.&#13;
+</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-chairman-and-ceo-david-solomon-on-ai-m-and-a-and-markets</guid>
+      <category>IPOs &amp; M&amp;A</category>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Record-High Copper Prices Aren’t Forecast to Last</title>
+      <link>https://www.goldmansachs.com/insights/articles/why-record-high-copper-prices-arent-forecast-to-last</link>
+      <description>A copper rally has pushed prices above their fair fundamental value, but a correction could hinge on US tariff policy.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-record-high-copper-prices-arent-forecast-to-last</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>German Economic Outlook: 1.1% Growth in 2026</title>
+      <link>https://www.goldmansachs.com/insights/articles/german-economic-outlook-growth-in-2026</link>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/german-economic-outlook-growth-in-2026</guid>
+      <category>Outlooks</category>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Edward Norton: From Hollywood to High-Impact Entrepreneurship</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/ed-norton</link>
+      <description>Edward Norton joins Kim Posnett to discuss the parallels between filmmaking and entrepreneurship, the importance of mission-driven work, and the lessons learned from building teams and driving innovation.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/ed-norton</guid>
+      <category>Entrepreneurship</category>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will US Stocks Outperform in 2026?</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/will-us-stocks-outperform-in-2026</link>
+      <description>Goldman Sachs’ Sharmin Mossavar-Rahmani, head of the Investment Strategy Group and chief investment officer of Wealth Management, shares her team’s investment views for the year ahead. Find all our outlooks for the year ahead here.&#13;
+This episode was recorded on January 9, 2026.&#13;
+</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/will-us-stocks-outperform-in-2026</guid>
+      <category>Outlooks</category>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI is Driving Drug Discovery: Xaira Therapeutics' Marc Tessier Lavigne</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/marc-tessier-levigne</link>
+      <description>Xaira Therapeutics is harnessing AI to fundamentally change how we discover and develop medicines, shortening the path from lab to clinic for previously &amp;quot;un-druggable&amp;quot; targets. Dr. Marc Tessier-Lavigne, co-founder, chairman, and CEO of Xaira Therapeutics, sits down with Sonia Gupta, co-head of Biotech Investment Banking at Goldman Sachs, to explore his journey from neuroscience to higher-education, the critical role of talent and purpose in building world-class organizations, and a roadmap for translating scientific insight into real-world impact. This session was recorded at the 2025 Goldman Sachs Builders and Innovators Summit on October 16, 2025. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/marc-tessier-levigne</guid>
+      <category>Transportation</category>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Long Gold and Long Stocks</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/long-gold-and-long-stocks</link>
+      <description>Do investors need a new barbell strategy? Anshul Sehgal, global co-head of Fixed Income, Currency and Commodities in Goldman Sachs Global Banking &amp;amp; Markets, discusses market drivers and portfolio positioning with Chris Hussey on the Goldman Sachs trading floor. This episode was recorded on January 29, 2026.&#13;
+</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/long-gold-and-long-stocks</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Americas First</title>
+      <link>https://www.goldmansachs.com/insights/top-of-mind/americas-first</link>
+      <description>The Trump Administration kicked off 2026 with a new, more forceful foreign policy, driven by the so-called “Donroe Doctrine.”</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/top-of-mind/americas-first</guid>
+      <category>Geopolitics</category>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poppi Founders: Disrupting the Beverage Industry</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/allison-and-stephen-ellsworth</link>
+      <description>Poppi began as a kitchen experiment with apple cider vinegar and has grown into a leading beverage brand, which was recently acquired by PepsiCo for nearly $2 billion. Allison and Stephen Ellsworth, co-founders of Poppi, joined Vanya Kasanof to share the brand’s journey to becoming a digital-first sensation and a category leader. They discuss Poppi’s rapid rise, the power of intuition and culture, and how a relentless focus on brand and community propelled them from farmers markets to a landmark Super Bowl ad. This session was recorded at the 2025 Goldman Sachs Builders and Innovators Summit on October 15, 2025.&#13;
+&#13;
+</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/allison-and-stephen-ellsworth</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Productivity Stagnation in the Construction Industry: An International Perspective</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/productivity-stagnation-in-construction-industry</link>
+      <description>From 1970 to 2024, productivity in the US construction industry fell by 30% while economy-wide productivity more than doubled.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/productivity-stagnation-in-construction-industry</guid>
+      <category>Real Estate &amp; Housing</category>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Implications of an “Americas First” Foreign Policy</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/implications-of-an-americas-first-foreign-policy</link>
+      <description>What could more assertive US foreign policy in the Western Hemisphere — driven by the so-called “Donroe Doctrine”— mean for the global order?</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/implications-of-an-americas-first-foreign-policy</guid>
+      <category>Geopolitics</category>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will Japanese Stocks Rally to Fresh Record Highs?</title>
+      <link>https://www.goldmansachs.com/insights/articles/will-japanese-stocks-rally-to-fresh-record-highs</link>
+      <description>Goldman Sachs Research expects a central bank rate hike and US reindustrialization to help boost Japan’s stock market in 2026.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/will-japanese-stocks-rally-to-fresh-record-highs</guid>
+      <category>Markets</category>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the Future of Payments: Adyen CEO</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/pieter-van-der-does</link>
+      <description>Description:  &#13;
+Adyen has scaled from an Amsterdam startup to a global fintech by building every layer of payments in-house and focusing relentlessly on merchants. Pieter van der Does, co-founder and co-CEO of Adyen, joins Clif Marriott, co-head of Technology, Media and Telecoms in EMEA at Goldman Sachs, to discuss Adyen&amp;#x27;s origin story, the strategy that helped Adyen scale to roughly $900 billion in annual processed volume, and a winning company culture that fosters global collaboration. This session was recorded in London on November 5, 2025. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/pieter-van-der-does</guid>
+      <category>Entrepreneurship</category>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela</title>
+      <link>https://www.goldmansachs.com/insights/articles/latin-america-predicted-to-post-modest-growth-amid-upheaval-in-venezuela</link>
+      <description>Latin America is expected to have steady though modest economic growth and broadly stable inflation despite US tariffs and upheaval in Venezuela.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/latin-america-predicted-to-post-modest-growth-amid-upheaval-in-venezuela</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Finding Opportunities in Financials</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/finding-opportunities-in-financials</link>
+      <description>Can US financials outperform in 2026 – and where are the most attractive opportunities? Christian DeGrasse, financial sector specialist in Global Banking &amp;amp; Markets, discusses with Chris Hussey on the Goldman Sachs trading floor.&#13;
+This episode was recorded on February 4, 2026.&#13;
+</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/finding-opportunities-in-financials</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Outlook for India’s Economy in 2026 amid A New US Trade Deal</title>
+      <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-economy-in-2026-amid-new-us-tradedeal</link>
+      <description>Goldman Sachs Research forecasts India’s real GDP to grow at 6.9% in 2026—with policy continuity and a boost thanks to the new US trade deal.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-economy-in-2026-amid-new-us-tradedeal</guid>
+      <category>Outlooks</category>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stock Market Shakeout</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/stock-market-shakeout</link>
+      <description>There is significant volatility beneath the surface of the US equity market. So what’s driving these moves – and where are the opportunities for investors now? Shawn Tuteja, who oversees ETF and custom baskets volatility trading within Goldman Sachs Global Banking &amp;amp; Markets, discusses with Chris Hussey on the Goldman Sachs trading floor.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/stock-market-shakeout</guid>
+      <category>Markets</category>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Affordability’: Consumer Concerns and Government Proposals</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/affordability-consumer-concerns-and-government-proposals</link>
+      <description>What&amp;#x27;s driving concerns about the US cost of living, and can the administration&amp;#x27;s proposals effectively address them? David Mericle, Chief US Economist, and Alec Phillips, Chief US Political Economist, at Goldman Sachs Research discuss with Allison Nathan.&#13;
+Date of recording: February 5th, 2026.&#13;
+</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/affordability-consumer-concerns-and-government-proposals</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tech Stocks in Trouble?</title>
+      <link>https://www.goldmansachs.com/insights/videos/tech-stocks-in-trouble-</link>
+      <description>Will the US tech giants keep underperforming? Mike Washington, equities sales trader in Global Banking &amp;amp; Markets, separates the signal from the noise.&#13;
+Recorded on February 5, 2026.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/tech-stocks-in-trouble-</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fundamentals Still Matter: Lone Pine’s David Craver</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/fundamentals-still-matter-lone-pines-david-craver</link>
+      <description>David Craver, co-chief investment officer of Lone Pine Capital, discusses the evolution of market structure, the opportunities in AI, and the factors driving the firm’s long-term fundamental-based investing. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/fundamentals-still-matter-lone-pines-david-craver</guid>
+      <category>Great Investors</category>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Has Productivity in the US Construction Industry Stagnated?</title>
+      <link>https://www.goldmansachs.com/insights/articles/why-has-productivity-in-the-us-construction-industry-stagnated</link>
+      <description>Construction productivity has underperformed productivity in the wider economy partly due to technological changes, regulation, and measurement issues, according to Goldman Sachs Research.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-has-productivity-in-the-us-construction-industry-stagnated</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hedge Funds Have Momentum After Posting Double-Digit Returns Last Year</title>
+      <link>https://www.goldmansachs.com/insights/articles/hedge-funds-have-momentum-after-posting-double-digit-returns-last-year</link>
+      <description>As hedge funds deliver double-digit returns and unprecedented alpha, asset allocators surveyed by Goldman Sachs Prime Services plan to boost exposure to the group.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/hedge-funds-have-momentum-after-posting-double-digit-returns-last-year</guid>
+      <category>Markets</category>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Still Bullish Gold”</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/still-bullish-gold</link>
+      <description>What’s behind the recent volatility in gold prices – and what could drive further gains through the rest of the year? Lina Thomas, senior commodities analyst in Goldman Sachs Research, discusses with Chris Hussey.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/still-bullish-gold</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New AI Trades</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-new-ai-trades</link>
+      <description>Goldman Sachs Research’s Ryan Hammond explains how AI disruption is creating large sector rotations even as the equities continue to move higher.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-new-ai-trades</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Which Software Companies Will Benefit from AI?</title>
+      <link>https://www.goldmansachs.com/insights/articles/which-software-companies-will-benefit-from-ai</link>
+      <description>Investors have pushed some software stocks lower on concern that AI agents could make them obsolete, but some of these companies may be insulated and even benefit from AI.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/which-software-companies-will-benefit-from-ai</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Indonesia Drove a Rally in Nickel</title>
+      <link>https://www.goldmansachs.com/insights/articles/how-indonesia-drove-a-rally-in-nickel</link>
+      <description>Indonesian supply policy is driving the price of nickel</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-indonesia-drove-a-rally-in-nickel</guid>
+      <category>Markets</category>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tech Comeback Ahead?</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/tech-comeback-ahead</link>
+      <description>Despite widespread optimism about AI, the US tech sector has lagged meaningfully this year. What factors could lead to a bullish reversal – and which stocks may be set to rebound? Peter Callahan, the US Technology, Media and Telecommunications sector specialist within Goldman Sachs Global Banking &amp;amp; Markets, discusses with Mike Washington on the Goldman Sachs trading floor.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/tech-comeback-ahead</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Board Governance in 2026: AI Oversight, Activism, and Delaware’s Edge</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/larry-cunningham</link>
+      <description>Board governance is central to how companies earn and maintain trust with shareholders and the public. Larry Cunningham, Presiding Director of the John L. Weinberg Center for Corporate Governance at the University of Delaware, joins John F.W. Rogers, Secretary of the Board of Directors at Goldman Sachs, to discuss the evolution of board stewardship and its importance today. Cunningham discusses the Center’s 25th anniversary and the discovery of John L. Weinberg’s 1948 Princeton thesis on the status and functions of corporate directors. They explore enduring governance questions including shareholder focus versus broader corporate responsibilities, the value of discerning questions, and why one-size-fits-all governance checklists often miss what matters most. This episode was recorded on October 27, 2025. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/larry-cunningham</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Japanese Stocks Could Keep Rallying</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-japanese-stocks-could-keep-rallying</link>
+      <description>Goldman Sachs Research’s Bruce Kirk discusses the implications of Japan’s recent snap election and the implications for the equity market and foreign investors.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-japanese-stocks-could-keep-rallying</guid>
+      <category>Markets</category>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The S&amp;P 500 Is Forecast to Rally amid a Healthy Economy in 2026</title>
+      <link>https://www.goldmansachs.com/insights/videos/s-and-p-500-forecast-to-rally-amid-a-healthy-economy-in-2026</link>
+      <description>S&amp;amp;P 500 outlook for 2026: Despite elevated valuations, US stocks are forecast to post double-digit gains.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/s-and-p-500-forecast-to-rally-amid-a-healthy-economy-in-2026</guid>
+      <category>Outlooks</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global GDP Outlook in 2026: Sturdy Growth and Stable Prices</title>
+      <link>https://www.goldmansachs.com/insights/videos/global-gdp-outlook-in-2026-sturdy-growth-and-stable-prices</link>
+      <description>Global economic outlook: Goldman Sachs Research expects sturdy growth in 2026 driven by US tax cuts, Chinese export strength, and fiscal expansion in the euro area.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/global-gdp-outlook-in-2026-sturdy-growth-and-stable-prices</guid>
+      <category>Outlooks</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Finding Software Opportunities</title>
+      <link>https://www.goldmansachs.com/insights/videos/finding-software-opportunities</link>
+      <description>Is the software selloff creating opportunities for long-term investors?</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/finding-software-opportunities</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>European Stocks Have a Promising Backdrop for 2026</title>
+      <link>https://www.goldmansachs.com/insights/videos/european-stocks-have-a-promising-backdrop-for-2026</link>
+      <description>STOXX 600 outlook for 2026: European stocks are expected to rise this year, boosted by German fiscal spending, improving global growth, and investors diversifying out of concentrated US equities.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/european-stocks-have-a-promising-backdrop-for-2026</guid>
+      <category>Outlooks</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>European GDP Growth in 2026: Signs of Optimism</title>
+      <link>https://www.goldmansachs.com/insights/videos/european-gdp-growth-in-2026-signs-of-optimism</link>
+      <description>European economic outlook: GDP growth is forecast to accelerate in 2026 amid higher German public spending and an encouraging backdrop for consumption.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/european-gdp-growth-in-2026-signs-of-optimism</guid>
+      <category>Outlooks</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Optimistic Outlook for US GDP in 2026 as Inflation Cools</title>
+      <link>https://www.goldmansachs.com/insights/videos/an-optimistic-outlook-for-us-gdp-in-2026-as-inflation-cools</link>
+      <description>US economic outlook for 2026: Our economists expect solid GDP growth, in part because of a boost from tax cuts.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/an-optimistic-outlook-for-us-gdp-in-2026-as-inflation-cools</guid>
+      <category>Outlooks</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A New Way to Trade Emerging Markets</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/a-new-way-to-trade-emerging-markets</link>
+      <description>Emerging market equities have continued to rally in 2026. What’s driving the gains, and where are the opportunities now? Stratford Dennis discusses with Chris Hussey.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/a-new-way-to-trade-emerging-markets</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forecasts for the World’s Biggest Economies in 2026</title>
+      <link>https://www.goldmansachs.com/insights/articles/forecasts-for-the-worlds-biggest-economies-in-2026</link>
+      <description>Some of the world’s biggest economies are forecast to receive a boost in 2026 from higher fiscal spending, declining policy rates, and a reduced tariff impact.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/forecasts-for-the-worlds-biggest-economies-in-2026</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Could Value Stocks Benefit from the AI Rout?</title>
+      <link>https://www.goldmansachs.com/insights/articles/could-value-stocks-benefit-from-the-ai-rout</link>
+      <description>A decline in software stocks has investors shifting their attention to once-neglected sectors with the physical assets required for mass AI adoption.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/could-value-stocks-benefit-from-the-ai-rout</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil Market Impacts from Iran</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/oil-market-impacts-from-iran</link>
+      <description>Goldman Sachs Research’s Daan Struyven, co-head of Global commodities Research and Head of Oil Research, discusses how the strikes in Iran affect the oil market, commodities, and energy prices.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/oil-market-impacts-from-iran</guid>
+      <category>Geopolitics</category>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lloyd Blankfein on His Memoir, Risk Management and Leadership</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/lloyd-blankfein</link>
+      <description>Goldman Sachs’ culture has long been defined by its core values: partnership, client service, integrity, and excellence. Lloyd Blankfein, Senior Chairman of The Goldman Sachs Group Inc. and former Chairman and CEO of Goldman Sachs, joins David Solomon, current Chairman and CEO of Goldman Sachs for a conversation on his storied career and the launch of his memoir, Streetwise: Getting to and Through Goldman Sachs. Lloyd reflects on his upbringing in Brooklyn, path to Harvard, long-time leadership at Goldman Sachs, the evolution of the firm’s partnership culture, and the critical risk management lessons learned while steering the firm through the 2008 financial crisis and its aftermath. This episode was recorded on February 25, 2026.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/lloyd-blankfein</guid>
+      <category>Strategy &amp; Leadership</category>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Will the Iran Conflict Impact Oil Prices?</title>
+      <link>https://www.goldmansachs.com/insights/articles/how-will-the-iran-conflict-impact-oil-prices</link>
+      <description>Following US and Israeli strikes in Iran, the outlook for energy prices will likely be closely linked to disruptions to flows through the Strait of Hormuz.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-will-the-iran-conflict-impact-oil-prices</guid>
+      <category>Energy</category>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>$120 Oil Ahead?</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/120-oil-ahead</link>
+      <description>determine the commodity’s next move, and how much higher could oil prices rise? Jerome Dortmans, co-head of Global Oil and Products Trading in Goldman Sachs Global Banking &amp;amp; Markets, discusses with Chris Hussey on the Goldman Sachs trading floor.&#13;
+&#13;
+</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/120-oil-ahead</guid>
+      <category>Energy</category>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GS SUSTAIN: How Rising Hyperscaler Reinvestment Impacts the 6 Ps Driving Power Growth / Constraints</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/how-rising-hyperscaler-reinvestment-impacts-power-growth-constraints</link>
+      <description>Goldman Sachs Research raises their data center power demand outlook and now expects 220% growth by 2030 vs. 2023 levels (vs +175% previously).</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/how-rising-hyperscaler-reinvestment-impacts-power-growth-constraints</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Worries: The Latest Jobs Report and Geopolitical Dynamics</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/new-worries</link>
+      <description>A weaker-than-expected employment report, and increasing geopolitical&#13;
+concerns, are leading to significant market volatility. How should investors&#13;
+make sense of this environment? Josh Schiffrin, Chief Strategy Officer and Head of Financial Risk for Goldman Sachs Global Banking &amp;amp; Markets, discusses with Chris Hussey on the Goldman Sachs trading floor. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/new-worries</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will AI Eat Software?</title>
+      <link>https://www.goldmansachs.com/insights/top-of-mind/will-ai-eat-software</link>
+      <description>The emergence of agentic AI tools for software development has fueled concerns that AI could eat software, triggering a sharp re-rating of the software sector.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/top-of-mind/will-ai-eat-software</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can Software Survive AI? </title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/can-software-survive-ai</link>
+      <description>Goldman Sachs Research’s Gabriela Borges explains how AI disruption has been affecting the software sector and what it will take for the sector to stabilize. For more, also read the related Goldman Sachs Research’s Top of Mind report, Will AI eat software? </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/can-software-survive-ai</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Active ETFs Are Gaining Momentum as Investors Seek New Solutions</title>
+      <link>https://www.goldmansachs.com/insights/articles/why-active-etfs-are-gaining-momentum-as-investors-seek-new-solutions</link>
+      <description>Active ETFs are growing nearly five times faster than their passive peers as investors seek more flexibility than index-trackers can provide.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-active-etfs-are-gaining-momentum-as-investors-seek-new-solutions</guid>
+      <category>Markets</category>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Untangling Signals of Market Stress</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/investors-are-seeking-extreme-levels-of-hedging</link>
+      <description>Geopolitical uncertainty and a decline in S&amp;amp;P 500 liquidity are prompting institutional investors to hedge against macro risks. How are investors responding to surging volumes and shifting thematic trades? John Flood, head of Americas Equities Execution Services in Goldman Sachs Global Banking &amp;amp; Markets, discusses with Chris Hussey on the Goldman Sachs trading floor.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/investors-are-seeking-extreme-levels-of-hedging</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Korea’s Stock Market Is Forecast to Rise to Record Highs</title>
+      <link>https://www.goldmansachs.com/insights/articles/why-koreas-stock-market-is-forecast-to-rise-to-record-highs</link>
+      <description>A recent drop in Korean equity prices could provide an attractive opportunity for investors amid a positive outlook for semiconductor companies and the market’s history of bouncing back from steep declines.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-koreas-stock-market-is-forecast-to-rise-to-record-highs</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goldman Sachs International’s Co-CEOs on Europe’s Opportunity, AI, and Market Volatility</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-internationals-co-ceos-on-europes-opportunity-ai-and-market-volatility</link>
+      <description>Goldman Sachs International Co-CEOs Anthony Gutman and Kunal Shah discuss CEO sentiment, market volatility, and the case for Europe.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-internationals-co-ceos-on-europes-opportunity-ai-and-market-volatility</guid>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe Has an Edge in Developing Applications for AI</title>
+      <link>https://www.goldmansachs.com/insights/articles/europe-has-an-edge-in-developing-applications-for-ai</link>
+      <description>European entrepreneurs and early-stage investors are making great strides in the development of AI applications.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/europe-has-an-edge-in-developing-applications-for-ai</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emerging Markets: Stirred, But Not Yet Shaken</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/emerging-markets-stirred-but-not-yet-shaken</link>
+      <description>Goldman Sachs Research’s Kamakshya Trivedi analyzes the market’s reaction to the conflict in Iran and the case for emerging markets.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/emerging-markets-stirred-but-not-yet-shaken</guid>
+      <category>Markets</category>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Will AI Affect the US Labor Market?</title>
+      <link>https://www.goldmansachs.com/insights/articles/how-will-ai-affect-the-us-labor-market</link>
+      <description>Goldman Sachs Research estimates that 300 million jobs globally are exposed to automation by AI. But the technology will also generate new employment.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-will-ai-affect-the-us-labor-market</guid>
+      <category>Outlooks</category>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"The Market Is Fragile": John Storey on Finding Opportunities in Turbulent Markets</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/the-market-is-fragile-john-storey-on-finding-opportunities-in-turbulent-markets</link>
+      <description>While the S&amp;amp;P 500 has traded within a relatively narrow range this year, there are significant signals of stress below the surface, says John Storey, Co-Head of Equities Distribution in Goldman Sachs Global Banking &amp;amp; Markets. He discusses investor positioning, and the potential for “asset-heavy” companies to outperform, in this conversation with Chris Hussey.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/the-market-is-fragile-john-storey-on-finding-opportunities-in-turbulent-markets</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steven Mnuchin: Navigating Credit Cycles, AI Investment, and Fiscal Policy</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/steven-mnuchin</link>
+      <description>Steven Mnuchin, former U.S. Treasury Secretary and Goldman Sachs partner alum, brings decades of experience navigating financial markets, public policy, and economic crises. In this conversation with David Solomon, Chairman and CEO of Goldman Sachs, Mnuchin shares insights on the current credit cycle, the resilience of the U.S. economy amid unprecedented AI infrastructure spending, cryptocurrency regulation and the future of stablecoins, and lessons learned from managing through the COVID-19 economic shutdown. This session was recorded at the Goldman Sachs 24th Annual Alternatives Summit on October 21, 2025.  </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/steven-mnuchin</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran Conflict: How Long, and How Bad?</title>
+      <link>https://www.goldmansachs.com/insights/top-of-mind/iran-conflict-how-long-and-how-bad</link>
+      <description>The unprecedented US and Israeli coordinated attack on Iran has resulted in the largest energy supply disruption in history, as shipping traffic in the Strait of Hormuz has ground to a near halt and regional energy infrastructure has come under target. How long the conflict could last, its impact on global energy supplies, and economic and market implications are Top of Mind.    </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/top-of-mind/iran-conflict-how-long-and-how-bad</guid>
+      <category>Geopolitics</category>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Private Credit Concerns in Context</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-credit-concerns-in-context</link>
+      <description>Goldman Sachs’ Alex Blostein and Vivek Bantwal discuss the market sentiment, fundamentals, and the outlook for the private credit sector. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-credit-concerns-in-context</guid>
+      <category>Alternatives &amp; Private Markets</category>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The HALO effect: Heavy Assets, Low Obsolescence in the AI era</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/the-halo-effect-heavy-assets-low-obsolescence-in-the-ai-era</link>
+      <description>Goldman Sachs Research analysts introduce the &amp;quot;HALO&amp;quot; framework—Heavy Assets, Low Obsolescence—to identify companies that are less exposed to technological obsolescence.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/the-halo-effect-heavy-assets-low-obsolescence-in-the-ai-era</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is a Further Equity Correction Ahead?</title>
+      <link>https://www.goldmansachs.com/insights/videos/is-a-further-equity-correction-ahead</link>
+      <description>Are equities at significant risk of a further correction – or even a bear market? Peter Oppenheimer of Goldman Sachs Research separates the signal from the noise. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/is-a-further-equity-correction-ahead</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Outlook for Private Credit amid Rising Market Stress</title>
+      <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-private-credit-amid-rising-market-stress</link>
+      <description>Despite concern about increasing credit market stress and lending to software companies that may face AI disruption, there are signs that private credit markets are relatively stable.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-outlook-for-private-credit-amid-rising-market-stress</guid>
+      <category>Alternatives &amp; Private Markets</category>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lindsay Rosner: Why There Could Be More Opportunities in Fixed Income</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/id-rather-be-a-bond-lindsay-rosner-on-fixed-income-opportunities</link>
+      <description>Bond yields have risen sharply in the past month. Is this move an overreaction – and is it creating opportunities for investors? Lindsay Rosner, Head of Multi-Sector Investing in Goldman Sachs Asset Management, discusses with Chris Hussey.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/id-rather-be-a-bond-lindsay-rosner-on-fixed-income-opportunities</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran Conflict: How Long, and How Bad?</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/iran-conflict-how-long-and-how-bad</link>
+      <description>The Iran conflict has triggered the largest energy supply disruption in history with shipping traffic in the Strait of Hormuz nearly at a standstill and regional energy infrastructure under fire. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/iran-conflict-how-long-and-how-bad</guid>
+      <category>Geopolitics</category>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Are UK Gilt Yields So High? </title>
+      <link>https://www.goldmansachs.com/insights/articles/why-are-uk-gilt-yields-so-high</link>
+      <description>The war in Iran has prompted investors to sell UK government bonds, pushing yields to an 18-year high as inflation concerns rise.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-are-uk-gilt-yields-so-high</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the Iran War Is Impacting Investment Portfolios</title>
+      <link>https://www.goldmansachs.com/insights/articles/how-the-iran-war-is-impacting-investment-portfolios</link>
+      <description>Losses in balanced multi-asset portfolios have been limited since the start of the Iran war, but some risks remain. Our strategists recommend a portfolio split equally between assets exposed to innovation, assets protecting against inflation, and assets that help mitigate risks like economic downturns.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-the-iran-war-is-impacting-investment-portfolios</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Business Builder: New Mountain Capital's Steve Klinsky</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-business-builder-new-mountain-capitals-steve-klinsky</link>
+      <description>Steve Klinsky, founder and CEO of New Mountain Capital, joins Goldman Sachs’ Alison Mass to discuss the macro landscape, his approach to building businesses, the evolution of the private equity industry.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-business-builder-new-mountain-capitals-steve-klinsky</guid>
+      <category>Great Investors</category>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the Conflict in the Strait of Hormuz Could Affect Global Agriculture Prices</title>
+      <link>https://www.goldmansachs.com/insights/articles/how-the-conflict-in-the-strait-of-hormuz-could-affect-global-agriculture-prices</link>
+      <description>The turmoil in the Strait of Hormuz could disrupt global flows of nitrogen fertilizers and LNG that are important for agriculture around the world.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-the-conflict-in-the-strait-of-hormuz-could-affect-global-agriculture-prices</guid>
+      <category>Markets</category>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Exchanges: Power Problems?</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/ai-exchanges-power-problems</link>
+      <description>As the demand for AI-powered data centers continues to grow, Goldman Sachs Research’s Brian Singer explains the potential sources—and constraints—of power demand growth.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/ai-exchanges-power-problems</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Natural Gas in Focus: Iran Conflict Could Have ‘Very Painful’ Consequences</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/natural-gas-in-focus-iran-conflict-could-have-very-painful-consequences</link>
+      <description>While oil dominates headlines amid the Iran conflict, an equally unsettling story is playing out in natural gas markets that may pose an even greater threat. In this episode of Goldman Sachs Exchanges, Samantha Dart, co-head of Global Commodities Research, explains why the length of the Iran conflict could have a significant impact on natural gas prices. This episode was recorded on April 6th, 2026. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/natural-gas-in-focus-iran-conflict-could-have-very-painful-consequences</guid>
+      <category>Energy</category>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sir Sadiq Khan on London’s Global Edge—and What Comes Next</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/sadiq-khan</link>
+      <description>London’s position as a global hub depends on staying competitive and preparing for rapid technological change. Sir Sadiq Khan, Mayor of London, joins Kunal Shah, co-chief executive officer of Goldman Sachs International and global co-head of FICC, to discuss London’s economic strengths across finance, culture, and innovation—and the potential challenges around artificial intelligence, talent and capital. They explore the London Growth Plan, the city’s focus on transportation and air quality, and how London can build guardrails around innovation while also capturing opportunity.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/sadiq-khan</guid>
+      <category>Europe</category>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reimagining Biopharma: Precision Medicine, Patients, and Purpose with Takeda CEO-Elect</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/julie-kim</link>
+      <description>Takeda Pharmaceuticals operates at the intersection of deep scientific innovation and complex global healthcare systems, with a portfolio spanning gastroenterology, oncology, neuroscience, rare diseases, and plasma-derived therapies. CEO-elect Julie Kim joins Yassaman Salas, global co-head of the Healthcare Group within Investment Banking at Goldman Sachs, to discuss the promise of precision medicine, the role of AI and real-world data in accelerating development and access, and how she plans to sharpen Takeda’s growth story while preserving its patient-first, values-driven culture.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/julie-kim</guid>
+      <category>Technology</category>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can the China Rally Continue?</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/can-the-china-rally-continue</link>
+      <description>What’s driving Chinese equity markets higher, and are there better opportunities across the emerging markets landscape at this point?</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/can-the-china-rally-continue</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Big Tech Opportunity: Lee Coppersmith on US Equities</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/big-tech-opportunity-lee-coppersmith-on-us-equities</link>
+      <description>After a huge one-day rally on the Iran ceasefire deal, is there still room for stocks to go higher? And what’s the best way for investors to take bullish positions on US equities now? Lee Coppersmith, who co-runs New York Equity Derivatives Sales in Goldman Sachs Global Banking &amp;amp; Markets, discusses with Mike Washington.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/big-tech-opportunity-lee-coppersmith-on-us-equities</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are Technology Stocks Cheap Now?</title>
+      <link>https://www.goldmansachs.com/insights/articles/are-technology-stocks-cheap-now</link>
+      <description>Global technology stocks started 2026 with one of the worst periods of underperformance relative to non-tech sectors since the early 1970s. The decline means they are no longer expensive compared to the rest of the stock market, according to Goldman Sachs Research.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/are-technology-stocks-cheap-now</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Holocaust Survivors on Hope, Survival, and the Responsibility to Remember</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/henry-and-bernie-schanzer</link>
+      <description>As children during the Holocaust, Henry and Bernie Schanzer were hidden and moved through a network of protectors who defied the Nazi regime to save them. They joined Sheara Fredman, Chief Accounting Officer and Controller at Goldman Sachs, to reflect on lessons about moral courage, and share why storytelling remains a powerful tool for remembrance across generations.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/henry-and-bernie-schanzer</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Aren’t Investors More Worried?</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-arent-investors-more-worried</link>
+      <description>Goldman Sachs Research’s Dominic Wilson discusses the impact of the Iran conflict—including the US blockade of the Strait of Hormuz—on global markets. In discussion with Exchanges Host Allison Nathan, he explores the market reactions, risks, and the outlook for equities, rates, currencies, and portfolio positioning amid the ongoing geopolitical uncertainty.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-arent-investors-more-worried</guid>
+      <category>Trade</category>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apollo's Jim Zelter on the Future of Private Credit</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/apollos-jim-zelter-on-ai-disruption-and-the-future-of-private-credit</link>
+      <description>Apollo Global Management President Jim Zelter talks about the unprecedented surge in capital expenditures, the future of private credit, and where he’s seeing investment opportunities around the world.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/apollos-jim-zelter-on-ai-disruption-and-the-future-of-private-credit</guid>
+      <category>Great Investors</category>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chase or Fade the Rally?: Bobby Molavi on the Equity Bounce</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/chase-or-fade-the-rally-bobby-molavi-on-the-equity-bounce</link>
+      <description>US equities have staged a powerful rebound, coming back from their late-March lows to hit all-time highs. Are more gains ahead, or should traders look to take profits?</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/chase-or-fade-the-rally-bobby-molavi-on-the-equity-bounce</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prepare for More Volatility?</title>
+      <link>https://www.goldmansachs.com/insights/videos/prepare-for-more-volatility</link>
+      <description>Equity volatility could rise in the months ahead — even if stocks continue to rally. Vickie Chang of Goldman Sachs Research separates the signal from the noise.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/prepare-for-more-volatility</guid>
+      <category>Markets</category>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Farallon Capital's Nicolas Giauque on Investing for the Long Term</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/farallon-capitals-nicolas-giauque-on-investing-for-the-long-term</link>
+      <description>Managing Partner and CIO Nicolas Giauque of Farallon Capital—a multi-strategy firm founded 40 years ago—talks about the investing opportunities he sees today and his view of the current market environment.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/farallon-capitals-nicolas-giauque-on-investing-for-the-long-term</guid>
+      <category>Great Investors</category>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The path to 2075 — the positive story of global aging</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/the-path-to-2075-the-positive-story-of-global-aging</link>
+      <description>It is far from clear that the economic drawbacks of population aging are as intractable as they are commonly depicted, according to Goldman Sachs Research economists. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/the-path-to-2075-the-positive-story-of-global-aging</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Impact of Higher Energy Prices on European Manufacturing Industries</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/the-impact-of-higher-energy-prices-on-eruopean-manufacturing-industries</link>
+      <description>Higher energy prices driven by the conflict in the Middle East are forecast to reduce European industrial production by 2% by the end of 2027 compared to its pre-conflict baseline, according to Goldman Sachs Research.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/the-impact-of-higher-energy-prices-on-eruopean-manufacturing-industries</guid>
+      <category>Energy</category>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When AI Learns How the World Works</title>
+      <link>https://www.goldmansachs.com/insights/articles/when-ai-learns-how-the-world-works</link>
+      <description>After a decade defined by systems that recognize patterns and predict text, the frontier of AI is shifting toward models that understand how the world works. The next advances in AI may come from world models, which represent a quiet but decisive change in how machines become intelligent.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/when-ai-learns-how-the-world-works</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurity Firms Show Software Industry How to Navigate AI</title>
+      <link>https://www.goldmansachs.com/insights/articles/cybersecurity-firms-show-software-industry-how-to-navigate-ai</link>
+      <description>Cybersecurity firms use M&amp;amp;A and well-honed agility to handle disruptive technologies, offering lessons for a software industry bracing for competition from AI.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/cybersecurity-firms-show-software-industry-how-to-navigate-ai</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Big Opportunities in Small Cap Equities</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/big-opportunities-in-small-cap-equities</link>
+      <description>After years of underperformance, small-cap equities may be poised for a sustained rally. Where should investors look for opportunities? And can this momentum withstand macro volatility? Greg Tuorto, head of the US Small and SMID Cap team in Goldman Sachs Asset Management, discusses with Chris Hussey.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/big-opportunities-in-small-cap-equities</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Jobs AI Is Likely to Boost—and Those It May Disrupt</title>
+      <link>https://www.goldmansachs.com/insights/articles/the-jobs-ai-is-likely-to-boost-and-those-it-may-disrupt</link>
+      <description>While some jobs are being lost where AI can substitute for human labor, employment is increasing in roles where AI augments workers, according to Goldman Sachs Research economists.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-jobs-ai-is-likely-to-boost-and-those-it-may-disrupt</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>M&amp;A Volume Expected to Surge This Year Despite Economic Uncertainty</title>
+      <link>https://www.goldmansachs.com/insights/articles/ma-volume-expected-to-surge-this-year-despite-economic-uncertainty</link>
+      <description>This M&amp;amp;A cycle has a few years to run as big deals lead a surge in volume.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/ma-volume-expected-to-surge-this-year-despite-economic-uncertainty</guid>
+      <category>IPOs &amp; M&amp;A</category>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Winning the Right to Invest: 20VC’s Harry Stebbings</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/harry-stebbings</link>
+      <description>Harry Stebbings has transformed a bedroom podcast into a media and investment conglomerate, leveraging that platform to back ten unicorns. In conversation with Bobby Molavi, head of EMEA execution services and European primary distribution for Equity Capital Markets in Equities, Stebbings discusses his journey from an 18-year-old dropout to a leading venture capitalist, exploring how distribution and brand have become the ultimate weapons in a commoditized capital market. He shares his &amp;quot;science of content,&amp;quot; the shifting loyalty in early-stage investing, and why he believes Europe is currently the greatest opportunity in the venture landscape.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/harry-stebbings</guid>
+      <category>Entrepreneurship</category>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Warsh Could Shape Fed Policy</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-warsh-could-shape-fed-policy</link>
+      <description>How will President Trump’s nominee for the Federal Reserve, Kevin Warsh, shape monetary policy if confirmed as Fed chair? Goldman Sachs’ Rob Kaplan, vice chairman and the former president of the Dallas Fed, shares views on Warsh’s potential approach to monetary policy, balance sheet, and communications.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-warsh-could-shape-fed-policy</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cracks in Private Credit</title>
+      <link>https://www.goldmansachs.com/insights/top-of-mind/cracks-in-private-credit</link>
+      <description>After over a decade of rapid growth and relative calm, the private credit market has come under pressure.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/top-of-mind/cracks-in-private-credit</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Stocks Are Forecast to Rise 6% in 2026</title>
+      <link>https://www.goldmansachs.com/insights/articles/us-stocks-forecast-to-rise-in-2026</link>
+      <description>The US equity market is poised to reach new highs driven by strong earnings growth and massive AI investment, even as geopolitical risks and narrow market breadth warrant caution.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/us-stocks-forecast-to-rise-in-2026</guid>
+      <category>Markets</category>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robotaxis Are Forecast to Become a $400 Billion Market in 2035</title>
+      <link>https://www.goldmansachs.com/insights/articles/robotaxis-to-become-a-400-billion-dollar-market-in-2035</link>
+      <description>The global autonomous vehicle industry—spanning robotaxis, trucking, and consumer software—is moving from experimental concept to commercial reality faster than many expected.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/robotaxis-to-become-a-400-billion-dollar-market-in-2035</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Riding the AI Wave: Megacap Tech and the Fed</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/riding-the-ai-wave-megacap-tech-and-the-fed</link>
+      <description>After a divisive FOMC meeting, what policy shifts could lie ahead for the Fed? And what are tech giants’ earnings telling us about the AI trade? Anshul Sehgal, global co-head of Fixed Income, Currency and Commodities in Goldman Sachs Global Banking &amp;amp; Markets, discusses with Chris Hussey.&#13;
+</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/riding-the-ai-wave-megacap-tech-and-the-fed</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tracking Trillions: The Assumptions Shaping the Scale of the AI Build-Out</title>
+      <link>https://www.goldmansachs.com/insights/articles/tracking-trillions-the-assumptions-shaping-scale-of-the-ai-build-out</link>
+      <description>The AI CapEx debate is usually framed as a demand-side question—will adoption justify the spend?—but the size of the investment itself is not a single, fixed number.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/tracking-trillions-the-assumptions-shaping-scale-of-the-ai-build-out</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

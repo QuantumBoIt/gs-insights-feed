@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 May 2026 05:35:31 +0000</lastBuildDate>
-    <item>
-      <title>Which Equity Markets Will Outperform?</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/which-equity-markets-will-outperform</link>
-      <description>What factors could drive global equities in 2026 – and how should investors think about hedging their exposure? Kunal Shah, co-CEO of Goldman Sachs International and global co-head of the Fixed Income, Currency, and Commodities business, discusses with Chris Hussey.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/which-equity-markets-will-outperform</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 May 2026 04:07:50 +0000</lastBuildDate>
     <item>
       <title>Goldman Sachs Exchanges: Outlook 2026 Episode 3: Assets and Allocation</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-exchanges-outlook-2026-episode-3-assets-and-allocation</link>
@@ -817,6 +809,14 @@ make sense of this environment? Josh Schiffrin, Chief Strategy Officer and Head 
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/tracking-trillions-the-assumptions-shaping-scale-of-the-ai-build-out</guid>
       <category>Artificial Intelligence</category>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Energy Crunch Could Accelerate Europe’s Shift to Electrification</title>
+      <link>https://www.goldmansachs.com/insights/articles/the-energy-crunch-could-accelerate-europes-shift-to-electrification</link>
+      <description>A European push to reduce its reliance on imported natural gas and oil could boost electrification and prove an earnings boon to utilities investing in cleaner sources.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-energy-crunch-could-accelerate-europes-shift-to-electrification</guid>
+      <category>Energy</category>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

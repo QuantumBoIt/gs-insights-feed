@@ -22403,6 +22403,56 @@
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-us-recession-fears-are-likely-overblown"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/will-ai-make-markets-less-efficient": {
+      "content_hash": "1b248f37f3984156724c54fcdaeb5aab0e92e875fd2ca50d49b96a114b3e81f4",
+      "content_type": "Podcast",
+      "description": "How is AI changing investment strategies?",
+      "fetched_at": "2026-05-07T04:07:25+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-06T21:17:11.000Z",
+      "media": [
+        {
+          "kind": "podcast",
+          "local_path": "",
+          "poster": "",
+          "title": "Will AI Make Markets Less Efficient?",
+          "url": "https://playlist.megaphone.fm?e=GLD1159878203"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript: Will AI Make Markets Less Efficient?",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/will-ai-make-markets-less-efficient/transcript.pdf"
+        },
+        {
+          "kind": "podcast-platform",
+          "local_path": "",
+          "poster": "",
+          "title": "Spotify",
+          "url": "https://open.spotify.com/episode/5aGzunflLmhevVDn7U8flE"
+        },
+        {
+          "kind": "podcast-platform",
+          "local_path": "",
+          "poster": "",
+          "title": "Apple",
+          "url": "https://podcasts.apple.com/us/podcast/will-ai-make-markets-less-efficient/id948913991?i=1000766508409"
+        },
+        {
+          "kind": "podcast-platform",
+          "local_path": "",
+          "poster": "",
+          "title": "YouTube",
+          "url": "https://www.youtube.com/watch?v=bFo3LhdHZxg"
+        }
+      ],
+      "publish_date": "2026-05-06",
+      "removed": false,
+      "title": "Will AI Make Markets Less Efficient?",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/will-ai-make-markets-less-efficient"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/will-chinas-policy-stimulus-be-enough": {
       "content_hash": "067a2ea4dbc25154e7c1185a627c9da48e71e229f2e136abad72d4722b49bf4d",
       "content_type": "Podcast",

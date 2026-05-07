@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 May 2026 14:49:22 +0000</lastBuildDate>
-    <item>
-      <title>Goldman Sachs Exchanges: Outlook 2026 Episode 3: Assets and Allocation</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-exchanges-outlook-2026-episode-3-assets-and-allocation</link>
-      <description>In the third and final episode of the Goldman Sachs Exchanges Outlook 2026 series, Goldman Sachs Research’s Peter Oppenheimer, Kamakshya Trivedi, Daan Struyven, and Christian Mueller-Glissmann share the trends shaping assets and portfolio allocation in 2026.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-exchanges-outlook-2026-episode-3-assets-and-allocation</guid>
-      <category>Outlooks</category>
-      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 May 2026 04:07:25 +0000</lastBuildDate>
     <item>
       <title>Global FX 2026 Outlook: Different Dollar Downside</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-research/global-fx-outlook-2026-different-dollar-downside</link>
@@ -817,6 +809,14 @@ make sense of this environment? Josh Schiffrin, Chief Strategy Officer and Head 
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-energy-crunch-could-accelerate-europes-shift-to-electrification</guid>
       <category>Energy</category>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will AI Make Markets Less Efficient?</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/will-ai-make-markets-less-efficient</link>
+      <description>How is AI changing investment strategies?</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/will-ai-make-markets-less-efficient</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

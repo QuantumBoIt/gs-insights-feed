@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 08 May 2026 03:55:27 +0000</lastBuildDate>
-    <item>
-      <title>Global FX 2026 Outlook: Different Dollar Downside</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/global-fx-outlook-2026-different-dollar-downside</link>
-      <description>Goldman Sachs Research expects the dollar to continue weakening in 2026 as demand for US assets diminishes.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/global-fx-outlook-2026-different-dollar-downside</guid>
-      <category>Outlooks</category>
-      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 May 2026 14:18:23 +0000</lastBuildDate>
     <item>
       <title>Anastasia Soare: Building a Billion-Dollar Beauty Brand</title>
       <link>https://www.goldmansachs.com/insights/talks-at-gs/anastasia-soare</link>
@@ -817,6 +809,14 @@ make sense of this environment? Josh Schiffrin, Chief Strategy Officer and Head 
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/will-ai-make-markets-less-efficient</guid>
       <category>Artificial Intelligence</category>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Outlook for the US Consumer Amid Rising Inflation</title>
+      <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-the-us-consumer-amid-rising-inflation</link>
+      <description>Rising prices driven by disruptions to the flow of oil from the Middle East are having a measurable impact on US consumer spending.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-outlook-for-the-us-consumer-amid-rising-inflation</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

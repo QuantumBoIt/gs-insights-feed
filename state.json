@@ -6042,6 +6042,20 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-the-euro-and-the-british-pound"
     },
+    "https://www.goldmansachs.com/insights/articles/the-outlook-for-the-us-consumer-amid-rising-inflation": {
+      "content_hash": "360f1e173763592d8838af147948b0188e69f2cf3976b9c9300d20539b81d18a",
+      "content_type": "Article",
+      "description": "Rising prices driven by disruptions to the flow of oil from the Middle East are having a measurable impact on US consumer spending.",
+      "fetched_at": "2026-05-08T14:18:23+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-08T08:14:52.000Z",
+      "media": [],
+      "publish_date": "2026-05-08",
+      "removed": false,
+      "title": "The Outlook for the US Consumer Amid Rising Inflation",
+      "topic": "Macroeconomics",
+      "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-the-us-consumer-amid-rising-inflation"
+    },
     "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-supply-and-affordability": {
       "content_hash": "7fe79017843af982584740fd8c105bd059ebc7c63ae2451ec0827f59d3e34189",
       "content_type": "Article",

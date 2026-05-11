@@ -6046,13 +6046,13 @@
       "content_hash": "360f1e173763592d8838af147948b0188e69f2cf3976b9c9300d20539b81d18a",
       "content_type": "Article",
       "description": "Rising prices driven by disruptions to the flow of oil from the Middle East are having a measurable impact on US consumer spending.",
-      "fetched_at": "2026-05-08T14:18:23+00:00",
+      "fetched_at": "2026-05-11T04:38:12+00:00",
       "file_path": "",
-      "lastmod": "2026-05-08T08:14:52.000Z",
+      "lastmod": "2026-05-08T18:24:16.000Z",
       "media": [],
       "publish_date": "2026-05-08",
       "removed": false,
-      "title": "The Outlook for the US Consumer Amid Rising Inflation",
+      "title": "The Outlook for the US Consumer amid Rising Inflation",
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-the-us-consumer-amid-rising-inflation"
     },
@@ -43220,6 +43220,28 @@
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/the-markets/is-the-us-consumer-still-strong"
     },
+    "https://www.goldmansachs.com/insights/the-markets/jerome-dortmans-on-the-drivers-of-oil-markets": {
+      "content_hash": "7de22956ef4b0595e27f0b272a2444bf7c785e54dafe20982e4e6fd8fde49e9a",
+      "content_type": "Podcast",
+      "description": "Oil prices have fallen thanks to investor optimism that the Iran conflict could soon be resolved. But the situation may be more complicated than it appears, cautions Jerome Dortmans, co-head of Global Oil and Products Trading in Goldman Sachs Global Banking &amp; Markets. He discusses the drivers of the crude oil and refined product markets, as well as some potential trading opportunities, in this conversation with Chris Hussey.",
+      "fetched_at": "2026-05-11T04:38:10+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-08T15:04:43.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/jerome-dortmans-on-the-drivers-of-oil-markets/the-markets-jerome-dortmans-16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-69808_9667-26-019-Markets_Jerome-Dortmans_v2.mp4"
+        }
+      ],
+      "publish_date": "2026-05-08",
+      "removed": false,
+      "title": "Jerome Dortmans on the Drivers of Oil Markets",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/the-markets/jerome-dortmans-on-the-drivers-of-oil-markets"
+    },
     "https://www.goldmansachs.com/insights/the-markets/long-gold-and-long-stocks": {
       "content_hash": "65c0ecf8f33a84ea15f8c9e37c056d2a1265cebba6299422b870a56c742676e5",
       "content_type": "Podcast",
@@ -48941,6 +48963,35 @@
       "title": "Millennial and Gen Z values could change the economy",
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/videos/millenial-and-gen-z-values-could-change-the-economy"
+    },
+    "https://www.goldmansachs.com/insights/videos/more-record-highs-ahead": {
+      "content_hash": "263116720ec82ad6a8cd26eafab6c46b283cb4461eb251b513f59b9ef0357072",
+      "content_type": "Video",
+      "description": "Are more record highs ahead for the S&amp;P 500? Brian Garrett, head of equity execution on the Cross Asset Sales desk in Global Banking &amp; Markets, separates the signal from the noise.",
+      "fetched_at": "2026-05-11T04:38:11+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-08T14:31:12.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/videos/more-record-highs-ahead/brian_garrett_16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-69790_9671_Ep26-006_Brian_Garrett_16x9_v1_AKAMAI.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/videos/more-record-highs-ahead/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-05-08",
+      "removed": false,
+      "title": "More Record Highs Ahead?",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/videos/more-record-highs-ahead"
     },
     "https://www.goldmansachs.com/insights/videos/opportunity-in-healthcare-stocks": {
       "content_hash": "c6cdb979905818e4b4904d7663fac749792e1915c399984aa9ffeb28884aeac2",

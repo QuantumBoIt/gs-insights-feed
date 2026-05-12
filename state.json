@@ -7802,6 +7802,20 @@
       "topic": "Artificial Intelligence",
       "url": "https://www.goldmansachs.com/insights/articles/will-the-1-trillion-of-generative-ai-investment-pay-off"
     },
+    "https://www.goldmansachs.com/insights/articles/will-the-corporate-investment-in-ai-pay-off": {
+      "content_hash": "4ad0ec194a8fd44d1742c9f5b268d4b02cea8d42448ae11f132ae6f5732760fe",
+      "content_type": "Article",
+      "description": "While consumer AI adoption has been spectacular, most users rely on free versions. Successful enterprise adoption will be critical for AI economics to work, according to Goldman Sachs Research. ",
+      "fetched_at": "2026-05-12T04:07:54+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-11T08:53:24.000Z",
+      "media": [],
+      "publish_date": "2026-05-11",
+      "removed": false,
+      "title": "Will the Corporate Investment in AI Pay Off?",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/will-the-corporate-investment-in-ai-pay-off"
+    },
     "https://www.goldmansachs.com/insights/articles/will-the-rebound-in-chinese-stocks-continue": {
       "content_hash": "e46c6314dacc77ef2cb5b011ac2a1f53ebedb82452c61c27b7bdea34a1a82d7d",
       "content_type": "Article",
@@ -17806,6 +17820,56 @@
       "title": "Commodities Outlook: What’s Driving Oil, Gold, and Base Metals",
       "topic": "Geopolitics",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/commodities-outlook-whats-driving-oil-gold-and-base-metals"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/cracks-in-private-credit": {
+      "content_hash": "540bb20332f2110deabc8ab400b8694428b217ac80bfb973ee0ccf5b52d61e50",
+      "content_type": "Podcast",
+      "description": "After over a decade of rapid growth and relative calm, the private credit market has come under pressure as several high-profile defaults, concerns about valuations, and exposure to a software industry vulnerable to AI disruption have fueled a surge in redemption requests.",
+      "fetched_at": "2026-05-12T04:07:52+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-11T18:20:36.000Z",
+      "media": [
+        {
+          "kind": "podcast",
+          "local_path": "",
+          "poster": "",
+          "title": "Cracks in Private Credit",
+          "url": "https://playlist.megaphone.fm?e=GLD2803079262"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript: Cracks in Private Credit",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/cracks-in-private-credit/final-transcript.pdf"
+        },
+        {
+          "kind": "podcast-platform",
+          "local_path": "",
+          "poster": "",
+          "title": "Spotify",
+          "url": "https://open.spotify.com/episode/5EKMU57NQ6GGpYke68LzFi"
+        },
+        {
+          "kind": "podcast-platform",
+          "local_path": "",
+          "poster": "",
+          "title": "Apple",
+          "url": "https://podcasts.apple.com/us/podcast/cracks-in-private-credit/id948913991?i=1000767228844"
+        },
+        {
+          "kind": "podcast-platform",
+          "local_path": "",
+          "poster": "",
+          "title": "YouTube",
+          "url": "https://www.youtube.com/watch?v=TlidN7Y1Tis&t=899s"
+        }
+      ],
+      "publish_date": "2026-05-11",
+      "removed": false,
+      "title": "Cracks in Private Credit",
+      "topic": "Alternatives & Private Markets",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/cracks-in-private-credit"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/culture-is-everything-sixth-streets-alan-waxman-on-flexibility-and-alpha": {
       "content_hash": "153dd6f64cd98ffb4da8f3068bb49687fba0fe01a5e5f2691507475da7834c5e",
@@ -43221,12 +43285,12 @@
       "url": "https://www.goldmansachs.com/insights/the-markets/is-the-us-consumer-still-strong"
     },
     "https://www.goldmansachs.com/insights/the-markets/jerome-dortmans-on-the-drivers-of-oil-markets": {
-      "content_hash": "7de22956ef4b0595e27f0b272a2444bf7c785e54dafe20982e4e6fd8fde49e9a",
+      "content_hash": "443b28f0302359c52c36f7b640f2eb66912964f1cb51ae94021b4d098ab96e62",
       "content_type": "Podcast",
       "description": "Oil prices have fallen thanks to investor optimism that the Iran conflict could soon be resolved. But the situation may be more complicated than it appears, cautions Jerome Dortmans, co-head of Global Oil and Products Trading in Goldman Sachs Global Banking &amp; Markets. He discusses the drivers of the crude oil and refined product markets, as well as some potential trading opportunities, in this conversation with Chris Hussey.",
-      "fetched_at": "2026-05-11T04:38:10+00:00",
+      "fetched_at": "2026-05-12T04:07:55+00:00",
       "file_path": "",
-      "lastmod": "2026-05-08T15:04:43.000Z",
+      "lastmod": "2026-05-11T16:22:59.000Z",
       "media": [
         {
           "kind": "video",
@@ -43234,6 +43298,13 @@
           "poster": "https://www.goldmansachs.com/images/insights/the-markets/jerome-dortmans-on-the-drivers-of-oil-markets/the-markets-jerome-dortmans-16x9.jpg",
           "title": "Video",
           "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-69808_9667-26-019-Markets_Jerome-Dortmans_v2.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/jerome-dortmans-on-the-drivers-of-oil-markets/transcript.pdf"
         }
       ],
       "publish_date": "2026-05-08",
@@ -46969,9 +47040,9 @@
       "content_hash": "f63f1cdf66502ee3afc22964836aad3b9399c03035e05acb07ff5876a94d7771",
       "content_type": "Report",
       "description": "After over a decade of rapid growth and relative calm, the private credit market has come under pressure.",
-      "fetched_at": "2026-05-04T22:11:39+00:00",
+      "fetched_at": "2026-05-12T04:07:53+00:00",
       "file_path": "",
-      "lastmod": "2026-05-03T12:33:17.000Z",
+      "lastmod": "2026-05-11T18:23:34.000Z",
       "media": [
         {
           "kind": "pdf-report",

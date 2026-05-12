@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 May 2026 04:07:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 15:09:45 +0000</lastBuildDate>
     <item>
       <title>Goldman Sachs Chairman and CEO David Solomon on AI, M&amp;A, and Markets</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-chairman-and-ceo-david-solomon-on-ai-m-and-a-and-markets</link>
@@ -805,19 +805,19 @@ make sense of this environment? Josh Schiffrin, Chief Strategy Officer and Head 
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Will the Corporate Investment in AI Pay Off?</title>
-      <link>https://www.goldmansachs.com/insights/articles/will-the-corporate-investment-in-ai-pay-off</link>
-      <description>While consumer AI adoption has been spectacular, most users rely on free versions. Successful enterprise adoption will be critical for AI economics to work, according to Goldman Sachs Research. </description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/will-the-corporate-investment-in-ai-pay-off</guid>
-      <category>Markets</category>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cracks in Private Credit</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/cracks-in-private-credit</link>
       <description>After over a decade of rapid growth and relative calm, the private credit market has come under pressure as several high-profile defaults, concerns about valuations, and exposure to a software industry vulnerable to AI disruption have fueled a surge in redemption requests.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/cracks-in-private-credit</guid>
       <category>Alternatives &amp; Private Markets</category>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will the Corporate Investment in AI Pay Off?</title>
+      <link>https://www.goldmansachs.com/insights/articles/will-the-corporate-investment-in-ai-pay-off</link>
+      <description>While consumer AI adoption has been spectacular, most users rely on free versions. Successful enterprise adoption will be critical for AI economics to work, according to Goldman Sachs Research. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/will-the-corporate-investment-in-ai-pay-off</guid>
+      <category>Markets</category>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

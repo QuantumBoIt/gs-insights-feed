@@ -17825,9 +17825,9 @@
       "content_hash": "540bb20332f2110deabc8ab400b8694428b217ac80bfb973ee0ccf5b52d61e50",
       "content_type": "Podcast",
       "description": "After over a decade of rapid growth and relative calm, the private credit market has come under pressure as several high-profile defaults, concerns about valuations, and exposure to a software industry vulnerable to AI disruption have fueled a surge in redemption requests.",
-      "fetched_at": "2026-05-12T04:07:52+00:00",
+      "fetched_at": "2026-05-13T04:14:42+00:00",
       "file_path": "",
-      "lastmod": "2026-05-11T18:20:36.000Z",
+      "lastmod": "2026-05-12T18:27:13.000Z",
       "media": [
         {
           "kind": "podcast",
@@ -25477,6 +25477,28 @@
       "title": "Green Metals: Nickel’s Class Divide",
       "topic": "Climate Transition",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/nickels-class-divide"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-research/optical-networking-the-next-mega-trend-in-ai-infrastructure": {
+      "content_hash": "7127f7e777deb602c8e066d9c7d09f669fc616b8471c557c54459a81140e7a7d",
+      "content_type": "Report",
+      "description": "Goldman Sachs Research forecasts the total addressable market (TAM) for the AI networking sector to increase by 9 times to $154 billion.",
+      "fetched_at": "2026-05-13T04:14:41+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-12T15:26:42.000Z",
+      "media": [
+        {
+          "kind": "pdf-report",
+          "local_path": "",
+          "poster": "",
+          "title": "Read the Report",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/optical-networking-the-next-mega-trend-in-ai-infrastructure/report.pdf"
+        }
+      ],
+      "publish_date": "2026-05-12",
+      "removed": false,
+      "title": "Optical Networking: The Next Mega Trend in AI Infrastructure",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/optical-networking-the-next-mega-trend-in-ai-infrastructure"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-research/outlook-2022-the-long-road-to-higher-rates": {
       "content_hash": "b210cd6af58a8c0e493166162a588ba7e039ad28d6e73c5699705846e3c840b8",

@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 May 2026 15:09:45 +0000</lastBuildDate>
-    <item>
-      <title>Goldman Sachs Chairman and CEO David Solomon on AI, M&amp;A, and Markets</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-chairman-and-ceo-david-solomon-on-ai-m-and-a-and-markets</link>
-      <description>Goldman Sachs Chairman and CEO David Solomon discusses AI, M&amp;amp;A, and the firm’s path forward. &#13;
-This episode was recorded on January 20th, 2026.&#13;
-</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-chairman-and-ceo-david-solomon-on-ai-m-and-a-and-markets</guid>
-      <category>IPOs &amp; M&amp;A</category>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 04:14:42 +0000</lastBuildDate>
     <item>
       <title>Why Record-High Copper Prices Aren’t Forecast to Last</title>
       <link>https://www.goldmansachs.com/insights/articles/why-record-high-copper-prices-arent-forecast-to-last</link>
@@ -819,6 +809,14 @@ make sense of this environment? Josh Schiffrin, Chief Strategy Officer and Head 
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/will-the-corporate-investment-in-ai-pay-off</guid>
       <category>Markets</category>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optical Networking: The Next Mega Trend in AI Infrastructure</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/optical-networking-the-next-mega-trend-in-ai-infrastructure</link>
+      <description>Goldman Sachs Research forecasts the total addressable market (TAM) for the AI networking sector to increase by 9 times to $154 billion.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/optical-networking-the-next-mega-trend-in-ai-infrastructure</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

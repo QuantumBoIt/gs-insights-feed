@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 May 2026 04:14:42 +0000</lastBuildDate>
-    <item>
-      <title>Why Record-High Copper Prices Aren’t Forecast to Last</title>
-      <link>https://www.goldmansachs.com/insights/articles/why-record-high-copper-prices-arent-forecast-to-last</link>
-      <description>A copper rally has pushed prices above their fair fundamental value, but a correction could hinge on US tariff policy.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-record-high-copper-prices-arent-forecast-to-last</guid>
-      <category>Macroeconomics</category>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 15:15:48 +0000</lastBuildDate>
     <item>
       <title>German Economic Outlook: 1.1% Growth in 2026</title>
       <link>https://www.goldmansachs.com/insights/articles/german-economic-outlook-growth-in-2026</link>
@@ -817,6 +809,14 @@ make sense of this environment? Josh Schiffrin, Chief Strategy Officer and Head 
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/optical-networking-the-next-mega-trend-in-ai-infrastructure</guid>
       <category>Artificial Intelligence</category>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s Exports Are Expected to Slow Before Green Energy Surge</title>
+      <link>https://www.goldmansachs.com/insights/articles/chinas-exports-are-expected-to-slow-before-green-energy-surge</link>
+      <description>China&amp;#x27;s export growth is under near-term pressure as the Middle East energy shock dampens demand. But the crisis may accelerate global clean energy adoption, a business China dominates.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/chinas-exports-are-expected-to-slow-before-green-energy-surge</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

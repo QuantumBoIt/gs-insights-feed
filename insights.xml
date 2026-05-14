@@ -8,22 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 May 2026 15:15:48 +0000</lastBuildDate>
-    <item>
-      <title>German Economic Outlook: 1.1% Growth in 2026</title>
-      <link>https://www.goldmansachs.com/insights/articles/german-economic-outlook-growth-in-2026</link>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/german-economic-outlook-growth-in-2026</guid>
-      <category>Outlooks</category>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Edward Norton: From Hollywood to High-Impact Entrepreneurship</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/ed-norton</link>
-      <description>Edward Norton joins Kim Posnett to discuss the parallels between filmmaking and entrepreneurship, the importance of mission-driven work, and the lessons learned from building teams and driving innovation.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/ed-norton</guid>
-      <category>Entrepreneurship</category>
-      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 May 2026 04:14:11 +0000</lastBuildDate>
     <item>
       <title>Will US Stocks Outperform in 2026?</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/will-us-stocks-outperform-in-2026</link>
@@ -809,6 +794,21 @@ make sense of this environment? Josh Schiffrin, Chief Strategy Officer and Head 
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/optical-networking-the-next-mega-trend-in-ai-infrastructure</guid>
       <category>Artificial Intelligence</category>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Innovation and Inflation: Twin Forces Reshaping Portfolios</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/innovation-and-inflation-twin-forces-reshaping-portfolios</link>
+      <description>Technology stocks have staged a formidable rally, elevating innovation from a thematic tilt to a core portfolio driver. Yet this tailwind arrives alongside a recurring challenge — an inflationary environment in which traditional fixed-income hedges have fallen short. Together, these forces are pushing asset allocators toward a fundamental rethink of portfolio construction, as Goldman Sachs&amp;#x27; Christian Mueller-Glissmann and Alexandra Wilson-Elizondo discuss on Goldman Sachs Exchanges.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/innovation-and-inflation-twin-forces-reshaping-portfolios</guid>
+      <category>Technology</category>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>McLaren Racing's Lando Norris and Zak Brown: Building a High-Performance Team</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/mclaren-racing</link>
+      <description>McLaren Racing returned to the forefront of Formula 1 through a culture of collaboration. Lando Norris, the 2025 Formula 1 World Drivers’ Champion, and Zak Brown, CEO of McLaren Racing, joined Anthony Gutman, Co-CEO of Goldman Sachs International, to discuss McLaren’s team-first approach to performance, the evolving technical landscape of Formula 1, and what has fueled the team’s resurgence. This episode was recorded on March 18, 2026.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/mclaren-racing</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>China’s Exports Are Expected to Slow Before Green Energy Surge</title>

@@ -19477,6 +19477,35 @@
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/inflation-economy-david-mericle"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/innovation-and-inflation-twin-forces-reshaping-portfolios": {
+      "content_hash": "9c4cebc02cd6cec659add53dd4ab938165c4dff64b2aea105fbb74bc0bd456c2",
+      "content_type": "Podcast",
+      "description": "Technology stocks have staged a formidable rally, elevating innovation from a thematic tilt to a core portfolio driver. Yet this tailwind arrives alongside a recurring challenge — an inflationary environment in which traditional fixed-income hedges have fallen short. Together, these forces are pushing asset allocators toward a fundamental rethink of portfolio construction, as Goldman Sachs&#x27; Christian Mueller-Glissmann and Alexandra Wilson-Elizondo discuss on Goldman Sachs Exchanges.",
+      "fetched_at": "2026-05-14T04:14:11+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-13T15:31:40.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/innovation-and-inflation-twin-forces-reshaping-portfolios/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-69867_9666_Ep26-023_Exchanges_GlissmannWilson-_Elizondo.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/innovation-and-inflation-twin-forces-reshaping-portfolios/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-05-13",
+      "removed": false,
+      "title": "Innovation and Inflation: Twin Forces Reshaping Portfolios",
+      "topic": "Technology",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/innovation-and-inflation-twin-forces-reshaping-portfolios"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/insurance-survey-siegel-armas": {
       "content_hash": "1430d0b4e1d533fa31ac047c075ee54ead08baef421c8c7e971da59320160267",
       "content_type": "Podcast",
@@ -36140,6 +36169,35 @@
       "title": "Mayors LaToya Cantrell, Eric Johnson, and Nan Whaley",
       "topic": "Strategy & Leadership",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/mayors-cantrell-johnson-whaley"
+    },
+    "https://www.goldmansachs.com/insights/talks-at-gs/mclaren-racing": {
+      "content_hash": "ac572e1c91a4e57cfc834e6165ed943465716224c47053b30cdf50b7928f30f8",
+      "content_type": "Video",
+      "description": "McLaren Racing returned to the forefront of Formula 1 through a culture of collaboration. Lando Norris, the 2025 Formula 1 World Drivers’ Champion, and Zak Brown, CEO of McLaren Racing, joined Anthony Gutman, Co-CEO of Goldman Sachs International, to discuss McLaren’s team-first approach to performance, the evolving technical landscape of Formula 1, and what has fueled the team’s resurgence. This episode was recorded on March 18, 2026.",
+      "fetched_at": "2026-05-14T04:14:10+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-13T19:14:15.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/mclaren-racing/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-69906_9723_Ep26-010_TAGS_Brown_Norris_V9_HIGHLIGHTS.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/mclaren-racing/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-05-13",
+      "removed": false,
+      "title": "McLaren Racing's Lando Norris and Zak Brown: Building a High-Performance Team",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/mclaren-racing"
     },
     "https://www.goldmansachs.com/insights/talks-at-gs/medal-of-honor": {
       "content_hash": "f1b517af1dfcd6c72e55c9d9eb065e3dae981f086d32d2c47e9874087bca8eb4",

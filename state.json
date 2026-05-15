@@ -5223,6 +5223,28 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/articles/s-and-p-500-projected-to-rally-more-than-expected"
     },
+    "https://www.goldmansachs.com/insights/articles/securing-and-financing-the-future-of-water": {
+      "content_hash": "05218b9b00ee0d1fee7c181d8cff38b87775f3bfe61ed7eafa6a84a8a225b772",
+      "content_type": "Article",
+      "description": "",
+      "fetched_at": "2026-05-15T04:20:08+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-14T20:58:22.000Z",
+      "media": [
+        {
+          "kind": "pdf-report",
+          "local_path": "",
+          "poster": "",
+          "title": "Download the Report",
+          "url": "https://www.goldmansachs.com/pdfs/insights/articles/securing-and-financing-the-future-of-water/GS_GSGI_Securing-and-Financing-Water.pdf"
+        }
+      ],
+      "publish_date": "2026-05-14",
+      "removed": false,
+      "title": "Securing and Financing the Future of Water",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/articles/securing-and-financing-the-future-of-water"
+    },
     "https://www.goldmansachs.com/insights/articles/sfi": {
       "content_hash": "d56baeaed4960d23ed9cf561edfe46a6b249e897cf22aa5c4750b040a673b92d",
       "content_type": "Article",

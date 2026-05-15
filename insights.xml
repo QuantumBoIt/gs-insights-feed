@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 May 2026 14:44:01 +0000</lastBuildDate>
-    <item>
-      <title>Will US Stocks Outperform in 2026?</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/will-us-stocks-outperform-in-2026</link>
-      <description>Goldman Sachs’ Sharmin Mossavar-Rahmani, head of the Investment Strategy Group and chief investment officer of Wealth Management, shares her team’s investment views for the year ahead. Find all our outlooks for the year ahead here.&#13;
-This episode was recorded on January 9, 2026.&#13;
-</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/will-us-stocks-outperform-in-2026</guid>
-      <category>Outlooks</category>
-      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 May 2026 04:20:08 +0000</lastBuildDate>
     <item>
       <title>How AI is Driving Drug Discovery: Xaira Therapeutics' Marc Tessier Lavigne</title>
       <link>https://www.goldmansachs.com/insights/talks-at-gs/marc-tessier-levigne</link>
@@ -817,6 +807,12 @@ make sense of this environment? Josh Schiffrin, Chief Strategy Officer and Head 
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/chinas-exports-are-expected-to-slow-before-green-energy-surge</guid>
       <category>Macroeconomics</category>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing and Financing the Future of Water</title>
+      <link>https://www.goldmansachs.com/insights/articles/securing-and-financing-the-future-of-water</link>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/securing-and-financing-the-future-of-water</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

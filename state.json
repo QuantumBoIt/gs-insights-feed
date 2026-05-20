@@ -7712,6 +7712,20 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/articles/why-this-yield-curve-may-not-signal-a-us-recession"
     },
+    "https://www.goldmansachs.com/insights/articles/why-uk-gilt-yields-are-climbing": {
+      "content_hash": "9bb37f085de5b6276b2e3ac371a19e36f3d5ebb557aaff4c2bf514d8c9a07e89",
+      "content_type": "Article",
+      "description": "UK government bond yields have soared amid growing political uncertainty, with questions over the future direction of fiscal policy.",
+      "fetched_at": "2026-05-20T04:38:18+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-19T20:43:43.000Z",
+      "media": [],
+      "publish_date": "2026-05-19",
+      "removed": false,
+      "title": "Why UK Gilt Yields Are Climbing",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/why-uk-gilt-yields-are-climbing"
+    },
     "https://www.goldmansachs.com/insights/articles/why-us-small-businesses-are-on-strong-footing-as-interest-rates-rise": {
       "content_hash": "f447f31ea3c668fabc73595cd8426c45cbb9ce31cc89fa1d7add878311ae8828",
       "content_type": "Article",
@@ -17670,6 +17684,35 @@
       "title": "Can Software Survive AI? ",
       "topic": "Artificial Intelligence",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/can-software-survive-ai"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/can-the-asia-equity-rally-continue": {
+      "content_hash": "fce2e6ab4ff1f6f6bac52e12e3c4030951d659c287580c7925ac33d7193006ac",
+      "content_type": "Podcast",
+      "description": "The equity story across Asia has split into two very different paths this year, with North Asian markets pulling ahead on the strength of the artificial intelligence trade while remaining more insulated from the energy supply shock tied to the Middle East. Goldman Sachs Research&#x27;s Tim Moe explains what is driving the divergence, why he sees the semiconductor memory cycle lasting three to five years, and what could determine whether North Asia&#x27;s outperformance continues.",
+      "fetched_at": "2026-05-20T04:38:19+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-19T18:03:13.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/can-the-asia-equity-rally-continue/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-69996_9666_Ep26-033_Exchanges_Tim_Moe_FullPodcast_1.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/can-the-asia-equity-rally-continue/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-05-19",
+      "removed": false,
+      "title": "Can the Asia Equity Rally Continue?",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/can-the-asia-equity-rally-continue"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/can-the-us-consumer-stay-strong": {
       "content_hash": "bd15ec1c8a9ed3617ba5cd126e717c2c39ba687fa1e428819db1e62305c26681",

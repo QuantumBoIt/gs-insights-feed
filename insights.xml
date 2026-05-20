@@ -8,16 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 May 2026 04:38:19 +0000</lastBuildDate>
-    <item>
-      <title>Poppi Founders: Disrupting the Beverage Industry</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/allison-and-stephen-ellsworth</link>
-      <description>Poppi began as a kitchen experiment with apple cider vinegar and has grown into a leading beverage brand, which was recently acquired by PepsiCo for nearly $2 billion. Allison and Stephen Ellsworth, co-founders of Poppi, joined Vanya Kasanof to share the brand’s journey to becoming a digital-first sensation and a category leader. They discuss Poppi’s rapid rise, the power of intuition and culture, and how a relentless focus on brand and community propelled them from farmers markets to a landmark Super Bowl ad. This session was recorded at the 2025 Goldman Sachs Builders and Innovators Summit on October 15, 2025.&#13;
-&#13;
-</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/allison-and-stephen-ellsworth</guid>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 15:58:38 +0000</lastBuildDate>
     <item>
       <title>Productivity Stagnation in the Construction Industry: An International Perspective</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-research/productivity-stagnation-in-construction-industry</link>
@@ -822,6 +813,14 @@ Goldman Sachs does not endorse any candidate or any political party.&#13;
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-uk-gilt-yields-are-climbing</guid>
       <category>Markets</category>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Data Center Power Demand Projected to Double by 2027</title>
+      <link>https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027</link>
+      <description>US data center power demand is forecast to surge from 31 GW in 2025 to 66 GW by 2027, driven by AI expansion, with implications for regional electricity markets and grid reliability.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6533,6 +6533,20 @@
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/articles/us-assets-will-benefit-from-steady-growth-and-persistent-advantages"
     },
+    "https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027": {
+      "content_hash": "9ba2483e63b8317218957fe1136030de711a61a9cf5c32a734557e94a1a5b250",
+      "content_type": "Article",
+      "description": "US data center power demand is forecast to surge from 31 GW in 2025 to 66 GW by 2027, driven by AI expansion, with implications for regional electricity markets and grid reliability.",
+      "fetched_at": "2026-05-20T15:58:38+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-20T10:26:55.000Z",
+      "media": [],
+      "publish_date": "2026-05-20",
+      "removed": false,
+      "title": "US Data Center Power Demand Projected to Double by 2027",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027"
+    },
     "https://www.goldmansachs.com/insights/articles/us-earnings-will-start-to-show-the-impact-of-trumps-tariffs": {
       "content_hash": "af95af88b156e47a98f1673701dacf48b0e766dce52daf81e0c57ce16a8937ad",
       "content_type": "Article",
@@ -17686,12 +17700,12 @@
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/can-software-survive-ai"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/can-the-asia-equity-rally-continue": {
-      "content_hash": "fce2e6ab4ff1f6f6bac52e12e3c4030951d659c287580c7925ac33d7193006ac",
+      "content_hash": "e2a7e8f0678b1ed3da2dadaa0558fc34cd92fb9f6fd54479e0b66857f2df34e8",
       "content_type": "Podcast",
       "description": "The equity story across Asia has split into two very different paths this year, with North Asian markets pulling ahead on the strength of the artificial intelligence trade while remaining more insulated from the energy supply shock tied to the Middle East. Goldman Sachs Research&#x27;s Tim Moe explains what is driving the divergence, why he sees the semiconductor memory cycle lasting three to five years, and what could determine whether North Asia&#x27;s outperformance continues.",
-      "fetched_at": "2026-05-20T04:38:19+00:00",
+      "fetched_at": "2026-05-20T15:58:37+00:00",
       "file_path": "",
-      "lastmod": "2026-05-19T18:03:13.000Z",
+      "lastmod": "2026-05-20T13:18:03.000Z",
       "media": [
         {
           "kind": "video",

@@ -194,9 +194,9 @@
       "content_hash": "3f450caf6d817b611292036ae39c37aceb11c31b365e3ae7a4834d696d78ee64",
       "content_type": "Article",
       "description": "Demand for Agentic AI is poised to soar at the same time costs for hyperscalers are falling, setting the stage for improved gross margins and a fresh look at the sector’s sustainability.",
-      "fetched_at": "2026-05-21T04:46:20+00:00",
+      "fetched_at": "2026-05-21T15:52:50+00:00",
       "file_path": "",
-      "lastmod": "2026-05-20T16:16:14.000Z",
+      "lastmod": "2026-05-21T09:16:46.000Z",
       "media": [],
       "publish_date": "2026-05-20",
       "removed": false,
@@ -4390,6 +4390,20 @@
       "title": "Highlights from the Private Internet Company Conference: BuzzFeed’s Jonah Peretti",
       "topic": "Strategy & Leadership",
       "url": "https://www.goldmansachs.com/insights/articles/jonah-peretti-picc"
+    },
+    "https://www.goldmansachs.com/insights/articles/koreas-stock-market-is-forecast-to-set-fresh-highs": {
+      "content_hash": "c941edd134b1b76d8376454d6f270c6985b96550ebc46f23fd19db6c2ba7216f",
+      "content_type": "Article",
+      "description": "Goldman Sachs Research lifted its KOSPI target to 9,000, citing a 300% earnings surge and a supercycle in memory chips that could power Asia’s rally.",
+      "fetched_at": "2026-05-21T15:52:51+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-21T08:40:25.000Z",
+      "media": [],
+      "publish_date": "2026-05-21",
+      "removed": false,
+      "title": "Korea’s Stock Market Is Forecast to Set Fresh Highs",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/koreas-stock-market-is-forecast-to-set-fresh-highs"
     },
     "https://www.goldmansachs.com/insights/articles/latin-america-predicted-to-post-modest-growth-amid-upheaval-in-venezuela": {
       "content_hash": "bfadfba2f0246ed996d3f21a212ebbd455860e8219663c6836416fdc83ca73c4",
@@ -28441,6 +28455,35 @@
       "title": "Kenneth Langone and Neal Goldman, The Science of Relationships",
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/business-relationships"
+    },
+    "https://www.goldmansachs.com/insights/talks-at-gs/caitlin-clark": {
+      "content_hash": "b1e3c8c4b83cfdb58a649da7a87ce56bbb2fad76dc1a23f2c7769680886a83db",
+      "content_type": "Video",
+      "description": "Caitlin Clark has become a sports and cultural icon, but her success is rooted in a grounded upbringing and a relentless focus on basketball fundamentals. She joins John Mallory, global co-head of Wealth Management, to discuss insights on her early love of the game, the transition from college to the pros, what last season’s injuries taught her about leadership, and the future of the WNBA amid global expansion. ",
+      "fetched_at": "2026-05-21T15:52:52+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-21T14:11:48.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/caitlin-clark/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-69563_9723_Ep26-006-Talks_at_GS_with_Caitlin_Clark-Session_Highlights.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/caitlin-clark/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-05-21",
+      "removed": false,
+      "title": "Caitlin Clark on Navigating Pressure and the Future of the WNBA",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/caitlin-clark"
     },
     "https://www.goldmansachs.com/insights/talks-at-gs/candace-parker": {
       "content_hash": "6259d93f6b69ee5b48394f50c074bf66a3e99d0c8a166352ee59f63b8b1c8d46",

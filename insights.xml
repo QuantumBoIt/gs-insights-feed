@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 21 May 2026 04:46:20 +0000</lastBuildDate>
-    <item>
-      <title>Implications of an “Americas First” Foreign Policy</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/implications-of-an-americas-first-foreign-policy</link>
-      <description>What could more assertive US foreign policy in the Western Hemisphere — driven by the so-called “Donroe Doctrine”— mean for the global order?</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/implications-of-an-americas-first-foreign-policy</guid>
-      <category>Geopolitics</category>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will Japanese Stocks Rally to Fresh Record Highs?</title>
-      <link>https://www.goldmansachs.com/insights/articles/will-japanese-stocks-rally-to-fresh-record-highs</link>
-      <description>Goldman Sachs Research expects a central bank rate hike and US reindustrialization to help boost Japan’s stock market in 2026.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/will-japanese-stocks-rally-to-fresh-record-highs</guid>
-      <category>Markets</category>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 May 2026 15:52:52 +0000</lastBuildDate>
     <item>
       <title>Inside the Future of Payments: Adyen CEO</title>
       <link>https://www.goldmansachs.com/insights/talks-at-gs/pieter-van-der-does</link>
@@ -807,6 +791,14 @@ Goldman Sachs does not endorse any candidate or any political party.&#13;
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>US Data Center Power Demand Projected to Double by 2027</title>
+      <link>https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027</link>
+      <description>US data center power demand is forecast to surge from 31 GW in 2025 to 66 GW by 2027, driven by AI expansion, with implications for regional electricity markets and grid reliability.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>AI Agents Forecast to Boost Tech Cash Flow as Usage Soars</title>
       <link>https://www.goldmansachs.com/insights/articles/ai-agents-forecast-to-boost-tech-cash-flow-as-usage-soars</link>
       <description>Demand for Agentic AI is poised to soar at the same time costs for hyperscalers are falling, setting the stage for improved gross margins and a fresh look at the sector’s sustainability.</description>
@@ -815,12 +807,19 @@ Goldman Sachs does not endorse any candidate or any political party.&#13;
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>US Data Center Power Demand Projected to Double by 2027</title>
-      <link>https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027</link>
-      <description>US data center power demand is forecast to surge from 31 GW in 2025 to 66 GW by 2027, driven by AI expansion, with implications for regional electricity markets and grid reliability.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027</guid>
-      <category>Artificial Intelligence</category>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <title>Caitlin Clark on Navigating Pressure and the Future of the WNBA</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/caitlin-clark</link>
+      <description>Caitlin Clark has become a sports and cultural icon, but her success is rooted in a grounded upbringing and a relentless focus on basketball fundamentals. She joins John Mallory, global co-head of Wealth Management, to discuss insights on her early love of the game, the transition from college to the pros, what last season’s injuries taught her about leadership, and the future of the WNBA amid global expansion. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/caitlin-clark</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Korea’s Stock Market Is Forecast to Set Fresh Highs</title>
+      <link>https://www.goldmansachs.com/insights/articles/koreas-stock-market-is-forecast-to-set-fresh-highs</link>
+      <description>Goldman Sachs Research lifted its KOSPI target to 9,000, citing a 300% earnings surge and a supercycle in memory chips that could power Asia’s rally.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/koreas-stock-market-is-forecast-to-set-fresh-highs</guid>
+      <category>Markets</category>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

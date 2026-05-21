@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 May 2026 15:58:38 +0000</lastBuildDate>
-    <item>
-      <title>Productivity Stagnation in the Construction Industry: An International Perspective</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/productivity-stagnation-in-construction-industry</link>
-      <description>From 1970 to 2024, productivity in the US construction industry fell by 30% while economy-wide productivity more than doubled.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/productivity-stagnation-in-construction-industry</guid>
-      <category>Real Estate &amp; Housing</category>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 May 2026 04:46:20 +0000</lastBuildDate>
     <item>
       <title>Implications of an “Americas First” Foreign Policy</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/implications-of-an-americas-first-foreign-policy</link>
@@ -813,6 +805,14 @@ Goldman Sachs does not endorse any candidate or any political party.&#13;
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-uk-gilt-yields-are-climbing</guid>
       <category>Markets</category>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agents Forecast to Boost Tech Cash Flow as Usage Soars</title>
+      <link>https://www.goldmansachs.com/insights/articles/ai-agents-forecast-to-boost-tech-cash-flow-as-usage-soars</link>
+      <description>Demand for Agentic AI is poised to soar at the same time costs for hyperscalers are falling, setting the stage for improved gross margins and a fresh look at the sector’s sustainability.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/ai-agents-forecast-to-boost-tech-cash-flow-as-usage-soars</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>US Data Center Power Demand Projected to Double by 2027</title>

@@ -8,16 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 May 2026 04:37:09 +0000</lastBuildDate>
-    <item>
-      <title>Inside the Future of Payments: Adyen CEO</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/pieter-van-der-does</link>
-      <description>Description:  &#13;
-Adyen has scaled from an Amsterdam startup to a global fintech by building every layer of payments in-house and focusing relentlessly on merchants. Pieter van der Does, co-founder and co-CEO of Adyen, joins Clif Marriott, co-head of Technology, Media and Telecoms in EMEA at Goldman Sachs, to discuss Adyen&amp;#x27;s origin story, the strategy that helped Adyen scale to roughly $900 billion in annual processed volume, and a winning company culture that fosters global collaboration. This session was recorded in London on November 5, 2025. </description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/pieter-van-der-does</guid>
-      <category>Entrepreneurship</category>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 May 2026 15:24:48 +0000</lastBuildDate>
     <item>
       <title>Latin America Is Predicted to Post Modest Growth amid Upheaval in Venezuela</title>
       <link>https://www.goldmansachs.com/insights/articles/latin-america-predicted-to-post-modest-growth-amid-upheaval-in-venezuela</link>
@@ -820,6 +811,14 @@ Goldman Sachs does not endorse any candidate or any political party.&#13;
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/koreas-stock-market-is-forecast-to-set-fresh-highs</guid>
       <category>Markets</category>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stock Markets Are Increasingly Vulnerable to Rising Bond Yields</title>
+      <link>https://www.goldmansachs.com/insights/articles/stock-markets-are-increasingly-vulnerable-to-rising-bond-yields</link>
+      <description>A surge in global bond yields is increasing the risk of a stock market correction, particularly if the economic backdrop deteriorates.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/stock-markets-are-increasingly-vulnerable-to-rising-bond-yields</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 May 2026 04:53:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 15:29:25 +0000</lastBuildDate>
     <item>
       <title>The Outlook for India’s Economy in 2026 amid A New US Trade Deal</title>
       <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-economy-in-2026-amid-new-us-tradedeal</link>
@@ -795,14 +795,6 @@ Goldman Sachs does not endorse any candidate or any political party.&#13;
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How Hedge Funds Are Trading Semiconductor Stocks</title>
-      <link>https://www.goldmansachs.com/insights/articles/how-hedge-funds-are-trading-semiconductor-stocks</link>
-      <description>Some hedge funds are taking profits on makers of semiconductors and related equipment to manage risk in their portfolios, even as tech stocks climb.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-hedge-funds-are-trading-semiconductor-stocks</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Why Rates Could Keep Rising: Phillip Lee on Treasuries</title>
       <link>https://www.goldmansachs.com/insights/the-markets/why-rates-could-keep-rising-phillip-lee-on-treasuries</link>
       <description>What’s driving the rise in US Treasury yields, and what could be ahead for the bond market? Phillip Lee, head of Real Money Rate Sales in Goldman Sachs Global Banking &amp;amp; Markets, shares his outlook with Chris Hussey.&#13;
@@ -815,6 +807,14 @@ Recorded on May 21, 2026.</description>
       <link>https://www.goldmansachs.com/insights/articles/stock-markets-are-increasingly-vulnerable-to-rising-bond-yields</link>
       <description>A surge in global bond yields is increasing the risk of a stock market correction, particularly if the economic backdrop deteriorates.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/stock-markets-are-increasingly-vulnerable-to-rising-bond-yields</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Hedge Funds Are Trading Semiconductor Stocks</title>
+      <link>https://www.goldmansachs.com/insights/articles/how-hedge-funds-are-trading-semiconductor-stocks</link>
+      <description>Some hedge funds are taking profits on makers of semiconductors and related equipment to manage risk in their portfolios, even as tech stocks climb.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-hedge-funds-are-trading-semiconductor-stocks</guid>
       <category>Markets</category>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>

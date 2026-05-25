@@ -3477,6 +3477,20 @@
       "topic": "Climate Transition",
       "url": "https://www.goldmansachs.com/insights/articles/how-goldman-helps-clients-navigate-sustainability"
     },
+    "https://www.goldmansachs.com/insights/articles/how-hedge-funds-are-trading-semiconductor-stocks": {
+      "content_hash": "dd2d3210b61d84ce3e9ff90d745f9f18c9d93d294df4d929e816cc2d735b930e",
+      "content_type": "Article",
+      "description": "Some hedge funds are taking profits on makers of semiconductors and related equipment to manage risk in their portfolios, even as tech stocks climb.",
+      "fetched_at": "2026-05-25T04:53:57+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-22T19:52:07.000Z",
+      "media": [],
+      "publish_date": "2026-05-22",
+      "removed": false,
+      "title": "How Hedge Funds Are Trading Semiconductor Stocks",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/how-hedge-funds-are-trading-semiconductor-stocks"
+    },
     "https://www.goldmansachs.com/insights/articles/how-higher-rates-affect-us-stocks": {
       "content_hash": "0216bd067e5f63975c202fb7d228cd1cc70198ecb147030a70c2c3679d586b06",
       "content_type": "Article",
@@ -46555,6 +46569,35 @@
       "title": "Why markets will be living in a strong US dollar world",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/why-markets-will-be-living-in-a-strong-us-dollar-world"
+    },
+    "https://www.goldmansachs.com/insights/the-markets/why-rates-could-keep-rising-phillip-lee-on-treasuries": {
+      "content_hash": "fc06e84fbae1c21d52da61b7574d4f2613e3be561c42741d027b35d98192fdc6",
+      "content_type": "Podcast",
+      "description": "What’s driving the rise in US Treasury yields, and what could be ahead for the bond market? Phillip Lee, head of Real Money Rate Sales in Goldman Sachs Global Banking &amp; Markets, shares his outlook with Chris Hussey.\r\nRecorded on May 21, 2026.",
+      "fetched_at": "2026-05-25T04:53:56+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-22T16:14:39.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/why-rates-could-keep-rising-phillip-lee-on-treasuries/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-70101_9667-26-021_Markets_Phil-Lee-v3.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/why-rates-could-keep-rising-phillip-lee-on-treasuries/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-05-22",
+      "removed": false,
+      "title": "Why Rates Could Keep Rising: Phillip Lee on Treasuries",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/the-markets/why-rates-could-keep-rising-phillip-lee-on-treasuries"
     },
     "https://www.goldmansachs.com/insights/the-markets/why-stocks-are-getting-wild": {
       "content_hash": "4f10bdad0b7d6b42f1c06ea50edd7b1c77b95be9bed900737ab9d1585e80c3b6",

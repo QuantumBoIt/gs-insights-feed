@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 May 2026 04:35:53 +0000</lastBuildDate>
-    <item>
-      <title>The Outlook for India’s Economy in 2026 amid A New US Trade Deal</title>
-      <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-economy-in-2026-amid-new-us-tradedeal</link>
-      <description>Goldman Sachs Research forecasts India’s real GDP to grow at 6.9% in 2026—with policy continuity and a boost thanks to the new US trade deal.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-economy-in-2026-amid-new-us-tradedeal</guid>
-      <category>Outlooks</category>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 16:11:31 +0000</lastBuildDate>
     <item>
       <title>Stock Market Shakeout</title>
       <link>https://www.goldmansachs.com/insights/the-markets/stock-market-shakeout</link>
@@ -817,6 +809,14 @@ Recorded on May 21, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-hedge-funds-are-trading-semiconductor-stocks</guid>
       <category>Markets</category>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Complexity is Our Friend’: James Brocklebank on Advent's Private Equity Strategy</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/complexity-is-our-friend-james-brocklebank-on-advents-private-equity-strategy</link>
+      <description>Advent Co-Chair James Brocklebank explains why complex markets can create opportunities for private equity investors</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/complexity-is-our-friend-james-brocklebank-on-advents-private-equity-strategy</guid>
+      <category>Great Investors</category>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

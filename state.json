@@ -5488,12 +5488,12 @@
       "url": "https://www.goldmansachs.com/insights/articles/staying-the-course-amid-recent-market-volatility"
     },
     "https://www.goldmansachs.com/insights/articles/stock-markets-are-increasingly-vulnerable-to-rising-bond-yields": {
-      "content_hash": "6c7baf5301ecd5a50a1bd00e744ed0e6d11cf4267106cdbc18643276d8ebafea",
+      "content_hash": "b38bd07821ebb5d98ea30c4c713e7aa9d69ec9c6e6a0fa307a38480a66ce82a9",
       "content_type": "Article",
       "description": "A surge in global bond yields is increasing the risk of a stock market correction, particularly if the economic backdrop deteriorates.",
-      "fetched_at": "2026-05-22T15:24:48+00:00",
+      "fetched_at": "2026-05-26T16:11:29+00:00",
       "file_path": "",
-      "lastmod": "2026-05-22T14:43:40.000Z",
+      "lastmod": "2026-05-26T10:16:38.000Z",
       "media": [],
       "publish_date": "2026-05-22",
       "removed": false,
@@ -17969,6 +17969,35 @@
       "title": "Commodities Outlook: What’s Driving Oil, Gold, and Base Metals",
       "topic": "Geopolitics",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/commodities-outlook-whats-driving-oil-gold-and-base-metals"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/complexity-is-our-friend-james-brocklebank-on-advents-private-equity-strategy": {
+      "content_hash": "71aaab83791b7ec796fba678b3b49589285b61b98908ac03c80fcbe6eb0dde1c",
+      "content_type": "Podcast",
+      "description": "Advent Co-Chair James Brocklebank explains why complex markets can create opportunities for private equity investors",
+      "fetched_at": "2026-05-26T16:11:31+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-26T13:27:50.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/complexity-is-our-friend-james-brocklebank-on-advents-private-equity-strategy/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-70057_9666_Ep26-028_James_Brocklebank_FullPodcast_1.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/complexity-is-our-friend-james-brocklebank-on-advents-private-equity-strategy/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-05-26",
+      "removed": false,
+      "title": "‘Complexity is Our Friend’: James Brocklebank on Advent's Private Equity Strategy",
+      "topic": "Great Investors",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/complexity-is-our-friend-james-brocklebank-on-advents-private-equity-strategy"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/cracks-in-private-credit": {
       "content_hash": "540bb20332f2110deabc8ab400b8694428b217ac80bfb973ee0ccf5b52d61e50",

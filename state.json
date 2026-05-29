@@ -46772,6 +46772,35 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/why-the-dollar-could-drop"
     },
+    "https://www.goldmansachs.com/insights/the-markets/why-there-may-be-more-investment-opportunities-in-internet-stocks": {
+      "content_hash": "e408d76c6e2ca72fbd407740dfd242a9f2b8e2d0cf66ef7c8707a7e6a50501b4",
+      "content_type": "Podcast",
+      "description": "Tech stocks have surged in the past two months. Pete Callahan, the US Technology, Media and Telecommunications sector specialist within Goldman Sachs Global Banking &amp; Markets, explains that the move is anchored by strong earnings—and says there could still be opportunities in internet stocks. He discusses with Chris Hussey.\r\nRecorded on May 28, 2026.",
+      "fetched_at": "2026-05-29T16:09:50+00:00",
+      "file_path": "",
+      "lastmod": "2026-05-29T12:57:44.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/why-there-may-be-more-investment-opportunities-in-internet-stocks/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-70212_9667-26-022_Markets_Callahan_v3.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/why-there-may-be-more-investment-opportunities-in-internet-stocks/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-05-29",
+      "removed": false,
+      "title": "Why There May Be More Investment Opportunities in Internet Stocks",
+      "topic": "Technology",
+      "url": "https://www.goldmansachs.com/insights/the-markets/why-there-may-be-more-investment-opportunities-in-internet-stocks"
+    },
     "https://www.goldmansachs.com/insights/the-markets/why-todays-ipo-market-may-surprise-you": {
       "content_hash": "2d282ad88cffe04b50e186f1fa0664d57cac52e273b5611cf019a2cfdfa35e11",
       "content_type": "Podcast",

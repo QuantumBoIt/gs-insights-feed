@@ -34743,6 +34743,35 @@
       "topic": "Strategy & Leadership",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/kara-medoff-barnett"
     },
+    "https://www.goldmansachs.com/insights/talks-at-gs/karl-anthony-towns": {
+      "content_hash": "18a267a99fc035cd86fc2152119610a4f6d4b1c19475def6e2f82a3147e3d63b",
+      "content_type": "Video",
+      "description": "",
+      "fetched_at": "2026-06-01T18:17:36+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-01T17:41:51.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/karl-anthony-towns/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-70239_9723_Ep26-005-Talks_at_GS_with_Karl-Anthony_Towns-social_clip_1.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/karl-anthony-towns/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-06-01",
+      "removed": false,
+      "title": "Karl-Anthony Towns on Leading with Purpose On and Off the Court ",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/karl-anthony-towns"
+    },
     "https://www.goldmansachs.com/insights/talks-at-gs/karlie-kloss": {
       "content_hash": "f631aaaa3ceb49c771f491ec3bf0d8586981cbb4258b580539a96ba55b63a5ff",
       "content_type": "Video",

@@ -21211,6 +21211,35 @@
       "topic": "Trade",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/tariffs-whats-ahead-and-why-it-matters"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-ai-investment-boom-when-will-it-pay-off": {
+      "content_hash": "92ee472b5e824e29a3a526f5f32cc40abf43ccf1530b9eeee9b6f95638319be7",
+      "content_type": "Podcast",
+      "description": "",
+      "fetched_at": "2026-06-02T16:56:27+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-02T14:11:05.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/the-ai-investment-boom-when-will-it-pay-off/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-70359_9666_Ep26-031_Exchanges_Jim_Covello_FullPodcast_1.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/the-ai-investment-boom-when-will-it-pay-off/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-06-02",
+      "removed": false,
+      "title": "The AI Investment Boom: When Will It Pay Off?",
+      "topic": "Technology",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-ai-investment-boom-when-will-it-pay-off"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-business-builder-new-mountain-capitals-steve-klinsky": {
       "content_hash": "f29f735c2fe233b72dfc943a91bc084cc51b2fd150464ecfde1861e6b98afad5",
       "content_type": "Podcast",
@@ -25327,6 +25356,20 @@
       "title": "Investing in EM Womenomics",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/investing-in-em-womenomics"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-research/investors-may-be-overlooking-the-uks-economic-potential": {
+      "content_hash": "8ef4ba39a8b895b78adcbd6a7baa64b7cd38ba16485b580a9449a1f4f842420a",
+      "content_type": "Report",
+      "description": "The UK economy is beset by weak growth, soft productivity gains, persistent inflation, and pressure on fiscal policy. However the UK retains important strengths and has opportunities in the medium-term to boost economic growth, according to Goldman Sachs Research.",
+      "fetched_at": "2026-06-02T16:56:26+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-02T13:58:30.000Z",
+      "media": [],
+      "publish_date": "2026-06-02",
+      "removed": false,
+      "title": "Investors May Be Overlooking the UK’s Economic Potential",
+      "topic": "Europe",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/investors-may-be-overlooking-the-uks-economic-potential"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-research/is-ai-already-boosting-us-power-demand": {
       "content_hash": "dc31f5aa7bb51ae38fae05daab15993a10e97e259e9bd74f5d6e4230872f690f",

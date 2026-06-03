@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Jun 2026 05:19:09 +0000</lastBuildDate>
-    <item>
-      <title>Hedge Funds Have Momentum After Posting Double-Digit Returns Last Year</title>
-      <link>https://www.goldmansachs.com/insights/articles/hedge-funds-have-momentum-after-posting-double-digit-returns-last-year</link>
-      <description>As hedge funds deliver double-digit returns and unprecedented alpha, asset allocators surveyed by Goldman Sachs Prime Services plan to boost exposure to the group.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/hedge-funds-have-momentum-after-posting-double-digit-returns-last-year</guid>
-      <category>Markets</category>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 17:19:32 +0000</lastBuildDate>
     <item>
       <title>“Still Bullish Gold”</title>
       <link>https://www.goldmansachs.com/insights/the-markets/still-bullish-gold</link>
@@ -813,6 +805,14 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-ai-investment-boom-when-will-it-pay-off</guid>
       <category>Technology</category>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Outlook for India’s Stock Market Amid the Middle East Conflict</title>
+      <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-stock-market-amid-the-middle-east-conflict</link>
+      <description>Indian equities have historically rebounded after periods of crisis, which may offer attractive entry points for long-term investors in the markets.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-stock-market-amid-the-middle-east-conflict</guid>
+      <category>Markets</category>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

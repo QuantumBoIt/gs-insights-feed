@@ -34804,9 +34804,9 @@
       "content_hash": "18a267a99fc035cd86fc2152119610a4f6d4b1c19475def6e2f82a3147e3d63b",
       "content_type": "Video",
       "description": "All-Star Karl-Anthony Towns has built a career defined by elite performance, resilience, and impact beyond the court. ",
-      "fetched_at": "2026-06-02T05:01:48+00:00",
+      "fetched_at": "2026-06-04T05:09:48+00:00",
       "file_path": "",
-      "lastmod": "2026-06-01T21:54:21.000Z",
+      "lastmod": "2026-06-03T14:20:05.000Z",
       "media": [
         {
           "kind": "video",
@@ -34825,7 +34825,7 @@
       ],
       "publish_date": "2026-06-01",
       "removed": false,
-      "title": "Karl-Anthony Towns on Leading with Purpose on and off the Court",
+      "title": "Karl-Anthony Towns of the New York Knicks on Leading with Purpose on and off the Court",
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/karl-anthony-towns"
     },
@@ -50763,6 +50763,35 @@
       "title": "Will a wave of defaults hit US high-yield debt?",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/videos/will-a-wave-of-defaults-hit-us-high-yield-debt"
+    },
+    "https://www.goldmansachs.com/insights/videos/will-bonds-become-a-better-hedge-for-investment-portfolios": {
+      "content_hash": "e123c51bc4a1cd6af3c3a7c06a5928b00f89e4c1615d0e966e4772a808dc17fd",
+      "content_type": "Podcast",
+      "description": "Can bonds still help balance portfolios? William Marshall, Head of US Rates Strategy in Goldman Sachs Research, separates the signal from the noise.",
+      "fetched_at": "2026-06-04T05:09:49+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-03T20:25:07.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/videos/will-bonds-become-a-better-hedge-for-investment-portfolios/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-70305_9671_Ep26-007-WilliamMarshall-16x9-Akamai-v2.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/videos/will-bonds-become-a-better-hedge-for-investment-portfolios/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-06-03",
+      "removed": false,
+      "title": "Will Bonds Become a Better Hedge for Investment Portfolios?",
+      "topic": "Macroeconomics",
+      "url": "https://www.goldmansachs.com/insights/videos/will-bonds-become-a-better-hedge-for-investment-portfolios"
     },
     "https://www.goldmansachs.com/insights/videos/will-europes-outperformance-continue": {
       "content_hash": "cfee80719618281fa4ee2da68fce7d3452f64a4cea5b89911823d1a43586fffb",

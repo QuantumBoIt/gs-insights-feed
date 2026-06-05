@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Jun 2026 15:46:03 +0000</lastBuildDate>
-    <item>
-      <title>The New AI Trades</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-new-ai-trades</link>
-      <description>Goldman Sachs Research’s Ryan Hammond explains how AI disruption is creating large sector rotations even as the equities continue to move higher.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-new-ai-trades</guid>
-      <category>Artificial Intelligence</category>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Jun 2026 04:49:16 +0000</lastBuildDate>
     <item>
       <title>Which Software Companies Will Benefit from AI?</title>
       <link>https://www.goldmansachs.com/insights/articles/which-software-companies-will-benefit-from-ai</link>
@@ -813,6 +805,14 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-stock-market-amid-the-middle-east-conflict</guid>
       <category>Markets</category>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Spain’s Economy Is Growing Three Times Faster Than the Euro Area</title>
+      <link>https://www.goldmansachs.com/insights/articles/why-spains-economy-is-growing-three-times-faster-than-the-euro-area</link>
+      <description>Spain’s strong fiscal position and ‘structural resilience’ have bolstered GDP at a time when its neighbors are struggling to cope with the global energy shock.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-spains-economy-is-growing-three-times-faster-than-the-euro-area</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

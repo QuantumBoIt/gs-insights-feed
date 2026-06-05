@@ -42061,6 +42061,35 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/are-emerging-markets-due-for-a-comeback"
     },
+    "https://www.goldmansachs.com/insights/the-markets/are-european-stocks-poised-to-outperform-the-s-and-p": {
+      "content_hash": "a1f731fe3f38e74299a82c780147b52f9777822ffbfa01dc843dd87496396e90",
+      "content_type": "Podcast",
+      "description": "As US stocks surge, European equities are turning out positive performance as well. Sharon Bell, European portfolio strategist in Goldman Sachs Research, recently raised her target prices for European indices, but she still doesn’t think they’ll outperform their US counterparts. She discusses with Chris Hussey.",
+      "fetched_at": "2026-06-05T15:29:07+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-05T14:26:13.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/are-european-stocks-poised-to-outperform-the-s-and-p/16x9.png",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-70350_9667_EP26_023-Markets-SharonBell.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/are-european-stocks-poised-to-outperform-the-s-and-p/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-06-05",
+      "removed": false,
+      "title": "Are European Stocks Poised to Outperform the S&P?",
+      "topic": "Europe",
+      "url": "https://www.goldmansachs.com/insights/the-markets/are-european-stocks-poised-to-outperform-the-s-and-p"
+    },
     "https://www.goldmansachs.com/insights/the-markets/are-markets-overreacting-to-inflation-data-": {
       "content_hash": "7847331c0fcfe030b05180bf1a8d0f9ad88a8fb0800ef7cf4ed0c0bd9c57b971",
       "content_type": "Podcast",

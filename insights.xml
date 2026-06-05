@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Jun 2026 04:49:16 +0000</lastBuildDate>
-    <item>
-      <title>Which Software Companies Will Benefit from AI?</title>
-      <link>https://www.goldmansachs.com/insights/articles/which-software-companies-will-benefit-from-ai</link>
-      <description>Investors have pushed some software stocks lower on concern that AI agents could make them obsolete, but some of these companies may be insulated and even benefit from AI.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/which-software-companies-will-benefit-from-ai</guid>
-      <category>Artificial Intelligence</category>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Jun 2026 15:29:07 +0000</lastBuildDate>
     <item>
       <title>How Indonesia Drove a Rally in Nickel</title>
       <link>https://www.goldmansachs.com/insights/articles/how-indonesia-drove-a-rally-in-nickel</link>
@@ -813,6 +805,14 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-spains-economy-is-growing-three-times-faster-than-the-euro-area</guid>
       <category>Macroeconomics</category>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are European Stocks Poised to Outperform the S&amp;P?</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/are-european-stocks-poised-to-outperform-the-s-and-p</link>
+      <description>As US stocks surge, European equities are turning out positive performance as well. Sharon Bell, European portfolio strategist in Goldman Sachs Research, recently raised her target prices for European indices, but she still doesn’t think they’ll outperform their US counterparts. She discusses with Chris Hussey.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/are-european-stocks-poised-to-outperform-the-s-and-p</guid>
+      <category>Europe</category>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

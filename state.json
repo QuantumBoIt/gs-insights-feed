@@ -33136,6 +33136,35 @@
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/jane-sun"
     },
+    "https://www.goldmansachs.com/insights/talks-at-gs/janet-truncale": {
+      "content_hash": "325612576ec686286548cfc714075e629e4e441fbe362e5be540e80595478b0c",
+      "content_type": "Video",
+      "description": "EY operates as one of the world’s largest and most globally connected professional services firms, employing 400,000 people across more than 150 countries. EY Global Chair and CEO Janet Truncale joins Matt McClure, Global Co-Head of Investment Banking at Goldman Sachs, to discuss her 33-year journey from intern to CEO, the firm’s commitment to upskilling its workforce, and why the narrative around artificial intelligence is shifting from job displacement to a focus on productivity, growth, and the essential role of human objectivity.",
+      "fetched_at": "2026-06-09T04:37:13+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-08T18:47:24.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/janet-truncale/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-70378_9723_Ep26-012-Talks_at_GS_with_Janet_Truncale-Session_highlights.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/janet-truncale/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-06-08",
+      "removed": false,
+      "title": "Leading Through Complexity: EY’s Janet Truncale on Leadership, AI and the Modern Boardroom",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/janet-truncale"
+    },
     "https://www.goldmansachs.com/insights/talks-at-gs/jared-cohen": {
       "content_hash": "c57ca9fa30bf90b80ded1208185208db1ac5b6deef560d3031cfe29ab357222d",
       "content_type": "Video",

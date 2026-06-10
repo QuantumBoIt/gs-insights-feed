@@ -20852,6 +20852,35 @@
       "topic": "Great Investors",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-equity-investing-with-blackstones-joe-baratta"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-markets-at-an-inflection-point": {
+      "content_hash": "cc732f446966d4eab8866d3a309703005f094899fe4be24cf100ccc386efffa4",
+      "content_type": "Podcast",
+      "description": "Private markets have stalled since interest rates started to rise in 2022, even as public markets have climbed to new highs. But a period of sustained economic growth along with rising liquidity and AI-driven innovation could help private markets rebound, according to Goldman Sachs&#x27; Pete Lyon and Michael Brandmeyer. Despite longer private equity holding times and mixed performance from private credit funds, they remain cautiously optimistic, projecting that distributions will gradually return to 15%-20% and that deal activity could exceed its 2021 peak within two to three years.",
+      "fetched_at": "2026-06-10T16:10:07+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-10T12:50:10.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/private-markets-at-an-inflection-point/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-70385_9666_Ep26-032_Exchanges_Lyon_Brandmeyer_FullPodcast.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/private-markets-at-an-inflection-point/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-06-08",
+      "removed": false,
+      "title": "Private Markets at an Inflection Point",
+      "topic": "Alternatives & Private Markets",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-markets-at-an-inflection-point"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/recession-watch-how-to-hedge-now": {
       "content_hash": "64e1a06d851b20fdde5dc5a38972def5b4bd882a354c37429756fae504908540",
       "content_type": "Podcast",

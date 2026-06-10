@@ -7662,6 +7662,20 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/articles/why-the-dollar-is-likely-to-stay-stronger-longer"
     },
+    "https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year": {
+      "content_hash": "fe9206d0cb6a9eb5ad4e816e0b078e907062262f2825a9f1f88b575e1292202c",
+      "content_type": "Article",
+      "description": "Goldman Sachs Research has pushed back its forecast for Fed rate cuts to June and December 2027 (from December 2026 and March 2027 previously).",
+      "fetched_at": "2026-06-10T04:50:35+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-09T17:00:21.000Z",
+      "media": [],
+      "publish_date": "2026-06-09",
+      "removed": false,
+      "title": "Why the Fed Is Unlikely to Cut Rates This Year",
+      "topic": "Macroeconomics",
+      "url": "https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year"
+    },
     "https://www.goldmansachs.com/insights/articles/why-the-fed-may-cut-rates-earlier-than-expected": {
       "content_hash": "7d69710bb5af71864feebecb2b8877740c753484f5c66fecb052e2e78fcf5da7",
       "content_type": "Article",

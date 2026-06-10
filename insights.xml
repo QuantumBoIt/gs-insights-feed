@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 09 Jun 2026 15:28:40 +0000</lastBuildDate>
-    <item>
-      <title>Tech Comeback Ahead?</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/tech-comeback-ahead</link>
-      <description>Despite widespread optimism about AI, the US tech sector has lagged meaningfully this year. What factors could lead to a bullish reversal – and which stocks may be set to rebound? Peter Callahan, the US Technology, Media and Telecommunications sector specialist within Goldman Sachs Global Banking &amp;amp; Markets, discusses with Mike Washington on the Goldman Sachs trading floor.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/tech-comeback-ahead</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Jun 2026 04:50:35 +0000</lastBuildDate>
     <item>
       <title>Board Governance in 2026: AI Oversight, Activism, and Delaware’s Edge</title>
       <link>https://www.goldmansachs.com/insights/talks-at-gs/larry-cunningham</link>
@@ -813,6 +805,14 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/janet-truncale</guid>
       <category>Artificial Intelligence</category>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why the Fed Is Unlikely to Cut Rates This Year</title>
+      <link>https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year</link>
+      <description>Goldman Sachs Research has pushed back its forecast for Fed rate cuts to June and December 2027 (from December 2026 and March 2027 previously).</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

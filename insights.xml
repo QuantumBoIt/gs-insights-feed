@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 10 Jun 2026 16:10:07 +0000</lastBuildDate>
-    <item>
-      <title>Why Japanese Stocks Could Keep Rallying</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-japanese-stocks-could-keep-rallying</link>
-      <description>Goldman Sachs Research’s Bruce Kirk discusses the implications of Japan’s recent snap election and the implications for the equity market and foreign investors.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-japanese-stocks-could-keep-rallying</guid>
-      <category>Markets</category>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Jun 2026 05:00:18 +0000</lastBuildDate>
     <item>
       <title>The S&amp;P 500 Is Forecast to Rally amid a Healthy Economy in 2026</title>
       <link>https://www.goldmansachs.com/insights/videos/s-and-p-500-forecast-to-rally-amid-a-healthy-economy-in-2026</link>
@@ -791,19 +783,19 @@ Recorded on May 28, 2026.</description>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Private Markets at an Inflection Point</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-markets-at-an-inflection-point</link>
-      <description>Private markets have stalled since interest rates started to rise in 2022, even as public markets have climbed to new highs. But a period of sustained economic growth along with rising liquidity and AI-driven innovation could help private markets rebound, according to Goldman Sachs&amp;#x27; Pete Lyon and Michael Brandmeyer. Despite longer private equity holding times and mixed performance from private credit funds, they remain cautiously optimistic, projecting that distributions will gradually return to 15%-20% and that deal activity could exceed its 2021 peak within two to three years.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-markets-at-an-inflection-point</guid>
-      <category>Alternatives &amp; Private Markets</category>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Leading Through Complexity: EY’s Janet Truncale on Leadership, AI, and the Modern Boardroom</title>
       <link>https://www.goldmansachs.com/insights/talks-at-gs/janet-truncale</link>
       <description>EY operates as one of the world’s largest and most globally connected professional services firms, employing 400,000 people across more than 150 countries. EY Global Chair and CEO Janet Truncale joins Matt McClure, global co-head of Investment Banking at Goldman Sachs, to discuss her 33-year journey from intern to CEO, the firm’s commitment to upskilling its workforce, and why the narrative around artificial intelligence is shifting from job displacement to a focus on productivity, growth, and the essential role of human objectivity.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/janet-truncale</guid>
       <category>Artificial Intelligence</category>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Private Markets at an Inflection Point</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-markets-at-an-inflection-point</link>
+      <description>Private markets have stalled since interest rates started to rise in 2022, even as public markets have climbed to new highs. But a period of sustained economic growth along with rising liquidity and AI-driven innovation could help private markets rebound, according to Goldman Sachs&amp;#x27; Pete Lyon and Michael Brandmeyer. Despite longer private equity holding times and mixed performance from private credit funds, they remain cautiously optimistic, projecting that distributions will gradually return to 15%-20% and that deal activity could exceed its 2021 peak within two to three years.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-markets-at-an-inflection-point</guid>
+      <category>Alternatives &amp; Private Markets</category>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -813,6 +805,14 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year</guid>
       <category>Macroeconomics</category>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Outlook for Data Centers in Asia</title>
+      <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-data-centers-in-asia</link>
+      <description>Traditional cloud workloads as well as new AI-first demand are driving growth in data centers in Asia, according to Goldman Sachs Research.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-outlook-for-data-centers-in-asia</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

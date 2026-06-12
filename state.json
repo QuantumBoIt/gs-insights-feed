@@ -5124,6 +5124,20 @@
       "topic": "Alternatives & Private Markets",
       "url": "https://www.goldmansachs.com/insights/articles/private-credits-outlook-amid-rising-volatility"
     },
+    "https://www.goldmansachs.com/insights/articles/private-markets-expected-to-have-growing-role-in-data-center-financing": {
+      "content_hash": "cbaf3b948da39cde02c4831834f4a66f0a851cb2519911f0654a8d2232ee0b23",
+      "content_type": "Article",
+      "description": "With planned hyperscaler spending on AI and data centers projected to top $5 trillion by 2030, capital from private market infrastructure and real estate funds will become increasingly important for the AI buildout.",
+      "fetched_at": "2026-06-12T15:42:23+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-12T08:34:43.000Z",
+      "media": [],
+      "publish_date": "2026-06-12",
+      "removed": false,
+      "title": "Private Markets Are Expected to Have a Growing Role in Data Center Financing",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/articles/private-markets-expected-to-have-growing-role-in-data-center-financing"
+    },
     "https://www.goldmansachs.com/insights/articles/reaching-net-zero-is-forecast-to-require-nearly-75-trillion-of-investment": {
       "content_hash": "ba1cc0948c2a0a3016aec91a647b50aa2f00c4b95b764fa72a7a4af36ab67ce6",
       "content_type": "Article",
@@ -45551,6 +45565,35 @@
       "title": "The new equity opportunities",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/the-new-equity-opportunities"
+    },
+    "https://www.goldmansachs.com/insights/the-markets/the-outlook-for-ai-related-stocks-and-us-interest-rates": {
+      "content_hash": "72ecf7d7123f71741879a7314c533af2fa7e35353b4f30ec7c6df6ae67a485ab",
+      "content_type": "Podcast",
+      "description": "What’s the path for US interest rates, when could AI-related debt issuance become problematic, and where are the next AI opportunities? Muhammad Qubbaj, co-head of US Interest Rate Products in Goldman Sachs Global Banking &amp; Markets, discusses with Chris Hussey on The Markets.",
+      "fetched_at": "2026-06-12T15:42:24+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-12T14:01:50.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/the-outlook-for-ai-related-stocks-and-us-interest-rates/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-70495_9667_26-024_Markets_Muhammad_Qubbaj_v4.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/the-outlook-for-ai-related-stocks-and-us-interest-rates/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-06-12",
+      "removed": false,
+      "title": "The Outlook for AI-Related Stocks and US Interest Rates",
+      "topic": "Technology",
+      "url": "https://www.goldmansachs.com/insights/the-markets/the-outlook-for-ai-related-stocks-and-us-interest-rates"
     },
     "https://www.goldmansachs.com/insights/the-markets/the-perfect-setup-for-us-stocks": {
       "content_hash": "0f57858fc7bba8dc3f415df6f95aa9c4f77670b3ea42a159fe0d3d0dd31fd134",

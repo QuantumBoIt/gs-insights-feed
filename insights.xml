@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 12 Jun 2026 05:05:12 +0000</lastBuildDate>
-    <item>
-      <title>The S&amp;P 500 Is Forecast to Rally amid a Healthy Economy in 2026</title>
-      <link>https://www.goldmansachs.com/insights/videos/s-and-p-500-forecast-to-rally-amid-a-healthy-economy-in-2026</link>
-      <description>S&amp;amp;P 500 outlook for 2026: Despite elevated valuations, US stocks are forecast to post double-digit gains.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/s-and-p-500-forecast-to-rally-amid-a-healthy-economy-in-2026</guid>
-      <category>Outlooks</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global GDP Outlook in 2026: Sturdy Growth and Stable Prices</title>
-      <link>https://www.goldmansachs.com/insights/videos/global-gdp-outlook-in-2026-sturdy-growth-and-stable-prices</link>
-      <description>Global economic outlook: Goldman Sachs Research expects sturdy growth in 2026 driven by US tax cuts, Chinese export strength, and fiscal expansion in the euro area.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/global-gdp-outlook-in-2026-sturdy-growth-and-stable-prices</guid>
-      <category>Outlooks</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 15:42:24 +0000</lastBuildDate>
     <item>
       <title>Finding Software Opportunities</title>
       <link>https://www.goldmansachs.com/insights/videos/finding-software-opportunities</link>
@@ -813,6 +797,22 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-outlook-for-data-centers-in-asia</guid>
       <category>Artificial Intelligence</category>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Outlook for AI-Related Stocks and US Interest Rates</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/the-outlook-for-ai-related-stocks-and-us-interest-rates</link>
+      <description>What’s the path for US interest rates, when could AI-related debt issuance become problematic, and where are the next AI opportunities? Muhammad Qubbaj, co-head of US Interest Rate Products in Goldman Sachs Global Banking &amp;amp; Markets, discusses with Chris Hussey on The Markets.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/the-outlook-for-ai-related-stocks-and-us-interest-rates</guid>
+      <category>Technology</category>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Private Markets Are Expected to Have a Growing Role in Data Center Financing</title>
+      <link>https://www.goldmansachs.com/insights/articles/private-markets-expected-to-have-growing-role-in-data-center-financing</link>
+      <description>With planned hyperscaler spending on AI and data centers projected to top $5 trillion by 2030, capital from private market infrastructure and real estate funds will become increasingly important for the AI buildout.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/private-markets-expected-to-have-growing-role-in-data-center-financing</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

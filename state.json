@@ -26381,6 +26381,28 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/the-postmodern-cycle"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-research/the-potential-economic-gains-from-boosting-uk-social-mobility": {
+      "content_hash": "b323dfa8c31b9050a4c51ce5a397e3a6db4d06251f338cbd49a2304e75720b19",
+      "content_type": "Report",
+      "description": "Increasing social mobility, an important objective in its own right, would also likely have economic benefits, according to Goldman Sachs Research.",
+      "fetched_at": "2026-06-15T17:27:30+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-15T16:15:57.000Z",
+      "media": [
+        {
+          "kind": "pdf-report",
+          "local_path": "",
+          "poster": "",
+          "title": "Read the Report",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/the-potential-economic-gains-from-boosting-uk-social-mobility/report.pdf"
+        }
+      ],
+      "publish_date": "2026-06-15",
+      "removed": false,
+      "title": "The Potential Economic Gains from Boosting UK Social Mobility",
+      "topic": "Europe",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/the-potential-economic-gains-from-boosting-uk-social-mobility"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-research/the-push-for-the-green-data-center": {
       "content_hash": "883e63425690b057968c34ca19f7b61cf3ed74f1b3401240a3b3d1e487161e96",
       "content_type": "Report",

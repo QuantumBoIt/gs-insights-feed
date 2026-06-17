@@ -19531,6 +19531,35 @@
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-tariffs-will-impact-the-US-economy"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-the-us-iran-deal-could-affect-oil-prices": {
+      "content_hash": "e8c1d880878d44c507bd4880b374a14b260ffce4418bc49f2263491c775b0ee5",
+      "content_type": "Podcast",
+      "description": "Oil prices are expected to fall further after reports that the US and Iran agreed to end hostilities and reopen the Strait of Hormuz.",
+      "fetched_at": "2026-06-17T16:06:49+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-17T15:05:08.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/how-the-us-iran-deal-could-affect-oil-prices/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-70611_9666_Ep26-038_Exchanges_Daan_Struyven_FullPodcast.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/how-the-us-iran-deal-could-affect-oil-prices/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-06-17",
+      "removed": false,
+      "title": "How the US-Iran Deal Could Affect Oil Prices",
+      "topic": "Geopolitics",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-the-us-iran-deal-could-affect-oil-prices"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-to-win-steve-cohen-on-markets-and-the-mets": {
       "content_hash": "afb80c5bdd699793e4d09617037a263ab7788e1dd0c94456dd49538207386a71",
       "content_type": "Podcast",

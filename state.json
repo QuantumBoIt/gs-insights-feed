@@ -20378,6 +20378,35 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/market-concentration-snider-callahan"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/maverick-capital-co-cios-on-finding-the-ai-winners": {
+      "content_hash": "40f5546b62a61019fb24e29052c52998097f3c264a37f7e918b0afa4c295ef26",
+      "content_type": "Podcast",
+      "description": "Ben Silver and David Tykocinski, co-CIOs of Maverick Capital, say their investment strategy has, in some respects, been the same for three decades: Rather than trying to time the market, the firm aims to drive performance by taking a long-term view, partnering with management teams, and doing deep diligence on its investments. In an interview with Goldman Sachs’ Tony Pasquariello on the Great Investors podcast, they discuss the investment opportunities in AI and healthcare as well as their complementary skills in a shared role.",
+      "fetched_at": "2026-06-18T15:54:24+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-17T21:36:55.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/maverick-capital-co-cios-on-finding-the-ai-winners/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-70445_005_9666_Ep26-037_GIP_Ben_Silver_David_Tykocinski_and_Tony_Pasquariello_FullPodcast_Final.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/maverick-capital-co-cios-on-finding-the-ai-winners/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-06-18",
+      "removed": false,
+      "title": "Maverick Capital Co-CIOs on Finding the AI Winners",
+      "topic": "Great Investors",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/maverick-capital-co-cios-on-finding-the-ai-winners"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/mid-year-outlook-diversify-and-hedge": {
       "content_hash": "54b0dda3aa1c854021875dd78984874d2c7d0183ca4dd7b42c0f4ecab761bd03",
       "content_type": "Podcast",

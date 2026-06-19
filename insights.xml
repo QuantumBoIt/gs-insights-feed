@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Jun 2026 05:26:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:43:36 +0000</lastBuildDate>
     <item>
       <title>A New Way to Trade Emerging Markets</title>
       <link>https://www.goldmansachs.com/insights/the-markets/a-new-way-to-trade-emerging-markets</link>
@@ -800,19 +800,19 @@ Recorded on May 28, 2026.</description>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why Oil Prices Could ‘Grind Lower’ Amid the US-Iran Deal</title>
-      <link>https://www.goldmansachs.com/insights/articles/why-oil-prices-could-grind-lower-amid-the-us-iran-deal</link>
-      <description>While the recent deal between the US and Iran is likely already reflected in the oil market, prices are likely to gradually decline over time, says Jerome Dortmans, co-head of Global Oil and Products Trading in Goldman Sachs Global Banking &amp;amp; Markets.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-oil-prices-could-grind-lower-amid-the-us-iran-deal</guid>
-      <category>Energy</category>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Maverick Capital Co-CIOs on Finding the AI Winners</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/maverick-capital-co-cios-on-finding-the-ai-winners</link>
       <description>Ben Silver and David Tykocinski, co-CIOs of Maverick Capital, say their investment strategy has, in some respects, been the same for three decades: Rather than trying to time the market, the firm aims to drive performance by taking a long-term view, partnering with management teams, and doing deep diligence on its investments. In an interview with Goldman Sachs’ Tony Pasquariello on the Great Investors podcast, they discuss the investment opportunities in AI and healthcare as well as their complementary skills in a shared role.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/maverick-capital-co-cios-on-finding-the-ai-winners</guid>
       <category>Great Investors</category>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Oil Prices Could ‘Grind Lower’ Amid the US-Iran Deal</title>
+      <link>https://www.goldmansachs.com/insights/articles/why-oil-prices-could-grind-lower-amid-the-us-iran-deal</link>
+      <description>While the recent deal between the US and Iran is likely already reflected in the oil market, prices are likely to gradually decline over time, says Jerome Dortmans, co-head of Global Oil and Products Trading in Goldman Sachs Global Banking &amp;amp; Markets.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-oil-prices-could-grind-lower-amid-the-us-iran-deal</guid>
+      <category>Energy</category>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

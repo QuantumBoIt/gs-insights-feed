@@ -38146,16 +38146,16 @@
       "content_hash": "ce24b4e03d4c97c2dea15759fcede11b3c6a29ab9d62f06eb55ec6870c324c91",
       "content_type": "Video",
       "description": "KKR has evolved from a traditional LBO shop into a global investment powerhouse managing over $500 billion in assets. Pete Stavros, Co-Head of Global Private Equity at KKR, joins Matt McClure, Global Co-Head of Investment Banking at Goldman Sachs, to discuss KKR&#x27;s transformation over two decades, and its competitive positioning in private equity. Stavros shares insights on navigating market cycles, opportunities in infrastructure, and KKR&#x27;s pioneering work in broad-based employee ownership through Ownership Works. This episode was recorded on December 4, 2025. ",
-      "fetched_at": "2026-05-04T22:10:28+00:00",
+      "fetched_at": "2026-06-23T04:31:24+00:00",
       "file_path": "",
-      "lastmod": "2026-01-29T15:08:50.000Z",
+      "lastmod": "2026-06-22T18:35:36.000Z",
       "media": [
         {
           "kind": "video",
           "local_path": "",
           "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/pete-stavros/16x9.jpg",
           "title": "Video",
-          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-67354_8899_Ep-033-Talks_at_GS_With_Pete_Stavros-Session_Highlights.mp4"
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26_67354_8899_Ep25-033_Talks_at_GS_With_Pete_Stavros_Session_Highlights.mp4"
         },
         {
           "kind": "transcript",
@@ -40432,6 +40432,35 @@
       "title": "Terry Finley, President and CEO of West Point Thoroughbreds",
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/terry-finley"
+    },
+    "https://www.goldmansachs.com/insights/talks-at-gs/thelma-golden": {
+      "content_hash": "9c98aca43db8074a906f88f81f70262dcc2baef3025a8d7423670b495ad80138",
+      "content_type": "Video",
+      "description": "In Harlem, New York, the Studio Museum is the world’s leading institution devoted to visual arts by artists of African descent. Thelma Golden, the Ford Foundation director and chief curator of the museum joins Asahi Pompey, global head of the Office of Corporate Engagement and chair of the Urban Investment Group at Goldman Sachs, to discuss the museum’s 14-year journey to build its new state-of-the-art home. They also talk about the importance of maintaining cultural anchors in a changing neighborhood. ",
+      "fetched_at": "2026-06-23T04:31:25+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-22T17:23:46.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/thelma-golden/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-70627_9723_Ep26-004_TAGS_Thelma_Golden_V3_HIGHLIGHTS.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/thelma-golden/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-06-22",
+      "removed": false,
+      "title": "Thelma Golden on Preserving Black Culture and the New Era of the Studio Museum in Harlem",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/thelma-golden"
     },
     "https://www.goldmansachs.com/insights/talks-at-gs/theresia-gouw": {
       "content_hash": "138075bd19eb66d9207e9e5e3d9ab9ddf48ac58b719cf0c0f4515d4215087d03",

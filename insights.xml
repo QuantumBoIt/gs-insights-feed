@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 22 Jun 2026 17:13:39 +0000</lastBuildDate>
-    <item>
-      <title>A New Way to Trade Emerging Markets</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/a-new-way-to-trade-emerging-markets</link>
-      <description>Emerging market equities have continued to rally in 2026. What’s driving the gains, and where are the opportunities now? Stratford Dennis discusses with Chris Hussey.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/a-new-way-to-trade-emerging-markets</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Jun 2026 04:31:26 +0000</lastBuildDate>
     <item>
       <title>Forecasts for the World’s Biggest Economies in 2026</title>
       <link>https://www.goldmansachs.com/insights/articles/forecasts-for-the-worlds-biggest-economies-in-2026</link>
@@ -814,6 +806,13 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-oil-prices-could-grind-lower-amid-the-us-iran-deal</guid>
       <category>Energy</category>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thelma Golden on Preserving Black Culture and the New Era of the Studio Museum in Harlem</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/thelma-golden</link>
+      <description>In Harlem, New York, the Studio Museum is the world’s leading institution devoted to visual arts by artists of African descent. Thelma Golden, the Ford Foundation director and chief curator of the museum joins Asahi Pompey, global head of the Office of Corporate Engagement and chair of the Urban Investment Group at Goldman Sachs, to discuss the museum’s 14-year journey to build its new state-of-the-art home. They also talk about the importance of maintaining cultural anchors in a changing neighborhood. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/thelma-golden</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,31 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 26 Jun 2026 04:41:14 +0000</lastBuildDate>
-    <item>
-      <title>Oil Market Impacts from Iran</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/oil-market-impacts-from-iran</link>
-      <description>Goldman Sachs Research’s Daan Struyven, co-head of Global commodities Research and Head of Oil Research, discusses how the strikes in Iran affect the oil market, commodities, and energy prices.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/oil-market-impacts-from-iran</guid>
-      <category>Geopolitics</category>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lloyd Blankfein on His Memoir, Risk Management and Leadership</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/lloyd-blankfein</link>
-      <description>Goldman Sachs’ culture has long been defined by its core values: partnership, client service, integrity, and excellence. Lloyd Blankfein, Senior Chairman of The Goldman Sachs Group Inc. and former Chairman and CEO of Goldman Sachs, joins David Solomon, current Chairman and CEO of Goldman Sachs for a conversation on his storied career and the launch of his memoir, Streetwise: Getting to and Through Goldman Sachs. Lloyd reflects on his upbringing in Brooklyn, path to Harvard, long-time leadership at Goldman Sachs, the evolution of the firm’s partnership culture, and the critical risk management lessons learned while steering the firm through the 2008 financial crisis and its aftermath. This episode was recorded on February 25, 2026.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/lloyd-blankfein</guid>
-      <category>Strategy &amp; Leadership</category>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Will the Iran Conflict Impact Oil Prices?</title>
-      <link>https://www.goldmansachs.com/insights/articles/how-will-the-iran-conflict-impact-oil-prices</link>
-      <description>Following US and Israeli strikes in Iran, the outlook for energy prices will likely be closely linked to disruptions to flows through the Strait of Hormuz.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-will-the-iran-conflict-impact-oil-prices</guid>
-      <category>Energy</category>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Jun 2026 14:48:26 +0000</lastBuildDate>
     <item>
       <title>$120 Oil Ahead?</title>
       <link>https://www.goldmansachs.com/insights/the-markets/120-oil-ahead</link>
@@ -812,6 +788,29 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/south-koreas-growing-role-in-humanoid-robot-development</guid>
       <category>Artificial Intelligence</category>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emma Grede on Building Iconic Brands and the Inspiration Behind 'Start with Yourself'</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/emma-grede-2026</link>
+      <description>In a discussion with Kim Posnett, global co-head of Investment Banking at Goldman Sachs, Emma Grede details her journey from East London to becoming one of America’s wealthiest self-made women. During the session, she shares insights from her new book, &amp;#x27;Start With Yourself&amp;#x27;, emphasizing the importance of financial fluency for women and explaining how a commitment to authenticity has fueled her success as a serial entrepreneur. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/emma-grede-2026</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why US Stocks Could Climb Higher</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/why-us-stocks-could-climb-higher</link>
+      <description>John Flood, head of Americas Equities Execution Services in Goldman Sachs Global Banking &amp;amp; Markets, explains what’s driving recent volatility in US stocks, and what could be ahead for the S&amp;amp;P 500.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/why-us-stocks-could-climb-higher</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HALO Stocks in Emerging Markets Could Extend Rally as Heavy Industries Surge</title>
+      <link>https://www.goldmansachs.com/insights/articles/halo-stocks-in-emerging-markets-could-extend-rally-as-heavy-industries-surge</link>
+      <description>Emerging-market companies marked by heavy assets and low obsolescence, or HALO, are benefiting as the AI boom drives demand for infrastructure.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/halo-stocks-in-emerging-markets-could-extend-rally-as-heavy-industries-surge</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

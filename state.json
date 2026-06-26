@@ -3124,6 +3124,20 @@
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/articles/gs-family-office-investment-insights-report"
     },
+    "https://www.goldmansachs.com/insights/articles/halo-stocks-in-emerging-markets-could-extend-rally-as-heavy-industries-surge": {
+      "content_hash": "9f98a4163e5b82f935acec31539e1335f87d61b39b379a60e4ac66bb288d5228",
+      "content_type": "Article",
+      "description": "Emerging-market companies marked by heavy assets and low obsolescence, or HALO, are benefiting as the AI boom drives demand for infrastructure.",
+      "fetched_at": "2026-06-26T14:48:24+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-26T10:41:18.000Z",
+      "media": [],
+      "publish_date": "2026-06-26",
+      "removed": false,
+      "title": "HALO Stocks in Emerging Markets Could Extend Rally as Heavy Industries Surge",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/halo-stocks-in-emerging-markets-could-extend-rally-as-heavy-industries-surge"
+    },
     "https://www.goldmansachs.com/insights/articles/has-chinas-property-market-reached-the-bottom": {
       "content_hash": "8c841d0feeadea8fb05a0c24acb1e0dd4c81d0f895c3d7695095902d273c94fd",
       "content_type": "Article",
@@ -31579,6 +31593,35 @@
       "topic": "Strategy & Leadership",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/emma-grede"
     },
+    "https://www.goldmansachs.com/insights/talks-at-gs/emma-grede-2026": {
+      "content_hash": "2262f62f9e893d1bb933e685ec7df021c8d40d9adefd501dd46723cf6807117e",
+      "content_type": "Video",
+      "description": "In a discussion with Kim Posnett, global co-head of Investment Banking at Goldman Sachs, Emma Grede details her journey from East London to becoming one of America’s wealthiest self-made women. During the session, she shares insights from her new book, &#x27;Start With Yourself&#x27;, emphasizing the importance of financial fluency for women and explaining how a commitment to authenticity has fueled her success as a serial entrepreneur. ",
+      "fetched_at": "2026-06-26T14:48:26+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-25T21:33:05.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/emma-grede/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-70477_9723_Ep26-014-Talks_at_GS_with_Emma_Grede-Session_Highlights.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/emma-grede/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-06-26",
+      "removed": false,
+      "title": "Emma Grede on Building Iconic Brands and the Inspiration Behind 'Start with Yourself'",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/emma-grede-2026"
+    },
     "https://www.goldmansachs.com/insights/talks-at-gs/emmanuel-roman": {
       "content_hash": "2972d5cf9f045c928edbc4037e50ed0f7154f92c7b6a31b1a7f717afd378b8c4",
       "content_type": "Video",
@@ -47267,6 +47310,35 @@
       "title": "Why Today’s IPO Market May Surprise You",
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/the-markets/why-todays-ipo-market-may-surprise-you"
+    },
+    "https://www.goldmansachs.com/insights/the-markets/why-us-stocks-could-climb-higher": {
+      "content_hash": "37f993272798a8db8d55a111ffc69fbeeaab72eec02974739b426199b007433a",
+      "content_type": "Podcast",
+      "description": "John Flood, head of Americas Equities Execution Services in Goldman Sachs Global Banking &amp; Markets, explains what’s driving recent volatility in US stocks, and what could be ahead for the S&amp;P 500.",
+      "fetched_at": "2026-06-26T14:48:25+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-26T13:31:13.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/why-us-stocks-could-climb-higher/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-70774_9667_Ep26-025_Markets_John_Flood_v4.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/why-us-stocks-could-climb-higher/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-06-26",
+      "removed": false,
+      "title": "Why US Stocks Could Climb Higher",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/the-markets/why-us-stocks-could-climb-higher"
     },
     "https://www.goldmansachs.com/insights/the-markets/why-us-stocks-could-keep-rising-in-2025": {
       "content_hash": "dabc2982dd3d81d817bd9644d51b978f12d3dce5996914f440d6bbcaddd36e0e",

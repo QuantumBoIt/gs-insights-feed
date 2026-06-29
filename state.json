@@ -3125,12 +3125,12 @@
       "url": "https://www.goldmansachs.com/insights/articles/gs-family-office-investment-insights-report"
     },
     "https://www.goldmansachs.com/insights/articles/halo-stocks-in-emerging-markets-could-extend-rally-as-heavy-industries-surge": {
-      "content_hash": "9f98a4163e5b82f935acec31539e1335f87d61b39b379a60e4ac66bb288d5228",
+      "content_hash": "307a532ee3ad524c3d2ec808047a12c9a583d9146446dabf75a3814f2372c416",
       "content_type": "Article",
       "description": "Emerging-market companies marked by heavy assets and low obsolescence, or HALO, are benefiting as the AI boom drives demand for infrastructure.",
-      "fetched_at": "2026-06-26T14:48:24+00:00",
+      "fetched_at": "2026-06-29T05:00:40+00:00",
       "file_path": "",
-      "lastmod": "2026-06-26T10:41:18.000Z",
+      "lastmod": "2026-06-26T19:43:01.000Z",
       "media": [],
       "publish_date": "2026-06-26",
       "removed": false,
@@ -31597,9 +31597,9 @@
       "content_hash": "2262f62f9e893d1bb933e685ec7df021c8d40d9adefd501dd46723cf6807117e",
       "content_type": "Video",
       "description": "In a discussion with Kim Posnett, global co-head of Investment Banking at Goldman Sachs, Emma Grede details her journey from East London to becoming one of America’s wealthiest self-made women. During the session, she shares insights from her new book, &#x27;Start With Yourself&#x27;, emphasizing the importance of financial fluency for women and explaining how a commitment to authenticity has fueled her success as a serial entrepreneur. ",
-      "fetched_at": "2026-06-26T14:48:26+00:00",
+      "fetched_at": "2026-06-29T05:00:39+00:00",
       "file_path": "",
-      "lastmod": "2026-06-25T21:33:05.000Z",
+      "lastmod": "2026-06-26T18:24:56.000Z",
       "media": [
         {
           "kind": "video",
@@ -31618,7 +31618,7 @@
       ],
       "publish_date": "2026-06-26",
       "removed": false,
-      "title": "Emma Grede on Building Iconic Brands and the Inspiration Behind 'Start with Yourself'",
+      "title": "Emma Grede on Building Iconic Brands and the Inspiration Behind 'Start With Yourself'",
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/emma-grede-2026"
     },

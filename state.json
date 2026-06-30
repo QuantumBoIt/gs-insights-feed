@@ -27490,9 +27490,9 @@
       "content_hash": "f8d2f6499d3cad71c95b4e01fb2b19f47a0fd89a546bf93aee28f6eb72935b38",
       "content_type": "Video",
       "description": "Poppi began as a kitchen experiment with apple cider vinegar and has grown into a leading beverage brand, which was recently acquired by PepsiCo for nearly $2 billion. Allison and Stephen Ellsworth, co-founders of Poppi, joined Vanya Kasanof to share the brand’s journey to becoming a digital-first sensation and a category leader. They discuss Poppi’s rapid rise, the power of intuition and culture, and how a relentless focus on brand and community propelled them from farmers markets to a landmark Super Bowl ad. This session was recorded at the 2025 Goldman Sachs Builders and Innovators Summit on October 15, 2025.\r\n\r\n",
-      "fetched_at": "2026-05-04T21:57:22+00:00",
+      "fetched_at": "2026-06-30T04:35:10+00:00",
       "file_path": "",
-      "lastmod": "2026-02-05T14:06:35.000Z",
+      "lastmod": "2026-06-29T20:47:05.000Z",
       "media": [
         {
           "kind": "video",
@@ -27500,6 +27500,13 @@
           "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/allison-and-stephen-ellsworth/16x9.jpg",
           "title": "Video",
           "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-67873_Ep25-046_Talks_at_GS_with_Allison_Ellsworth_and_Stephen_Ellsworth_Session_Highlights.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/allison-and-stephen-ellsworth/transcript.pdf"
         }
       ],
       "publish_date": "2026-02-03",
@@ -51173,6 +51180,35 @@
       "title": "Will a wave of defaults hit US high-yield debt?",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/videos/will-a-wave-of-defaults-hit-us-high-yield-debt"
+    },
+    "https://www.goldmansachs.com/insights/videos/will-ai-driven-corporate-debt-strain-credit-markets": {
+      "content_hash": "ee6f59731916ad5c6d3587e85ff7806a45be7504ba44283617aaa8752b49d92e",
+      "content_type": "Video",
+      "description": "Max Lukianchikov of Goldman Sachs Global Banking &amp; Markets explains why credit spreads are so tight despite the rise in tech companies’ bond issuance.",
+      "fetched_at": "2026-06-30T04:35:09+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-29T16:18:32.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/videos/will-ai-driven-corporate-debt-strain-credit-markets/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-70762_9671_Ep26-008_Signal_Noise_20268_Max_Lukianchikov_16x9_Akamai.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/videos/will-ai-driven-corporate-debt-strain-credit-markets/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-06-29",
+      "removed": false,
+      "title": "Will AI-Driven Corporate Debt Strain Credit Markets?",
+      "topic": "Technology",
+      "url": "https://www.goldmansachs.com/insights/videos/will-ai-driven-corporate-debt-strain-credit-markets"
     },
     "https://www.goldmansachs.com/insights/videos/will-bonds-become-a-better-hedge-for-investment-portfolios": {
       "content_hash": "e123c51bc4a1cd6af3c3a7c06a5928b00f89e4c1615d0e966e4772a808dc17fd",

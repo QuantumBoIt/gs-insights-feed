@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 29 Jun 2026 16:13:02 +0000</lastBuildDate>
-    <item>
-      <title>$120 Oil Ahead?</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/120-oil-ahead</link>
-      <description>determine the commodity’s next move, and how much higher could oil prices rise? Jerome Dortmans, co-head of Global Oil and Products Trading in Goldman Sachs Global Banking &amp;amp; Markets, discusses with Chris Hussey on the Goldman Sachs trading floor.&#13;
-&#13;
-</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/120-oil-ahead</guid>
-      <category>Energy</category>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Jun 2026 04:35:10 +0000</lastBuildDate>
     <item>
       <title>GS SUSTAIN: How Rising Hyperscaler Reinvestment Impacts the 6 Ps Driving Power Growth / Constraints</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-research/how-rising-hyperscaler-reinvestment-impacts-power-growth-constraints</link>
@@ -811,6 +801,14 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/halo-stocks-in-emerging-markets-could-extend-rally-as-heavy-industries-surge</guid>
       <category>Markets</category>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will AI-Driven Corporate Debt Strain Credit Markets?</title>
+      <link>https://www.goldmansachs.com/insights/videos/will-ai-driven-corporate-debt-strain-credit-markets</link>
+      <description>Max Lukianchikov of Goldman Sachs Global Banking &amp;amp; Markets explains why credit spreads are so tight despite the rise in tech companies’ bond issuance.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/will-ai-driven-corporate-debt-strain-credit-markets</guid>
+      <category>Technology</category>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

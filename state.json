@@ -4368,6 +4368,28 @@
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/articles/japans-stock-market-is-forecast-to-have-a-transformational-year-in-2024"
     },
+    "https://www.goldmansachs.com/insights/articles/japans-strategic-awakening": {
+      "content_hash": "a4c82711463d8e0a904462dbcdbeb8827deb58a3dc2fb650bf8e513e65871f87",
+      "content_type": "Article",
+      "description": "Japan is at an inflection point as geopolitics and technology transform the global landscape.",
+      "fetched_at": "2026-07-01T04:55:07+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-30T22:09:48.000Z",
+      "media": [
+        {
+          "kind": "pdf-report",
+          "local_path": "",
+          "poster": "",
+          "title": "Download the Article",
+          "url": "https://www.goldmansachs.com/pdfs/insights/articles/japans-strategic-awakening/report.pdf"
+        }
+      ],
+      "publish_date": "2026-06-30",
+      "removed": false,
+      "title": "Japan’s Strategic Awakening",
+      "topic": "Geopolitics",
+      "url": "https://www.goldmansachs.com/insights/articles/japans-strategic-awakening"
+    },
     "https://www.goldmansachs.com/insights/articles/john-doerr": {
       "content_hash": "c80d5a7a9653de547d4553efdbce2e03bb48d8b3a5110149d894df3726fc6b17",
       "content_type": "Video",
@@ -41348,6 +41370,35 @@
       "title": "Vijay Shekhar Sharma, Founder and CEO of Paytm",
       "topic": "Entrepreneurship",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/vijay-shekhar-sharma"
+    },
+    "https://www.goldmansachs.com/insights/talks-at-gs/vimal-kapur": {
+      "content_hash": "2e2f65c31dd3b4d606d53f9034525fce6b4edeb568860ef0334c70b98a49faa0",
+      "content_type": "Video",
+      "description": "Honeywell Chairman and CEO Vimal Kapur joined John Waldron to discuss Honeywell’s transformation into a more focused automation company—Honeywell Technologies—and its strategy to unlock growth through innovation, disciplined M&amp;A, and portfolio simplification. ",
+      "fetched_at": "2026-07-01T04:55:08+00:00",
+      "file_path": "",
+      "lastmod": "2026-06-30T22:12:16.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/vimal-kapur/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-70623_9723_Ep26-013_Talks_at_GS_with_Vimal_Kapur_Akamai.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/vimal-kapur/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-06-30",
+      "removed": false,
+      "title": "From Automation to Autonomy: The Future of Industrial AI with Honeywell Technologies Chairman and CEO Vimal Kapur",
+      "topic": "Technology",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/vimal-kapur"
     },
     "https://www.goldmansachs.com/insights/talks-at-gs/virginie-morgon": {
       "content_hash": "ee27f0f63cb242f5cc28a897d0ae774a00a3be96c008aaddc168452a81c52dfb",

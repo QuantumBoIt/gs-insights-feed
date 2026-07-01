@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 30 Jun 2026 14:44:35 +0000</lastBuildDate>
-    <item>
-      <title>GS SUSTAIN: How Rising Hyperscaler Reinvestment Impacts the 6 Ps Driving Power Growth / Constraints</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/how-rising-hyperscaler-reinvestment-impacts-power-growth-constraints</link>
-      <description>Goldman Sachs Research raises their data center power demand outlook and now expects 220% growth by 2030 vs. 2023 levels (vs +175% previously).</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/how-rising-hyperscaler-reinvestment-impacts-power-growth-constraints</guid>
-      <category>Artificial Intelligence</category>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Worries: The Latest Jobs Report and Geopolitical Dynamics</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/new-worries</link>
-      <description>A weaker-than-expected employment report, and increasing geopolitical&#13;
-concerns, are leading to significant market volatility. How should investors&#13;
-make sense of this environment? Josh Schiffrin, Chief Strategy Officer and Head of Financial Risk for Goldman Sachs Global Banking &amp;amp; Markets, discusses with Chris Hussey on the Goldman Sachs trading floor. </description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/new-worries</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 04:55:08 +0000</lastBuildDate>
     <item>
       <title>Will AI Eat Software?</title>
       <link>https://www.goldmansachs.com/insights/top-of-mind/will-ai-eat-software</link>
@@ -809,6 +791,22 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/will-ai-driven-corporate-debt-strain-credit-markets</guid>
       <category>Technology</category>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Automation to Autonomy: The Future of Industrial AI with Honeywell Technologies Chairman and CEO Vimal Kapur</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/vimal-kapur</link>
+      <description>Honeywell Chairman and CEO Vimal Kapur joined John Waldron to discuss Honeywell’s transformation into a more focused automation company—Honeywell Technologies—and its strategy to unlock growth through innovation, disciplined M&amp;amp;A, and portfolio simplification. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/vimal-kapur</guid>
+      <category>Technology</category>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japan’s Strategic Awakening</title>
+      <link>https://www.goldmansachs.com/insights/articles/japans-strategic-awakening</link>
+      <description>Japan is at an inflection point as geopolitics and technology transform the global landscape.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/japans-strategic-awakening</guid>
+      <category>Geopolitics</category>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

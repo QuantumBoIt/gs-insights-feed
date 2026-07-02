@@ -18811,9 +18811,9 @@
       "content_hash": "45ba8b5c14fed6ae854240cd0e4f9908868afd6e2e9c83ad77eb742f04ba9068",
       "content_type": "Podcast",
       "description": "Goldman Sachs Chairman and CEO David Solomon discusses AI, M&amp;A, and the firm’s path forward. \r\nThis episode was recorded on January 20th, 2026.\r\n",
-      "fetched_at": "2026-05-04T22:10:22+00:00",
+      "fetched_at": "2026-07-02T14:30:36+00:00",
       "file_path": "",
-      "lastmod": "2026-01-28T15:07:33.000Z",
+      "lastmod": "2026-07-02T11:37:26.000Z",
       "media": [
         {
           "kind": "podcast",
@@ -25445,6 +25445,28 @@
       "title": "GS Sustain: Supply Chain Mosaic",
       "topic": "Transportation",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/gs-sustain-supply-chain-mosaic"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-research/how-aging-and-declining-populations-will-drive-product-and-company-demand": {
+      "content_hash": "a00486fe4a24d3616f5a4b75f3f5c20445aef3fc51d8acc0c86bba00abbee7f0",
+      "content_type": "Report",
+      "description": "Goldman Sachs Research’s framework identifies the sectors that are expected to have the greatest increase in demand as a result of aging populations.",
+      "fetched_at": "2026-07-02T14:30:37+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-02T10:26:32.000Z",
+      "media": [
+        {
+          "kind": "pdf-report",
+          "local_path": "",
+          "poster": "",
+          "title": "Read the Report",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/how-aging-and-declining-populations-will-drive-product-and-company-demand/sustain-demographic-demand-redaction-new.pdf"
+        }
+      ],
+      "publish_date": "2026-07-02",
+      "removed": false,
+      "title": "GS SUSTAIN: How Aging and Declining Populations Will Drive Product and Company Demand",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/how-aging-and-declining-populations-will-drive-product-and-company-demand"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-research/how-quantifying-avoided-emissions-can-broaden-decarbonization": {
       "content_hash": "5abff84fd6b2783c810f9cae62a736a4f740670f6ff32c1c5fe7b4a5343ef828",
@@ -50351,9 +50373,9 @@
       "content_hash": "e1c5cdb7135cebe0c342c82ce93388075ae9af0ba2b44a4e635fd2b6b9ea1253",
       "content_type": "Video",
       "description": "Will the US tech giants keep underperforming? Mike Washington, equities sales trader in Global Banking &amp; Markets, separates the signal from the noise.\r\nRecorded on February 5, 2026.",
-      "fetched_at": "2026-05-04T22:10:44+00:00",
+      "fetched_at": "2026-07-02T14:30:35+00:00",
       "file_path": "",
-      "lastmod": "2026-02-12T16:02:36.000Z",
+      "lastmod": "2026-07-02T11:38:06.000Z",
       "media": [
         {
           "kind": "video",
@@ -50409,9 +50431,9 @@
       "content_hash": "dbda2fb717e9ef426c512dbd0514cfbba417516017cb68af2fc94247c4641cde",
       "content_type": "Video",
       "description": "",
-      "fetched_at": "2026-05-04T22:05:52+00:00",
+      "fetched_at": "2026-07-02T14:30:33+00:00",
       "file_path": "",
-      "lastmod": "2025-12-15T18:10:27.000Z",
+      "lastmod": "2026-07-02T11:38:34.000Z",
       "media": [
         {
           "kind": "video",

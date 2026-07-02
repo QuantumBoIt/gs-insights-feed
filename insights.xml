@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Jul 2026 15:12:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 04:32:12 +0000</lastBuildDate>
     <item>
       <title>Can Software Survive AI? </title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/can-software-survive-ai</link>
@@ -746,13 +746,6 @@ Recorded on May 28, 2026.</description>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Strengthening the Navy SEAL Community Amid Geopolitical Shifts</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/navy-seal-foundation</link>
-      <description>Goldman Sachs’ Vanya Kasanof, head of Investment Banking Client Services for the Consumer and Retail Group within Investment Banking, joined Rear Admiral Keith Davids, former commander of Naval Special Warfare Command, and Robin King, chief executive officer of the Navy SEAL Foundation, to discuss the unique challenges faced by SEALs and their families. They also talk about how the foundation is navigating a shifting geopolitical landscape that demands constant readiness and resilience. </description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/navy-seal-foundation</guid>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>South Korea's Growing Role in Humanoid Robot Development</title>
       <link>https://www.goldmansachs.com/insights/articles/south-koreas-growing-role-in-humanoid-robot-development</link>
       <description>While humans still outperform humanoid robots on basic real-world tasks, the race is on to improve the machines. South Korea is well positioned to play a key role in the supply chain and humanoid adoptions, according to Goldman Sachs Research.</description>
@@ -806,6 +799,13 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/japans-strategic-awakening</guid>
       <category>Geopolitics</category>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strengthening the Navy SEAL Community Amid Geopolitical Shifts</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/navy-seal-foundation</link>
+      <description>Goldman Sachs’ Vanya Kasanof, head of Investment Banking Client Services for the Consumer and Retail Group within Investment Banking, joined Rear Admiral Keith Davids, former commander of Naval Special Warfare Command, and Robin King, chief executive officer of the Navy SEAL Foundation, to discuss the unique challenges faced by SEALs and their families. They also talk about how the foundation is navigating a shifting geopolitical landscape that demands constant readiness and resilience. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/navy-seal-foundation</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

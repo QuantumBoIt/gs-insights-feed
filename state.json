@@ -19703,6 +19703,35 @@
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-warsh-could-shape-fed-policy"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-will-ai-impact-the-labor-market": {
+      "content_hash": "2c2f7c0547112603221e20ba472534a4c1d7b3175bdc21ec7d711af8731b9d81",
+      "content_type": "Podcast",
+      "description": "Will AI cause a wave of job losses? MIT’s Daron Acemoglu and Neil Thompson, and Goldman Sachs economist Joseph Briggs discuss. ",
+      "fetched_at": "2026-07-03T04:10:32+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-02T15:18:46.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/how-will-ai-impact-the-labor-market/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-70818_9666_Ep26-040_Exchanges_TOM_Ai_Labor_Slated.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/how-will-ai-impact-the-labor-market/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-07-02",
+      "removed": false,
+      "title": "How Will AI Impact the Labor Market?",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-will-ai-impact-the-labor-market"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/impactinvesting-singer-shell": {
       "content_hash": "c047fbddb9c401afeab192756d5e3fbc0f44f0e1c99ec2077ded24cff6ddfb6f",
       "content_type": "Podcast",
@@ -47854,6 +47883,28 @@
       "title": "Americas First",
       "topic": "Geopolitics",
       "url": "https://www.goldmansachs.com/insights/top-of-mind/americas-first"
+    },
+    "https://www.goldmansachs.com/insights/top-of-mind/an-ai-job-apocalypse": {
+      "content_hash": "db3563d04e6b63303053b4a9e1788b3189e3489686ddcf178a20743422b10dcf",
+      "content_type": "Report",
+      "description": "Rapid improvements in AI capabilities and growing corporate adoption have led to predictions that the technology could lead to large-scale job losses before the end of the decade. So, just how concerned should we be about an AI “job apocalypse”?",
+      "fetched_at": "2026-07-03T04:10:33+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-02T15:19:48.000Z",
+      "media": [
+        {
+          "kind": "pdf-report",
+          "local_path": "",
+          "poster": "",
+          "title": "Read Report",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf"
+        }
+      ],
+      "publish_date": "2026-07-02",
+      "removed": false,
+      "title": "An AI Job Apocalypse?",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/top-of-mind/an-ai-job-apocalypse"
     },
     "https://www.goldmansachs.com/insights/top-of-mind/bidenomics-evolution-or-revolution": {
       "content_hash": "1bf18ec0ffc3093ca0084370bf65e70c8c49add22f22460da1362fc83af023ab",

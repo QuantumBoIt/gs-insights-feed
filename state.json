@@ -275,6 +275,20 @@
       "topic": "Artificial Intelligence",
       "url": "https://www.goldmansachs.com/insights/articles/ai-investment-forecast-to-approach-200-billion-globally-by-2025"
     },
+    "https://www.goldmansachs.com/insights/articles/ai-investment-is-shifting-as-inference-enterprise-adoption-accelerate": {
+      "content_hash": "53cc93613d298b60ee07a49b1ba7aaf1c7c4ba54fc5760b22633391e6f5313af",
+      "content_type": "Article",
+      "description": "Companies are rapidly deploying AI in a test for computing infrastructure as investment opportunities emerge in fiber optics.",
+      "fetched_at": "2026-07-09T15:34:52+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-09T14:52:25.000Z",
+      "media": [],
+      "publish_date": "2026-07-09",
+      "removed": false,
+      "title": "AI Investment Is Shifting as Inference, Enterprise Adoption Accelerate",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/articles/ai-investment-is-shifting-as-inference-enterprise-adoption-accelerate"
+    },
     "https://www.goldmansachs.com/insights/articles/ai-investment-landscape": {
       "content_hash": "c74e41061885d52b24518e03c8afe73f516d077ecaaf9de0ff43c755f79421db",
       "content_type": "Video",
@@ -18067,6 +18081,35 @@
       "title": "China's Economy: Reasons for Optimism",
       "topic": "Trade",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/chinas-economy-reasons-for-optimism"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/citadels-ken-griffin-on-ai-us-china-tensions-and-us-data-centers": {
+      "content_hash": "94cb811f469df05b31dc39f4ea12913e2750f1c060d6e27251d362aa3216ffc8",
+      "content_type": "Podcast",
+      "description": "Ken Griffin shares his views on the forces reshaping global markets, from the rising cost for AI compute to geopolitical vulnerabilities. The founder and CEO of Citadel speaks in a recent episode of Goldman Sachs Exchanges: Great Investors, recorded at Goldman Sachs&#x27; Apex Symposium. ",
+      "fetched_at": "2026-07-09T15:34:51+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-09T13:19:26.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/citadels-ken-griffin-on-ai-us-china-tensions-and-us-data-centers/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-70049_9666_Ep26-034_Exchanges_Raj_Mahanjan_Ken-Griffin_FullPodcast-FINAL2.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/citadels-ken-griffin-on-ai-us-china-tensions-and-us-data-centers/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-07-09",
+      "removed": false,
+      "title": "Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers",
+      "topic": "Great Investors",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/citadels-ken-griffin-on-ai-us-china-tensions-and-us-data-centers"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/commodities-outlook-whats-driving-oil-gold-and-base-metals": {
       "content_hash": "d05c987a28a617342fa0d128409a5da85c63119a94073a3c5fdd6a035b7e48d0",

@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Jul 2026 04:16:25 +0000</lastBuildDate>
-    <item>
-      <title>Europe Has an Edge in Developing Applications for AI</title>
-      <link>https://www.goldmansachs.com/insights/articles/europe-has-an-edge-in-developing-applications-for-ai</link>
-      <description>European entrepreneurs and early-stage investors are making great strides in the development of AI applications.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/europe-has-an-edge-in-developing-applications-for-ai</guid>
-      <category>Artificial Intelligence</category>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emerging Markets: Stirred, But Not Yet Shaken</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/emerging-markets-stirred-but-not-yet-shaken</link>
-      <description>Goldman Sachs Research’s Kamakshya Trivedi analyzes the market’s reaction to the conflict in Iran and the case for emerging markets.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/emerging-markets-stirred-but-not-yet-shaken</guid>
-      <category>Markets</category>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 15:03:02 +0000</lastBuildDate>
     <item>
       <title>How Will AI Affect the US Labor Market?</title>
       <link>https://www.goldmansachs.com/insights/articles/how-will-ai-affect-the-us-labor-market</link>
@@ -806,6 +790,22 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/ai-investment-is-shifting-as-inference-enterprise-adoption-accelerate</guid>
       <category>Artificial Intelligence</category>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biotech Stocks Are Projected to Extend Rally Amid Innovation and M&amp;A</title>
+      <link>https://www.goldmansachs.com/insights/articles/biotech-stocks-are-projected-to-extend-rally-amid-innovation</link>
+      <description>Healthcare stocks are outperforming technology shares as biotech breakthroughs and dealmaking activity jumps.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/biotech-stocks-are-projected-to-extend-rally-amid-innovation</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are US Stock Market Valuations Outpacing Fundamentals?</title>
+      <link>https://www.goldmansachs.com/insights/articles/are-us-stock-market-valuations-outpacing-fundamentals</link>
+      <description>The tension between large market gains in AI stocks and friendly economic and corporate fundamentals continues to sharpen, according to Goldman Sachs Research.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/are-us-stock-market-valuations-outpacing-fundamentals</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

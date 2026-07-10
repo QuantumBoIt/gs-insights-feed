@@ -437,6 +437,20 @@
       "topic": "Trade",
       "url": "https://www.goldmansachs.com/insights/articles/are-us-companies-actually-reshoring-their-supply-chains"
     },
+    "https://www.goldmansachs.com/insights/articles/are-us-stock-market-valuations-outpacing-fundamentals": {
+      "content_hash": "53a89e7f5b3c157b2ef172aec829492600663e58b6fb0c11616d307a67e4fbba",
+      "content_type": "Article",
+      "description": "The tension between large market gains in AI stocks and friendly economic and corporate fundamentals continues to sharpen, according to Goldman Sachs Research.",
+      "fetched_at": "2026-07-10T15:03:01+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-10T09:26:12.000Z",
+      "media": [],
+      "publish_date": "2026-07-10",
+      "removed": false,
+      "title": "Are US Stock Market Valuations Outpacing Fundamentals?",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/are-us-stock-market-valuations-outpacing-fundamentals"
+    },
     "https://www.goldmansachs.com/insights/articles/as-bank-stress-grows-are-markets-signaling-a-us-recession": {
       "content_hash": "8655e30e401bd6d26e0000845de7190c0bc19750533b83f0a1d0fab0f6e7334f",
       "content_type": "Article",
@@ -570,6 +584,20 @@
       "title": "Bill Gates on the AI revolution and how it will change education",
       "topic": "Artificial Intelligence",
       "url": "https://www.goldmansachs.com/insights/articles/bill-gates-on-the-ai-revolution"
+    },
+    "https://www.goldmansachs.com/insights/articles/biotech-stocks-are-projected-to-extend-rally-amid-innovation": {
+      "content_hash": "52814b8306a262290d17240f1fec8fdcbf618383b9620b1621df3c1a388f7e92",
+      "content_type": "Article",
+      "description": "Healthcare stocks are outperforming technology shares as biotech breakthroughs and dealmaking activity jumps.",
+      "fetched_at": "2026-07-10T15:03:02+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-10T13:49:01.000Z",
+      "media": [],
+      "publish_date": "2026-07-10",
+      "removed": false,
+      "title": "Biotech Stocks Are Projected to Extend Rally Amid Innovation and M&A",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/biotech-stocks-are-projected-to-extend-rally-amid-innovation"
     },
     "https://www.goldmansachs.com/insights/articles/black-womenomics-report-summary": {
       "content_hash": "0ac87243a220f3b2e916629bae9e082f3ccf8ea04e0f8cb056db952264216e10",

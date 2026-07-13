@@ -47448,6 +47448,35 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/why-the-dollar-could-drop"
     },
+    "https://www.goldmansachs.com/insights/the-markets/why-the-us-dollar-could-continue-to-strengthen": {
+      "content_hash": "97a922ff80ff102499095c328101756864b6c0389c732d9bac3c688f128566da",
+      "content_type": "Podcast",
+      "description": "Brian Dunne, head of Americas Foreign Exchange Options Trading in Goldman Sachs Global Banking &amp; Markets, explains what’s behind recent US dollar strength and what’s going on in other global currency markets. ",
+      "fetched_at": "2026-07-13T04:02:01+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-10T18:22:03.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/why-the-us-dollar-could-continue-to-strengthen/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-70135_9667_Ep26-026_Markets_with_Brian_Dunne-v4.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/why-the-us-dollar-could-continue-to-strengthen/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-07-10",
+      "removed": false,
+      "title": "Why the US Dollar Could Continue to Strengthen",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/the-markets/why-the-us-dollar-could-continue-to-strengthen"
+    },
     "https://www.goldmansachs.com/insights/the-markets/why-there-may-be-more-investment-opportunities-in-internet-stocks": {
       "content_hash": "e408d76c6e2ca72fbd407740dfd242a9f2b8e2d0cf66ef7c8707a7e6a50501b4",
       "content_type": "Podcast",

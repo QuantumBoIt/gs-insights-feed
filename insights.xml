@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 Jul 2026 14:12:05 +0000</lastBuildDate>
-    <item>
-      <title>"The Market Is Fragile": John Storey on Finding Opportunities in Turbulent Markets</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/the-market-is-fragile-john-storey-on-finding-opportunities-in-turbulent-markets</link>
-      <description>While the S&amp;amp;P 500 has traded within a relatively narrow range this year, there are significant signals of stress below the surface, says John Storey, Co-Head of Equities Distribution in Goldman Sachs Global Banking &amp;amp; Markets. He discusses investor positioning, and the potential for “asset-heavy” companies to outperform, in this conversation with Chris Hussey.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/the-market-is-fragile-john-storey-on-finding-opportunities-in-turbulent-markets</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steven Mnuchin: Navigating Credit Cycles, AI Investment, and Fiscal Policy</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/steven-mnuchin</link>
-      <description>Steven Mnuchin, former U.S. Treasury Secretary and Goldman Sachs partner alum, brings decades of experience navigating financial markets, public policy, and economic crises. In this conversation with David Solomon, Chairman and CEO of Goldman Sachs, Mnuchin shares insights on the current credit cycle, the resilience of the U.S. economy amid unprecedented AI infrastructure spending, cryptocurrency regulation and the future of stablecoins, and lessons learned from managing through the COVID-19 economic shutdown. This session was recorded at the Goldman Sachs 24th Annual Alternatives Summit on October 21, 2025.  </description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/steven-mnuchin</guid>
-      <category>Macroeconomics</category>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 03:40:03 +0000</lastBuildDate>
     <item>
       <title>Iran Conflict: How Long, and How Bad?</title>
       <link>https://www.goldmansachs.com/insights/top-of-mind/iran-conflict-how-long-and-how-bad</link>
@@ -806,6 +790,22 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/are-us-stock-market-valuations-outpacing-fundamentals</guid>
       <category>Markets</category>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Falling Launch Costs and AI Are Driving the Space Economy</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-falling-launch-costs-and-ai-are-driving-the-space-economy</link>
+      <description>Michael Tarulli and Erik Sparks of Goldman Sachs Investment Banking explain the drivers and economics of the emerging space economy, as well as the sector’s outlook, opportunities, and risks for investors. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-falling-launch-costs-and-ai-are-driving-the-space-economy</guid>
+      <category>Technology</category>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will Space Stocks Outperform the S&amp;P 500?</title>
+      <link>https://www.goldmansachs.com/insights/articles/will-space-stocks-outperform-the-s-and-p-500</link>
+      <description>Although gains have faded, stocks linked to the space industry are outperforming the broader US equity market. The sector has opportunities for revenue growth linked to defense, global communications, and AI, according to Goldman Sachs FICC and Equities.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/will-space-stocks-outperform-the-s-and-p-500</guid>
+      <category>Markets</category>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

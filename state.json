@@ -438,12 +438,12 @@
       "url": "https://www.goldmansachs.com/insights/articles/are-us-companies-actually-reshoring-their-supply-chains"
     },
     "https://www.goldmansachs.com/insights/articles/are-us-stock-market-valuations-outpacing-fundamentals": {
-      "content_hash": "53a89e7f5b3c157b2ef172aec829492600663e58b6fb0c11616d307a67e4fbba",
+      "content_hash": "9b0c6f82a60de77e28d74cad492e83e7b18a5cc77241e994374606ce73b049d8",
       "content_type": "Article",
       "description": "The tension between large market gains in AI stocks and friendly economic and corporate fundamentals continues to sharpen, according to Goldman Sachs Research.",
-      "fetched_at": "2026-07-10T15:03:01+00:00",
+      "fetched_at": "2026-07-16T03:40:01+00:00",
       "file_path": "",
-      "lastmod": "2026-07-10T09:26:12.000Z",
+      "lastmod": "2026-07-15T16:37:08.000Z",
       "media": [],
       "publish_date": "2026-07-10",
       "removed": false,
@@ -8097,6 +8097,20 @@
       "title": "Will Japanese Stocks Rally to Fresh Record Highs?",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/articles/will-japanese-stocks-rally-to-fresh-record-highs"
+    },
+    "https://www.goldmansachs.com/insights/articles/will-space-stocks-outperform-the-s-and-p-500": {
+      "content_hash": "7f499d99e5bfcdde350b147f356bce5152945daeec65e7e1e4f88754f3ec35d0",
+      "content_type": "Article",
+      "description": "Although gains have faded, stocks linked to the space industry are outperforming the broader US equity market. The sector has opportunities for revenue growth linked to defense, global communications, and AI, according to Goldman Sachs FICC and Equities.",
+      "fetched_at": "2026-07-16T03:40:02+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-15T16:10:08.000Z",
+      "media": [],
+      "publish_date": "2026-07-15",
+      "removed": false,
+      "title": "Will Space Stocks Outperform the S&P 500?",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/will-space-stocks-outperform-the-s-and-p-500"
     },
     "https://www.goldmansachs.com/insights/articles/will-the-1-trillion-of-generative-ai-investment-pay-off": {
       "content_hash": "ba3dc8129a0cfac52169bfa84107176350fa0ce086f0d829af6b4bb52308b0ec",
@@ -19422,6 +19436,35 @@
       "title": "How Clearlake Capital’s José E. Feliciano is finding value across private markets",
       "topic": "Great Investors",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-clearlake-capitals-jose-e-feliciano-is-finding-value-across-private-markets"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-falling-launch-costs-and-ai-are-driving-the-space-economy": {
+      "content_hash": "a5fe1748500e9831cbf9487dff731f199459ba345318aec86f2274682fd3e82e",
+      "content_type": "",
+      "description": "Michael Tarulli and Erik Sparks of Goldman Sachs Investment Banking explain the drivers and economics of the emerging space economy, as well as the sector’s outlook, opportunities, and risks for investors. ",
+      "fetched_at": "2026-07-16T03:40:03+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-15T15:48:33.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/how-falling-launch-costs-and-ai-are-driving-the-space-economy/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71050_9666_Ep26-042_Exchanges_with_Mike_Tarulli_and_Erik_Sparks_Erik_Riverside_FullPodcast_4.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/how-falling-launch-costs-and-ai-are-driving-the-space-economy/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-07-15",
+      "removed": false,
+      "title": "How Falling Launch Costs and AI Are Driving the Space Economy",
+      "topic": "Technology",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-falling-launch-costs-and-ai-are-driving-the-space-economy"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-goldman-sachs-john-waldron-is-navigating-a-more-uncertain-time": {
       "content_hash": "b0400a4309797e711820ef4777dc411a44522923c93961ee4456a9e18ccff6e8",

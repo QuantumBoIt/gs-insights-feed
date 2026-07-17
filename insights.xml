@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Jul 2026 14:25:01 +0000</lastBuildDate>
-    <item>
-      <title>Iran Conflict: How Long, and How Bad?</title>
-      <link>https://www.goldmansachs.com/insights/top-of-mind/iran-conflict-how-long-and-how-bad</link>
-      <description>The unprecedented US and Israeli coordinated attack on Iran has resulted in the largest energy supply disruption in history, as shipping traffic in the Strait of Hormuz has ground to a near halt and regional energy infrastructure has come under target. How long the conflict could last, its impact on global energy supplies, and economic and market implications are Top of Mind.    </description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/top-of-mind/iran-conflict-how-long-and-how-bad</guid>
-      <category>Geopolitics</category>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Jul 2026 03:39:56 +0000</lastBuildDate>
     <item>
       <title>Private Credit Concerns in Context</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-credit-concerns-in-context</link>
@@ -806,6 +798,13 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/will-space-stocks-outperform-the-s-and-p-500</guid>
       <category>Markets</category>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goldman Sachs Chairman and CEO David Solomon Joins CNBC</title>
+      <link>https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-2q-earnings-deal-making-and-ai-investment</link>
+      <description>David Solomon joined CNBC to share his views on the firm’s second-quarter earnings, its strong positioning, and the outlook for AI investment. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-2q-earnings-deal-making-and-ai-investment</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

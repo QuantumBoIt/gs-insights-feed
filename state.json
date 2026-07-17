@@ -49678,6 +49678,35 @@
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/videos/can-us-companies-and-consumers-withstand-higher-rates"
     },
+    "https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-2q-earnings-deal-making-and-ai-investment": {
+      "content_hash": "d7e32cc44215d0da7d0518adcc12395be2abb698ea336c92e6575beda0875758",
+      "content_type": "Video",
+      "description": "David Solomon joined CNBC to share his views on the firm’s second-quarter earnings, its strong positioning, and the outlook for AI investment. ",
+      "fetched_at": "2026-07-17T03:39:56+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-16T18:06:57.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/videos/cnbc-david-solomon-2q-earnings-deal-making-and-ai-investment/dms-cnbc-16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-71093_6897_CNBC_Halftime_Report_260714_GS_David_Solomon_edited_Akamai.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/videos/cnbc-david-solomon-2q-earnings-deal-making-and-ai-investment/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-07-16",
+      "removed": false,
+      "title": "Goldman Sachs Chairman and CEO David Solomon Joins CNBC",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-2q-earnings-deal-making-and-ai-investment"
+    },
     "https://www.goldmansachs.com/insights/videos/david-kostin-cnbc": {
       "content_hash": "0a2bb7980f6863eaf21d021293e0c986cc1e79cee439d620cac0ea1523797e5c",
       "content_type": "Video",

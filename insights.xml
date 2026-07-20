@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Jul 2026 14:04:39 +0000</lastBuildDate>
-    <item>
-      <title>Private Credit Concerns in Context</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-credit-concerns-in-context</link>
-      <description>Goldman Sachs’ Alex Blostein and Vivek Bantwal discuss the market sentiment, fundamentals, and the outlook for the private credit sector. </description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-credit-concerns-in-context</guid>
-      <category>Alternatives &amp; Private Markets</category>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The HALO effect: Heavy Assets, Low Obsolescence in the AI era</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/the-halo-effect-heavy-assets-low-obsolescence-in-the-ai-era</link>
-      <description>Goldman Sachs Research analysts introduce the &amp;quot;HALO&amp;quot; framework—Heavy Assets, Low Obsolescence—to identify companies that are less exposed to technological obsolescence.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/the-halo-effect-heavy-assets-low-obsolescence-in-the-ai-era</guid>
-      <category>Macroeconomics</category>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Jul 2026 04:06:20 +0000</lastBuildDate>
     <item>
       <title>Is a Further Equity Correction Ahead?</title>
       <link>https://www.goldmansachs.com/insights/videos/is-a-further-equity-correction-ahead</link>
@@ -805,6 +789,21 @@ Recorded on May 28, 2026.</description>
       <description>David Solomon joined CNBC to share his views on the firm’s second-quarter earnings, its strong positioning, and the outlook for AI investment. </description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-2q-earnings-deal-making-and-ai-investment</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Earnings, Volatility, and AI Capex Are Affecting US Markets</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/how-earnings-volatility-and-ai-capex-are-affecting-us-markets</link>
+      <description>Earnings expectations for US equities are “very high” as single-stock volatility climbs, says Brian Garrett, head of equities on the Cross Asset Sales desk in FICC &amp;amp; Equities.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/how-earnings-volatility-and-ai-capex-are-affecting-us-markets</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carlos Cordeiro on the Legacy of the FIFA World Cup 2026</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/carlos-cordeiro</link>
+      <description>Carlos Cordeiro, senior advisor to the FIFA president and the former president of the US Soccer Federation, joins Gene Sykes, co-chair of Goldman Sachs M&amp;amp;A and co-chair of the Global Technology, Media, and Telecom Group, to discuss the legacy of the 2026 FIFA World Cup.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/carlos-cordeiro</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -29152,6 +29152,35 @@
       "topic": "Strategy & Leadership",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/carlos-acosta"
     },
+    "https://www.goldmansachs.com/insights/talks-at-gs/carlos-cordeiro": {
+      "content_hash": "cd81576641e8bc27388d80075e9ddaca256a855f66446b98ac5cd4459a18a3e7",
+      "content_type": "Video",
+      "description": "Carlos Cordeiro, senior advisor to the FIFA president and the former president of the US Soccer Federation, joins Gene Sykes, co-chair of Goldman Sachs M&amp;A and co-chair of the Global Technology, Media, and Telecom Group, to discuss the legacy of the 2026 FIFA World Cup.",
+      "fetched_at": "2026-07-20T04:06:18+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-17T19:39:22.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/carlos-cordeiro/16x9.png",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-70988_9723_Ep26-021_TAGS_Carlos_Cordeiro_V5_HIGHLIGHTS.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/carlos-cordeiro/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-07-17",
+      "removed": false,
+      "title": "Carlos Cordeiro on the Legacy of the FIFA World Cup 2026",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/carlos-cordeiro"
+    },
     "https://www.goldmansachs.com/insights/talks-at-gs/carolyn-childers-lindsay-kaplan": {
       "content_hash": "d891e360708e2cf84a1e71c9e098d721589a994ea7da354c37091f07771af6c0",
       "content_type": "Video",
@@ -43800,6 +43829,35 @@
       "title": "How are investors approaching today’s market strength?",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/how-are-investors-approaching-todays-market-strength"
+    },
+    "https://www.goldmansachs.com/insights/the-markets/how-earnings-volatility-and-ai-capex-are-affecting-us-markets": {
+      "content_hash": "ac7cd559462e014f90befb3869c81aa46604b90e722a91f6f40738f180354035",
+      "content_type": "Podcast",
+      "description": "Earnings expectations for US equities are “very high” as single-stock volatility climbs, says Brian Garrett, head of equities on the Cross Asset Sales desk in FICC &amp; Equities.",
+      "fetched_at": "2026-07-20T04:06:19+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-17T14:57:11.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/how-earnings-volatility-and-ai-capex-are-affecting-us-markets/garrett-16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-71142_9667-26-027_Markets_Brian-Garrett_v3r.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/how-earnings-volatility-and-ai-capex-are-affecting-us-markets/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-07-17",
+      "removed": false,
+      "title": "How Earnings, Volatility, and AI Capex Are Affecting US Markets",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/the-markets/how-earnings-volatility-and-ai-capex-are-affecting-us-markets"
     },
     "https://www.goldmansachs.com/insights/the-markets/how-geopolitical-instability-is-affecting-markets": {
       "content_hash": "9fbb5a949f33ed6d47ac22c9cf820ef9163da6ff05e6c4e1bd98ce0160b59e53",

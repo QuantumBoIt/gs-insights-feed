@@ -8099,12 +8099,12 @@
       "url": "https://www.goldmansachs.com/insights/articles/will-japanese-stocks-rally-to-fresh-record-highs"
     },
     "https://www.goldmansachs.com/insights/articles/will-space-stocks-outperform-the-s-and-p-500": {
-      "content_hash": "7f499d99e5bfcdde350b147f356bce5152945daeec65e7e1e4f88754f3ec35d0",
+      "content_hash": "5df760929c7c618ec410741dd38b10a47fa8ada8c8efce01315d10f94a84f6d0",
       "content_type": "Article",
       "description": "Although gains have faded, stocks linked to the space industry are outperforming the broader US equity market. The sector has opportunities for revenue growth linked to defense, global communications, and AI, according to Goldman Sachs FICC and Equities.",
-      "fetched_at": "2026-07-16T03:40:02+00:00",
+      "fetched_at": "2026-07-21T03:47:51+00:00",
       "file_path": "",
-      "lastmod": "2026-07-15T16:10:08.000Z",
+      "lastmod": "2026-07-20T19:13:23.000Z",
       "media": [],
       "publish_date": "2026-07-15",
       "removed": false,
@@ -49822,6 +49822,35 @@
       "title": "Chief US equity strategist David Kostin discusses how tariff uncertainty is impacting US equities on CNBC",
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/videos/david-kostin-tariff-uncertainty-cnbc"
+    },
+    "https://www.goldmansachs.com/insights/videos/emerging-market-stocks-may-climb-higher-amid-boost-from-ai": {
+      "content_hash": "cd768a5e2916c6873aacd58f39bd93f857c33a3616b2d253f27faf96b2b6243a",
+      "content_type": "Video",
+      "description": "Equities in emerging market are rallying amid strong earnings and their exposure to AI, says Katherine Bordlemay in Goldman Sachs Asset Management.",
+      "fetched_at": "2026-07-21T03:47:50+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-20T15:29:31.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/videos/emerging-market-stocks-may-climb-higher-amid-boost-from-ai/bordlemay-16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-71132_9671_Ep26-009_SN_KatherineBordlemay_16x9_v06.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/videos/emerging-market-stocks-may-climb-higher-amid-boost-from-ai/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-07-20",
+      "removed": false,
+      "title": "Emerging-Market Stocks May Climb Higher Amid Boost from AI",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/videos/emerging-market-stocks-may-climb-higher-amid-boost-from-ai"
     },
     "https://www.goldmansachs.com/insights/videos/european-equities-less-boring-than-you-think": {
       "content_hash": "b6935d0d75e3cdb3c7a85e1963ac32f776040ce3070754f6e5f3835647a06e47",

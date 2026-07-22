@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:24:56 +0000</lastBuildDate>
-    <item>
-      <title>The Outlook for Private Credit amid Rising Market Stress</title>
-      <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-private-credit-amid-rising-market-stress</link>
-      <description>Despite concern about increasing credit market stress and lending to software companies that may face AI disruption, there are signs that private credit markets are relatively stable.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-outlook-for-private-credit-amid-rising-market-stress</guid>
-      <category>Alternatives &amp; Private Markets</category>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lindsay Rosner: Why There Could Be More Opportunities in Fixed Income</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/id-rather-be-a-bond-lindsay-rosner-on-fixed-income-opportunities</link>
-      <description>Bond yields have risen sharply in the past month. Is this move an overreaction – and is it creating opportunities for investors? Lindsay Rosner, Head of Multi-Sector Investing in Goldman Sachs Asset Management, discusses with Chris Hussey.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/id-rather-be-a-bond-lindsay-rosner-on-fixed-income-opportunities</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 03:49:10 +0000</lastBuildDate>
     <item>
       <title>Iran Conflict: How Long, and How Bad?</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/iran-conflict-how-long-and-how-bad</link>
@@ -804,6 +788,22 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/emerging-market-stocks-may-climb-higher-amid-boost-from-ai</guid>
       <category>Markets</category>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/us-midyear-outlook-geopolitical-shocks-the-new-fed-era-and-growth</link>
+      <description>With a newly installed Federal Reserve chairman, a surprisingly soft inflation print, and persistent geopolitical tensions, the trajectory of US monetary policy remains uncertain. Goldman Sachs Research Chief US Economist David Mericle shares his perspective on the resilience of the labor market, the outlook for inflation, and US economic growth.   </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/us-midyear-outlook-geopolitical-shocks-the-new-fed-era-and-growth</guid>
+      <category>Markets</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What the Capex Boom Means for Stock Investors</title>
+      <link>https://www.goldmansachs.com/insights/articles/what-the-capex-boom-means-for-stock-investors</link>
+      <description>A long-term shift in the investment regime could favor companies with high capital spending and physical assets.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/what-the-capex-boom-means-for-stock-investors</guid>
+      <category>Markets</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7170,6 +7170,20 @@
       "topic": "Artificial Intelligence",
       "url": "https://www.goldmansachs.com/insights/articles/what-the-booms-in-electricity-and-internet-show-about-ai"
     },
+    "https://www.goldmansachs.com/insights/articles/what-the-capex-boom-means-for-stock-investors": {
+      "content_hash": "73515b344aa450cfa15c7cbb8264f9a56b9abe75e89df8fcdd606b710973650e",
+      "content_type": "Article",
+      "description": "A long-term shift in the investment regime could favor companies with high capital spending and physical assets.",
+      "fetched_at": "2026-07-22T03:49:08+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-21T15:45:29.000Z",
+      "media": [],
+      "publish_date": "2026-07-21",
+      "removed": false,
+      "title": "What the Capex Boom Means for Stock Investors",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/what-the-capex-boom-means-for-stock-investors"
+    },
     "https://www.goldmansachs.com/insights/articles/what-the-uk-budget-means-for-its-bond-and-stock-markets": {
       "content_hash": "1226061eae6ae5886c30aa6b396a0b713714b0a70b558a59e9238f45ce56dc87",
       "content_type": "Article",
@@ -22535,6 +22549,28 @@
       "title": "Is the UK economy finally turning the corner?",
       "topic": "Europe",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/uk-economy-stehn-keenan"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/us-midyear-outlook-geopolitical-shocks-the-new-fed-era-and-growth": {
+      "content_hash": "cff0de411dab3700b42faec309f5d7e40ef38592b7ea9320d05f927727c19325",
+      "content_type": "Podcast",
+      "description": "With a newly installed Federal Reserve chairman, a surprisingly soft inflation print, and persistent geopolitical tensions, the trajectory of US monetary policy remains uncertain. Goldman Sachs Research Chief US Economist David Mericle shares his perspective on the resilience of the labor market, the outlook for inflation, and US economic growth.   ",
+      "fetched_at": "2026-07-22T03:49:09+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-21T19:04:23.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/us-midyear-outlook-geopolitical-shocks-the-new-fed-era-and-growth/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71173_9666_Ep26-043_GS-Exchanges-with-David-Mericle_FullPodcast2.mp4"
+        }
+      ],
+      "publish_date": "2026-07-21",
+      "removed": false,
+      "title": "US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/us-midyear-outlook-geopolitical-shocks-the-new-fed-era-and-growth"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/warburg-pincus-ceo-jeffrey-perlman-on-navigating-a-trickier-private-equity-environment": {
       "content_hash": "218b900506b630f0829f54ffa879c3d4f3bacc1dcfea2b3f2323785b041318be",

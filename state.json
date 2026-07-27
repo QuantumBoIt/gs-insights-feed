@@ -42786,6 +42786,35 @@
       "topic": "Europe",
       "url": "https://www.goldmansachs.com/insights/the-markets/are-european-stocks-poised-to-outperform-the-s-and-p"
     },
+    "https://www.goldmansachs.com/insights/the-markets/are-hedge-funds-still-bullish-on-ai-stocks": {
+      "content_hash": "5eea53bce5fb69ba4a42d18243cc231b49f8604e7627e6e0f6a9ae211df371cb",
+      "content_type": "Podcast",
+      "description": "Despite heavy selling of tech stocks, hedge funds are still fundamentally bullish on AI, according to Vincent Lin, co-head of Prime Insights and Analytics in Global Banking &amp; Markets.",
+      "fetched_at": "2026-07-27T04:04:16+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-24T14:25:24.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/are-hedge-funds-still-bullish-on-ai-stocks/vincent-16x9.png",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-71291-9667-TheMarkets-Ep26-028-VincentLin.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/are-hedge-funds-still-bullish-on-ai-stocks/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-07-24",
+      "removed": false,
+      "title": "Are Hedge Funds Still Bullish on AI Stocks?",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/the-markets/are-hedge-funds-still-bullish-on-ai-stocks"
+    },
     "https://www.goldmansachs.com/insights/the-markets/are-markets-overreacting-to-inflation-data-": {
       "content_hash": "7847331c0fcfe030b05180bf1a8d0f9ad88a8fb0800ef7cf4ed0c0bd9c57b971",
       "content_type": "Podcast",

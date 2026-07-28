@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 28 Jul 2026 03:38:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 14:39:46 +0000</lastBuildDate>
     <item>
       <title>How the Conflict in the Strait of Hormuz Could Affect Global Agriculture Prices</title>
       <link>https://www.goldmansachs.com/insights/articles/how-the-conflict-in-the-strait-of-hormuz-could-affect-global-agriculture-prices</link>
@@ -790,18 +790,18 @@ Recorded on May 28, 2026.</description>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Jon Winkelried on Lessons from Goldman Sachs and TPG’s Next Chapter</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/jon-winkelried</link>
+      <description>Jon Winkelried, CEO of TPG and a Goldman Sachs alum, joins Matt McClure, global co-head of Investment Banking, to reflect on his career journey.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/jon-winkelried</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Europe’s Consolidated Stock Market Tape Could Invigorate Trading and Boost Investment</title>
       <link>https://www.goldmansachs.com/insights/articles/europes-consolidated-stock-market-tape-could-invigorate-and-boost-investment</link>
       <description>Consolidated stock ticker tapes could show that liquidity is stronger than many realize, boosting the region’s appeal to investors.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/europes-consolidated-stock-market-tape-could-invigorate-and-boost-investment</guid>
       <category>Europe</category>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jon Winkelried on Lessons from Goldman Sachs and TPG’s Next Chapter</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/jon-winkelried</link>
-      <description>Jon Winkelried, CEO of TPG and a Goldman Sachs alum, joins Matt McClure, global co-head of Investment Banking, to reflect on his career journey.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/jon-winkelried</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

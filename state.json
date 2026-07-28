@@ -1757,6 +1757,20 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/articles/european-telecom-companies-poised-for-growth-amid-deregulation"
     },
+    "https://www.goldmansachs.com/insights/articles/europes-consolidated-stock-market-tape-could-invigorate-and-boost-investment": {
+      "content_hash": "d662671d61acd0158c20965a8ec607c46685dbc0d235bd35675c07ce3f1c4189",
+      "content_type": "Article",
+      "description": "Consolidated stock ticker tapes could show that liquidity is stronger than many realize, boosting the region’s appeal to investors.",
+      "fetched_at": "2026-07-28T03:38:51+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-27T16:47:03.000Z",
+      "media": [],
+      "publish_date": "2026-07-27",
+      "removed": false,
+      "title": "Europe’s Consolidated Stock Market Tape Could Invigorate Trading and Boost Investment",
+      "topic": "Europe",
+      "url": "https://www.goldmansachs.com/insights/articles/europes-consolidated-stock-market-tape-could-invigorate-and-boost-investment"
+    },
     "https://www.goldmansachs.com/insights/articles/europes-green-energy-transition-is-gaining-momentum": {
       "content_hash": "e44afd058f107b7c90dee875eb04fb4de40424d6c0b13ab74f92ee62f0cf8151",
       "content_type": "Article",
@@ -35006,6 +35020,35 @@
       "title": "Jon Moeller, President/CEO of Procter &amp; Gamble",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/jon-moeller"
+    },
+    "https://www.goldmansachs.com/insights/talks-at-gs/jon-winkelried": {
+      "content_hash": "89c59f3676b8980f8b5376dee35da60397fc24d73f70c41c04f0f5b24a596067",
+      "content_type": "",
+      "description": "Jon Winkelried, CEO of TPG and a Goldman Sachs alum, joins Matt McClure, global co-head of Investment Banking, to reflect on his career journey.",
+      "fetched_at": "2026-07-28T03:38:50+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-27T18:52:28.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/jon-winkelried/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-71183_9723_Ep26-020_Talks_at_GS_with_Jon_Winkelried-Session_Highlights_16X9.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/jon-winkelried/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-07-27",
+      "removed": false,
+      "title": "Jon Winkelried on Lessons from Goldman Sachs and TPG’s Next Chapter",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/jon-winkelried"
     },
     "https://www.goldmansachs.com/insights/talks-at-gs/jonathan-haidt": {
       "content_hash": "70637eafb1ccc8fb72b258f542b6720ed8b5df2e56af2a70a41b0f1af398f741",

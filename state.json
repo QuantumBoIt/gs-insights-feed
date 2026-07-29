@@ -20387,9 +20387,9 @@
       "content_hash": "e732540ae0f58682c4f3184a2772c5f9cf823f02fba7acd29603914ed5698609",
       "content_type": "",
       "description": " The volume of US IPO issuance has jumped to a record high in 2026. Is it a late-cycle warning sign, and can the market absorb the new equity supply? Jay Ritter of The IPO Initiative and Owen Lamont of Acadian Asset Management discuss in an episode of Goldman Sachs Exchanges, based on the latest Top of Mind report.",
-      "fetched_at": "2026-07-29T03:42:24+00:00",
+      "fetched_at": "2026-07-29T14:32:22+00:00",
       "file_path": "",
-      "lastmod": "2026-07-28T17:19:06.000Z",
+      "lastmod": "2026-07-29T08:30:21.000Z",
       "media": [
         {
           "kind": "video",
@@ -28268,6 +28268,35 @@
       "title": "Dr. Arie Belldegrun, Co-Founder and Executive Chairman, Allogene Therapeutics",
       "topic": "Entrepreneurship",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/arie-belldegrun"
+    },
+    "https://www.goldmansachs.com/insights/talks-at-gs/arun-gupta": {
+      "content_hash": "ccaa7617c0c91e439a3f4d6a5913a5b15428cabcc6f632d4ddd8291f2ecf0b9a",
+      "content_type": "Video",
+      "description": "Arun Gupta joins Talks at GS to discuss building purpose-driven, dual-citizen careers that bring Silicon Valley’s innovative spirit to public service.",
+      "fetched_at": "2026-07-29T14:32:25+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-29T13:44:49.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/arun-gupta/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71332_9723_Ep26-018_TAGS_Arun_Gupta_V03_HIGHLIGHTS.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/arun-gupta/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-07-29",
+      "removed": false,
+      "title": "Arun Gupta on Bringing Silicon Valley’s Spirit to Public Service",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/arun-gupta"
     },
     "https://www.goldmansachs.com/insights/talks-at-gs/arvind-jain": {
       "content_hash": "3f6debdca88578864b933731a9eb75dd6ebe6933c4b4c74bb0a3ecc9e8f7a42a",
@@ -48958,9 +48987,9 @@
       "content_hash": "233c24b70d0821bf693f4112966f7853d3733d247a4b342d461bc9a25f547929",
       "content_type": "Report",
       "description": "After several relatively quiet years, the US IPO market has reopened in a big way in 2026, with issuance to date rising sharply to a new record high. But this resurgence has raised two key concerns for the equity market: whether it’s flashing a late-cycle warning sign, and—even if it isn’t—whether the market can comfortably digest so much new issuance. So, how worried should investors be?",
-      "fetched_at": "2026-07-29T03:42:25+00:00",
+      "fetched_at": "2026-07-29T14:32:24+00:00",
       "file_path": "",
-      "lastmod": "2026-07-28T18:56:50.000Z",
+      "lastmod": "2026-07-29T08:29:08.000Z",
       "media": [
         {
           "kind": "pdf-report",

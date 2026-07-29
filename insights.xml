@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 29 Jul 2026 03:42:25 +0000</lastBuildDate>
-    <item>
-      <title>Natural Gas in Focus: Iran Conflict Could Have ‘Very Painful’ Consequences</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/natural-gas-in-focus-iran-conflict-could-have-very-painful-consequences</link>
-      <description>While oil dominates headlines amid the Iran conflict, an equally unsettling story is playing out in natural gas markets that may pose an even greater threat. In this episode of Goldman Sachs Exchanges, Samantha Dart, co-head of Global Commodities Research, explains why the length of the Iran conflict could have a significant impact on natural gas prices. This episode was recorded on April 6th, 2026. </description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/natural-gas-in-focus-iran-conflict-could-have-very-painful-consequences</guid>
-      <category>Energy</category>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 14:32:25 +0000</lastBuildDate>
     <item>
       <title>Sir Sadiq Khan on London’s Global Edge—and What Comes Next</title>
       <link>https://www.goldmansachs.com/insights/talks-at-gs/sadiq-khan</link>
@@ -803,6 +795,13 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/is-the-surge-in-us-ipos-a-warning-sign-for-investors</guid>
       <category>IPOs &amp; M&amp;A</category>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arun Gupta on Bringing Silicon Valley’s Spirit to Public Service</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/arun-gupta</link>
+      <description>Arun Gupta joins Talks at GS to discuss building purpose-driven, dual-citizen careers that bring Silicon Valley’s innovative spirit to public service.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/arun-gupta</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

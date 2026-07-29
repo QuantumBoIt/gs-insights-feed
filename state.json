@@ -20383,6 +20383,28 @@
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/is-the-feds-independence-at-risk"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/is-the-surge-in-us-ipos-a-warning-sign-for-investors": {
+      "content_hash": "e732540ae0f58682c4f3184a2772c5f9cf823f02fba7acd29603914ed5698609",
+      "content_type": "",
+      "description": " The volume of US IPO issuance has jumped to a record high in 2026. Is it a late-cycle warning sign, and can the market absorb the new equity supply? Jay Ritter of The IPO Initiative and Owen Lamont of Acadian Asset Management discuss in an episode of Goldman Sachs Exchanges, based on the latest Top of Mind report.",
+      "fetched_at": "2026-07-29T03:42:24+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-28T17:19:06.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/is-the-surge-in-us-ipos-a-warning-sign-for-investors/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71327_9666_Ep26-049_Exchanges_TOM_IPOs_Slated.mp4"
+        }
+      ],
+      "publish_date": "2026-07-28",
+      "removed": false,
+      "title": "Is the Surge in US IPOs a Warning Sign for Investors?",
+      "topic": "IPOs & M&A",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/is-the-surge-in-us-ipos-a-warning-sign-for-investors"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/kkr-henry-kravis-on-private-equity-culture-and-global-markets": {
       "content_hash": "9b6d39b23528a3eca757087c4b273aa61a65dbec3b837f355dc2def2753ad618",
       "content_type": "Podcast",
@@ -48931,6 +48953,28 @@
       "title": "Investing In Climate Change 2.0",
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/top-of-mind/investing-in-climate-change-2-0"
+    },
+    "https://www.goldmansachs.com/insights/top-of-mind/ipo-surge-a-red-flag-for-markets": {
+      "content_hash": "233c24b70d0821bf693f4112966f7853d3733d247a4b342d461bc9a25f547929",
+      "content_type": "Report",
+      "description": "After several relatively quiet years, the US IPO market has reopened in a big way in 2026, with issuance to date rising sharply to a new record high. But this resurgence has raised two key concerns for the equity market: whether it’s flashing a late-cycle warning sign, and—even if it isn’t—whether the market can comfortably digest so much new issuance. So, how worried should investors be?",
+      "fetched_at": "2026-07-29T03:42:25+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-28T18:56:50.000Z",
+      "media": [
+        {
+          "kind": "pdf-report",
+          "local_path": "",
+          "poster": "",
+          "title": "Read the Report",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/ipo-surge-a-red-flag-for-markets/redacted-report.pdf"
+        }
+      ],
+      "publish_date": "2026-07-28",
+      "removed": false,
+      "title": "IPO Surge: A Red Flag for Markets?",
+      "topic": "IPOs & M&A",
+      "url": "https://www.goldmansachs.com/insights/top-of-mind/ipo-surge-a-red-flag-for-markets"
     },
     "https://www.goldmansachs.com/insights/top-of-mind/iran-conflict-how-long-and-how-bad": {
       "content_hash": "cb68fe4d4ca5771c01b05a1d453e071e0e1013ef1a132d202958220f9159d6d6",

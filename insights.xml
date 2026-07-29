@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 28 Jul 2026 14:39:46 +0000</lastBuildDate>
-    <item>
-      <title>How the Conflict in the Strait of Hormuz Could Affect Global Agriculture Prices</title>
-      <link>https://www.goldmansachs.com/insights/articles/how-the-conflict-in-the-strait-of-hormuz-could-affect-global-agriculture-prices</link>
-      <description>The turmoil in the Strait of Hormuz could disrupt global flows of nitrogen fertilizers and LNG that are important for agriculture around the world.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-the-conflict-in-the-strait-of-hormuz-could-affect-global-agriculture-prices</guid>
-      <category>Markets</category>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Exchanges: Power Problems?</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/ai-exchanges-power-problems</link>
-      <description>As the demand for AI-powered data centers continues to grow, Goldman Sachs Research’s Brian Singer explains the potential sources—and constraints—of power demand growth.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/ai-exchanges-power-problems</guid>
-      <category>Artificial Intelligence</category>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 03:42:25 +0000</lastBuildDate>
     <item>
       <title>Natural Gas in Focus: Iran Conflict Could Have ‘Very Painful’ Consequences</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/natural-gas-in-focus-iran-conflict-could-have-very-painful-consequences</link>
@@ -803,6 +787,22 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/europes-consolidated-stock-market-tape-could-invigorate-and-boost-investment</guid>
       <category>Europe</category>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IPO Surge: A Red Flag for Markets?</title>
+      <link>https://www.goldmansachs.com/insights/top-of-mind/ipo-surge-a-red-flag-for-markets</link>
+      <description>After several relatively quiet years, the US IPO market has reopened in a big way in 2026, with issuance to date rising sharply to a new record high. But this resurgence has raised two key concerns for the equity market: whether it’s flashing a late-cycle warning sign, and—even if it isn’t—whether the market can comfortably digest so much new issuance. So, how worried should investors be?</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/top-of-mind/ipo-surge-a-red-flag-for-markets</guid>
+      <category>IPOs &amp; M&amp;A</category>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is the Surge in US IPOs a Warning Sign for Investors?</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/is-the-surge-in-us-ipos-a-warning-sign-for-investors</link>
+      <description> The volume of US IPO issuance has jumped to a record high in 2026. Is it a late-cycle warning sign, and can the market absorb the new equity supply? Jay Ritter of The IPO Initiative and Owen Lamont of Acadian Asset Management discuss in an episode of Goldman Sachs Exchanges, based on the latest Top of Mind report.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/is-the-surge-in-us-ipos-a-warning-sign-for-investors</guid>
+      <category>IPOs &amp; M&amp;A</category>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

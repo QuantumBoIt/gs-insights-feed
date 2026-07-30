@@ -3441,6 +3441,20 @@
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/articles/how-deep-could-the-next-us-recession-be"
     },
+    "https://www.goldmansachs.com/insights/articles/how-do-geopolitical-alliances-affect-economic-growth": {
+      "content_hash": "18fc050cdd854b6c112406c0b2b91613f9ea13957a677ca3259215dd68ee8933",
+      "content_type": "Article",
+      "description": "Geopolitical fragmentation may have substantial and long-term effects on worldwide GDP growth, according to Goldman Sachs Research.",
+      "fetched_at": "2026-07-30T14:33:42+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-30T13:42:51.000Z",
+      "media": [],
+      "publish_date": "2026-07-30",
+      "removed": false,
+      "title": "How Do Geopolitical Alliances Affect Economic Growth?",
+      "topic": "Macroeconomics",
+      "url": "https://www.goldmansachs.com/insights/articles/how-do-geopolitical-alliances-affect-economic-growth"
+    },
     "https://www.goldmansachs.com/insights/articles/how-draghis-plan-for-electrification-could-jumpstart-europes-economy": {
       "content_hash": "12e3f7f6e109bb0a99f6ddcddf5cd7686dbdfb68e7f025b0f8bad2a092d37aea",
       "content_type": "Article",
@@ -6155,6 +6169,20 @@
       "title": "The Jobs AI Is Likely to Boost—and Those It May Disrupt",
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/articles/the-jobs-ai-is-likely-to-boost-and-those-it-may-disrupt"
+    },
+    "https://www.goldmansachs.com/insights/articles/the-mine-to-magnet-strategy-is-spurring-m-a-in-rare-earths": {
+      "content_hash": "86a4aa64763805f67d29c51abbf8d4d807fac83b21d3c27be5ba7c02dc21e0ed",
+      "content_type": "Article",
+      "description": "Electric vehicles, AI, and alternative energy all have something in common: critical minerals and rare earths.",
+      "fetched_at": "2026-07-30T14:33:43+00:00",
+      "file_path": "",
+      "lastmod": "2026-07-30T12:01:48.000Z",
+      "media": [],
+      "publish_date": "2026-07-30",
+      "removed": false,
+      "title": "The Mine-to-Magnet Strategy Is Spurring M&A in Rare Earths ",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/the-mine-to-magnet-strategy-is-spurring-m-a-in-rare-earths"
     },
     "https://www.goldmansachs.com/insights/articles/the-new-york-times-how-to-know-when-a-world-event-could-shock-the-market": {
       "content_hash": "f84c64ca595a77277421d0283d19a701ddf3f93e8390142d4ab7a1a0bf1f8e94",

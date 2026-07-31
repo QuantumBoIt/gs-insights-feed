@@ -20429,9 +20429,9 @@
       "content_hash": "e732540ae0f58682c4f3184a2772c5f9cf823f02fba7acd29603914ed5698609",
       "content_type": "",
       "description": " The volume of US IPO issuance has jumped to a record high in 2026. Is it a late-cycle warning sign, and can the market absorb the new equity supply? Jay Ritter of The IPO Initiative and Owen Lamont of Acadian Asset Management discuss in an episode of Goldman Sachs Exchanges, based on the latest Top of Mind report.",
-      "fetched_at": "2026-07-29T14:32:22+00:00",
+      "fetched_at": "2026-07-31T03:52:14+00:00",
       "file_path": "",
-      "lastmod": "2026-07-29T08:30:21.000Z",
+      "lastmod": "2026-07-30T21:31:54.000Z",
       "media": [
         {
           "kind": "video",
@@ -20439,11 +20439,18 @@
           "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/is-the-surge-in-us-ipos-a-warning-sign-for-investors/16x9.jpg",
           "title": "Video",
           "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71327_9666_Ep26-049_Exchanges_TOM_IPOs_Slated.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/is-the-surge-in-us-ipos-a-warning-sign-for-investors/transcript.pdf"
         }
       ],
       "publish_date": "2026-07-28",
       "removed": false,
-      "title": "Is the Surge in US IPOs a Warning Sign for Investors?",
+      "title": "What the Surge in IPOs Means for Investors",
       "topic": "IPOs & M&A",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/is-the-surge-in-us-ipos-a-warning-sign-for-investors"
     },

@@ -19478,6 +19478,35 @@
       "topic": "Artificial Intelligence",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-ai-could-impact-geopolitics"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-ai-debt-is-reshaping-the-credit-market": {
+      "content_hash": "e847fe9958ff709aa88aff68f19af1fd37e1d3e732fa8b7675c776155ed64440",
+      "content_type": "Podcast",
+      "description": "As tech companies increasingly turn to debt markets to fund the AI buildout, Goldman Sachs’ Amanda Lynam and Zach Ablon discuss how the borrowing is impacting bond yields, private markets, and investors’ portfolios. ",
+      "fetched_at": "2026-08-06T03:41:16+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-05T21:34:50.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/how-ai-debt-is-reshaping-credit-markets/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71457_9666_Ep26-052_Exchanges_Zach_Ablon_Amanda_Lynam_FullPodcastREV.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/how-ai-debt-is-reshaping-credit-markets/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-08-05",
+      "removed": false,
+      "title": "How AI Debt Is Reshaping Credit Markets",
+      "topic": "Macroeconomics",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-ai-debt-is-reshaping-the-credit-market"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-clearlake-capitals-jose-e-feliciano-is-finding-value-across-private-markets": {
       "content_hash": "cf9d0ac39aaf88ec6608b614981079b10afecfcb4aa9bd3997513823a8551416",
       "content_type": "Podcast",
@@ -31204,6 +31233,35 @@
       "title": "Ella and Matthew Mills, Deliciously Ella’s Recipe for Success",
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/deliciously-ella"
+    },
+    "https://www.goldmansachs.com/insights/talks-at-gs/demond-martin-on-purpose-community-and-giving-what-you-have": {
+      "content_hash": "3e58b4fce41762cc64c22aa3f174d96624a7fd2cba1ef71c9e1bde4448c1aa8f",
+      "content_type": "",
+      "description": "Demond Martin, co-founder and CEO of WellWithAll, joins Kim Posnett, global co-head of Investment Banking at Goldman Sachs, to discuss his journey from rural North Carolina to Wall Street and founding a mission-driven business that reinvests 20% of its profits into health equity initiatives.",
+      "fetched_at": "2026-08-06T03:41:17+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-05T22:06:13.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/demond-martin/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-71512_9723_Ep26-019_Talks_at_GS_with_Demond_Martin-Session_Highlight_Akamai_Master.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/demond-martin/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-08-05",
+      "removed": false,
+      "title": "Demond Martin on Purpose, Community, and Giving What You Have",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/demond-martin-on-purpose-community-and-giving-what-you-have"
     },
     "https://www.goldmansachs.com/insights/talks-at-gs/denise-lewis": {
       "content_hash": "994141b19da5db5da52794218a3f9cf635f4c7e79473a118b092e668e54fcc16",

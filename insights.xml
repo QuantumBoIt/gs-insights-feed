@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 05 Aug 2026 14:34:45 +0000</lastBuildDate>
-    <item>
-      <title>Big Tech Opportunity: Lee Coppersmith on US Equities</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/big-tech-opportunity-lee-coppersmith-on-us-equities</link>
-      <description>After a huge one-day rally on the Iran ceasefire deal, is there still room for stocks to go higher? And what’s the best way for investors to take bullish positions on US equities now? Lee Coppersmith, who co-runs New York Equity Derivatives Sales in Goldman Sachs Global Banking &amp;amp; Markets, discusses with Mike Washington.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/big-tech-opportunity-lee-coppersmith-on-us-equities</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are Technology Stocks Cheap Now?</title>
-      <link>https://www.goldmansachs.com/insights/articles/are-technology-stocks-cheap-now</link>
-      <description>Global technology stocks started 2026 with one of the worst periods of underperformance relative to non-tech sectors since the early 1970s. The decline means they are no longer expensive compared to the rest of the stock market, according to Goldman Sachs Research.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/are-technology-stocks-cheap-now</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Aug 2026 03:41:17 +0000</lastBuildDate>
     <item>
       <title>Holocaust Survivors on Hope, Survival, and the Responsibility to Remember</title>
       <link>https://www.goldmansachs.com/insights/talks-at-gs/henry-and-bernie-schanzer</link>
@@ -802,6 +786,21 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-do-geopolitical-alliances-affect-economic-growth</guid>
       <category>Macroeconomics</category>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Demond Martin on Purpose, Community, and Giving What You Have</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/demond-martin-on-purpose-community-and-giving-what-you-have</link>
+      <description>Demond Martin, co-founder and CEO of WellWithAll, joins Kim Posnett, global co-head of Investment Banking at Goldman Sachs, to discuss his journey from rural North Carolina to Wall Street and founding a mission-driven business that reinvests 20% of its profits into health equity initiatives.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/demond-martin-on-purpose-community-and-giving-what-you-have</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI Debt Is Reshaping Credit Markets</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-ai-debt-is-reshaping-the-credit-market</link>
+      <description>As tech companies increasingly turn to debt markets to fund the AI buildout, Goldman Sachs’ Amanda Lynam and Zach Ablon discuss how the borrowing is impacting bond yields, private markets, and investors’ portfolios. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-ai-debt-is-reshaping-the-credit-market</guid>
+      <category>Macroeconomics</category>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

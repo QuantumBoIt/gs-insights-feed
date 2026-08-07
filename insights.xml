@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 07 Aug 2026 03:16:57 +0000</lastBuildDate>
-    <item>
-      <title>Why Aren’t Investors More Worried?</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-arent-investors-more-worried</link>
-      <description>Goldman Sachs Research’s Dominic Wilson discusses the impact of the Iran conflict—including the US blockade of the Strait of Hormuz—on global markets. In discussion with Exchanges Host Allison Nathan, he explores the market reactions, risks, and the outlook for equities, rates, currencies, and portfolio positioning amid the ongoing geopolitical uncertainty.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-arent-investors-more-worried</guid>
-      <category>Trade</category>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 13:40:38 +0000</lastBuildDate>
     <item>
       <title>Apollo's Jim Zelter on the Future of Private Credit</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/apollos-jim-zelter-on-ai-disruption-and-the-future-of-private-credit</link>
@@ -802,6 +794,14 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/are-japanese-stocks-at-risk-of-falling-as-the-yen-surges</guid>
       <category>Markets</category>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steven Tananbaum: The Evolution of Credit Investing and AI Opportunities</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldentrees-steven-tananbaum-the-evolution-of-credit-investing</link>
+      <description>Goldman Sachs President John Waldron and GoldenTree CIO Steven Tananbaum discuss the evolution of credit markets, Tananbaum’s investing framework, and how investment in artificial intelligence is impacting credit markets.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldentrees-steven-tananbaum-the-evolution-of-credit-investing</guid>
+      <category>Great Investors</category>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

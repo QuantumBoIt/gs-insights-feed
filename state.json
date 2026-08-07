@@ -18990,6 +18990,35 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/gold-oil-and-rare-earths-commodities-on-the-move"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldentrees-steven-tananbaum-the-evolution-of-credit-investing": {
+      "content_hash": "123f97be0f9d8052e262e124c843013154504dfef58ab5fba807ebc229ef728b",
+      "content_type": "Podcast",
+      "description": "Goldman Sachs President John Waldron and GoldenTree CIO Steven Tananbaum discuss the evolution of credit markets, Tananbaum’s investing framework, and how investment in artificial intelligence is impacting credit markets.",
+      "fetched_at": "2026-08-07T13:40:38+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-07T13:12:42.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/goldentrees-steven-tananbaum--the-evolution-of-credit-investing-and-ai-opportunities/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71483_004_9666_Ep26-047_Great_Investors_Podcast_with_Steven_Tananbaum_FullPodcast.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/goldentrees-steven-tananbaum--the-evolution-of-credit-investing-and-ai-opportunities/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-08-07",
+      "removed": false,
+      "title": "Steven Tananbaum: The Evolution of Credit Investing and AI Opportunities",
+      "topic": "Great Investors",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldentrees-steven-tananbaum-the-evolution-of-credit-investing"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-chairman-and-ceo-david-solomon-on-ai-m-and-a-and-markets": {
       "content_hash": "45ba8b5c14fed6ae854240cd0e4f9908868afd6e2e9c83ad77eb742f04ba9068",
       "content_type": "Podcast",

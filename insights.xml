@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:36:20 +0000</lastBuildDate>
-    <item>
-      <title>Holocaust Survivors on Hope, Survival, and the Responsibility to Remember</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/henry-and-bernie-schanzer</link>
-      <description>As children during the Holocaust, Henry and Bernie Schanzer were hidden and moved through a network of protectors who defied the Nazi regime to save them. They joined Sheara Fredman, Chief Accounting Officer and Controller at Goldman Sachs, to reflect on lessons about moral courage, and share why storytelling remains a powerful tool for remembrance across generations.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/henry-and-bernie-schanzer</guid>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 03:16:57 +0000</lastBuildDate>
     <item>
       <title>Why Aren’t Investors More Worried?</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-arent-investors-more-worried</link>
@@ -801,6 +794,14 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-ai-debt-is-reshaping-the-credit-market</guid>
       <category>Macroeconomics</category>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are Japanese Stocks at Risk of Falling as the Yen Surges?</title>
+      <link>https://www.goldmansachs.com/insights/articles/are-japanese-stocks-at-risk-of-falling-as-the-yen-surges</link>
+      <description>While the outlook for Japanese equities is positive, investor positioning in the market looks similar to the period preceding the steep selloff that occurred in mid-2024, according to Goldman Sachs Research.   </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/are-japanese-stocks-at-risk-of-falling-as-the-yen-surges</guid>
+      <category>Markets</category>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

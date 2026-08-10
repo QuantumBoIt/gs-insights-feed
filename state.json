@@ -2982,6 +2982,20 @@
       "topic": "Geopolitics",
       "url": "https://www.goldmansachs.com/insights/articles/global-institute-hosts-global-affairs-summits-in-new-york-and-london"
     },
+    "https://www.goldmansachs.com/insights/articles/global-investment-is-forecast-to-exceed-1-trillion-in-2026": {
+      "content_hash": "f5c3f411d8222f0eb789baf8e500ea87f2e8d3dc996d4a24e54972011c57673d",
+      "content_type": "Article",
+      "description": "Goldman Sachs Research adjusted widely cited measures of capital expenditure by US hyperscale tech companies to develop a more comprehensive estimate of AI investment around the world.",
+      "fetched_at": "2026-08-10T02:35:43+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-07T16:49:59.000Z",
+      "media": [],
+      "publish_date": "2026-08-07",
+      "removed": false,
+      "title": "Global AI Investment Is Forecast to Exceed $1 Trillion in 2026",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/articles/global-investment-is-forecast-to-exceed-1-trillion-in-2026"
+    },
     "https://www.goldmansachs.com/insights/articles/global-music-revenues-are-forecast-to-double-to-200-million-in-2035": {
       "content_hash": "3453c3c200d553b5162cc0c3df6001cf3bacf71836d489921ce14428066b34af",
       "content_type": "Article",
@@ -48107,6 +48121,35 @@
       "title": "Why US stocks could keep rising in 2025",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/why-us-stocks-could-keep-rising-in-2025"
+    },
+    "https://www.goldmansachs.com/insights/the-markets/why-us-stocks-may-grind-higher": {
+      "content_hash": "3a5e2b827996111bf1052838b7917015e10871ae735817215ad97164b3d4a0fc",
+      "content_type": "Podcast",
+      "description": "Ashok Varadhan, co-head of Global Banking &amp; Markets at Goldman Sachs, discusses his outlook on stocks, interest rates, and the Japanese yen on an episode of The Markets.",
+      "fetched_at": "2026-08-10T02:35:42+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-07T14:29:45.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/why-us-stocks-may-grind-higher/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-71526_9667-26-030_Markets_Ashok-Varadhan-v3_rev.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/why-us-stocks-may-grind-higher/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-08-07",
+      "removed": false,
+      "title": "Why US Stocks May Grind Higher",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/the-markets/why-us-stocks-may-grind-higher"
     },
     "https://www.goldmansachs.com/insights/the-markets/will-earnings-boost-us-stocks-": {
       "content_hash": "bbc027f739b1d13080c695139cd07f19b5f0507bfeb3b0bddaf6aef430ed68f5",

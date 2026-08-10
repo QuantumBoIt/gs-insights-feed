@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 10 Aug 2026 02:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:46:03 +0000</lastBuildDate>
     <item>
       <title>Prepare for More Volatility?</title>
       <link>https://www.goldmansachs.com/insights/videos/prepare-for-more-volatility</link>
@@ -780,14 +780,6 @@ Recorded on May 28, 2026.</description>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Global AI Investment Is Forecast to Exceed $1 Trillion in 2026</title>
-      <link>https://www.goldmansachs.com/insights/articles/global-investment-is-forecast-to-exceed-1-trillion-in-2026</link>
-      <description>Goldman Sachs Research adjusted widely cited measures of capital expenditure by US hyperscale tech companies to develop a more comprehensive estimate of AI investment around the world.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/global-investment-is-forecast-to-exceed-1-trillion-in-2026</guid>
-      <category>Artificial Intelligence</category>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Why US Stocks May Grind Higher</title>
       <link>https://www.goldmansachs.com/insights/the-markets/why-us-stocks-may-grind-higher</link>
       <description>Ashok Varadhan, co-head of Global Banking &amp;amp; Markets at Goldman Sachs, discusses his outlook on stocks, interest rates, and the Japanese yen on an episode of The Markets.</description>
@@ -801,6 +793,14 @@ Recorded on May 28, 2026.</description>
       <description>Goldman Sachs President John Waldron and GoldenTree CIO Steven Tananbaum discuss the evolution of credit markets, Tananbaum’s investing framework, and how investment in artificial intelligence is impacting credit markets.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldentrees-steven-tananbaum-the-evolution-of-credit-investing</guid>
       <category>Great Investors</category>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global AI Investment Is Forecast to Exceed $1 Trillion in 2026</title>
+      <link>https://www.goldmansachs.com/insights/articles/global-investment-is-forecast-to-exceed-1-trillion-in-2026</link>
+      <description>Goldman Sachs Research adjusted widely cited measures of capital expenditure by US hyperscale tech companies to develop a more comprehensive estimate of AI investment around the world.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/global-investment-is-forecast-to-exceed-1-trillion-in-2026</guid>
+      <category>Artificial Intelligence</category>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

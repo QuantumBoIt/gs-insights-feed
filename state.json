@@ -18345,26 +18345,26 @@
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/complexity-is-our-friend-james-brocklebank-on-advents-private-equity-strategy"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/cracks-in-private-credit": {
-      "content_hash": "540bb20332f2110deabc8ab400b8694428b217ac80bfb973ee0ccf5b52d61e50",
+      "content_hash": "b9e105073bc467e905344bc2cce428d78b9ce00d4356b44f2c2e9b79b8d7b6b1",
       "content_type": "Podcast",
       "description": "After over a decade of rapid growth and relative calm, the private credit market has come under pressure as several high-profile defaults, concerns about valuations, and exposure to a software industry vulnerable to AI disruption have fueled a surge in redemption requests.",
-      "fetched_at": "2026-05-13T04:14:42+00:00",
+      "fetched_at": "2026-08-12T02:46:28+00:00",
       "file_path": "",
-      "lastmod": "2026-05-12T18:27:13.000Z",
+      "lastmod": "2026-08-11T14:24:38.000Z",
       "media": [
         {
           "kind": "podcast",
           "local_path": "",
           "poster": "",
-          "title": "Cracks in Private Credit",
+          "title": "Pressures in Private Credit",
           "url": "https://playlist.megaphone.fm?e=GLD2803079262"
         },
         {
           "kind": "transcript",
           "local_path": "",
           "poster": "",
-          "title": "Transcript: Cracks in Private Credit",
-          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/cracks-in-private-credit/final-transcript.pdf"
+          "title": "Transcript: Pressures in Private Credit",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/cracks-in-private-credit/transcrpt.pdf"
         },
         {
           "kind": "podcast-platform",
@@ -18390,7 +18390,7 @@
       ],
       "publish_date": "2026-05-11",
       "removed": false,
-      "title": "Cracks in Private Credit",
+      "title": "Pressures in Private Credit",
       "topic": "Alternatives & Private Markets",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/cracks-in-private-credit"
     },

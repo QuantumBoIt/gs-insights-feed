@@ -6464,6 +6464,28 @@
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/articles/the-s-and-p-500-is-forecast-to-return-10-percent-in-2025"
     },
+    "https://www.goldmansachs.com/insights/articles/the-second-space-age-how-markets-technology-and-power-are-reshaping-the-final-frontier": {
+      "content_hash": "b4a48a1de89aef422007ca78bc1531508918e9618111b035363b4e261c882db0",
+      "content_type": "Article",
+      "description": "Space is becoming a new pillar of the industrial economy, and one that is increasingly important to life on earth. This paper examines the trajectory of the emerging orbital economy. ",
+      "fetched_at": "2026-08-13T02:48:34+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-12T15:24:01.000Z",
+      "media": [
+        {
+          "kind": "pdf-report",
+          "local_path": "",
+          "poster": "",
+          "title": "Download the Report",
+          "url": "https://www.goldmansachs.com/pdfs/insights/articles/the-second-space-age-how-markets-technology-and-power-are-reshaping-the-final-frontier/GS_Jul_GSGI_Second_Space_Age_08-11.pdf"
+        }
+      ],
+      "publish_date": "2026-08-12",
+      "removed": false,
+      "title": "The Second Space Age: How Markets, Technology, and Power Are Reshaping the Final Frontier",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/the-second-space-age-how-markets-technology-and-power-are-reshaping-the-final-frontier"
+    },
     "https://www.goldmansachs.com/insights/articles/the-six-themes-driving-capital-toward-sustainable-solutions": {
       "content_hash": "82827a3efbf7f5872a68ee862d361edce2d64114bdf0c17b6d37e5f20730d810",
       "content_type": "Article",

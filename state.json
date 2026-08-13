@@ -22908,6 +22908,35 @@
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-the-ipo-boom-means-for-the-us-equity-outlook"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-the-us-japan-currency-intervention-means-for-the-yen-rates-and-the-dollar": {
+      "content_hash": "2e4d1da0851eec16298675b0cf032ec3f4d2d99aa10598906f6be852938805c1",
+      "content_type": "Podcast",
+      "description": "Japan and the US recently staged the biggest yen intervention in 15 years, helping to stabilize Japan’s currency.  Karen Fishman of Goldman Sachs Research and Praneet Shah, global head of FX options trading in Global Banking &amp; Markets, explain why now, and whether another intervention might follow.",
+      "fetched_at": "2026-08-13T13:49:44+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-13T13:13:53.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/what-the-us-japan-currency-intervention-means-for-the-yen-rates-and-the-dollar/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71578_9666_Ep26-053_Exchanges_Karen_and_Praneet_FULL.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/what-the-us-japan-currency-intervention-means-for-the-yen-rates-and-the-dollar/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-08-12",
+      "removed": false,
+      "title": "Why the US and Japan Coordinated to Stabilize the Yen",
+      "topic": "Macroeconomics",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-the-us-japan-currency-intervention-means-for-the-yen-rates-and-the-dollar"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-trumps-policies-could-mean-for-the-fed": {
       "content_hash": "4dc09b52906b05e87bca3622459d02d5551bcd9089d2dfa2203507852249cd9e",
       "content_type": "Podcast",

@@ -44346,6 +44346,35 @@
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/the-markets/how-geopolitical-instability-is-affecting-markets"
     },
+    "https://www.goldmansachs.com/insights/the-markets/how-inflation-and-fiscal-policy-are-driving-us-treasury-markets": {
+      "content_hash": "cbf4d6dba9b3c65da9dc901a97ad0b7792a461d88529c696474618baa8b944c0",
+      "content_type": "Podcast",
+      "description": "Inflation is increasingly in focus for the US bond market and the Fed, says Mike Mitchell, head of US Treasury and Inflation Trading at Goldman Sachs.",
+      "fetched_at": "2026-08-14T13:45:14+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-14T13:06:20.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/how-inflation-and-fiscal-policy-are-driving-us-treasury-markets/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-71663_9667_Ep26-031_Mike_Mitchell_v2_akamai.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/how-inflation-and-fiscal-policy-are-driving-us-treasury-markets/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-08-14",
+      "removed": false,
+      "title": "How Inflation and Fiscal Policy Are Driving US Treasury Markets",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/the-markets/how-inflation-and-fiscal-policy-are-driving-us-treasury-markets"
+    },
     "https://www.goldmansachs.com/insights/the-markets/how-investors-are-managing-rising-volatility": {
       "content_hash": "51e09cc7f839ae16f94e9eac24030ca5524efc35988ddee3dc3658ecf7ce8087",
       "content_type": "Podcast",

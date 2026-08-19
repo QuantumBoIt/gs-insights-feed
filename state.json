@@ -7635,6 +7635,20 @@
       "topic": "IPOs & M&A",
       "url": "https://www.goldmansachs.com/insights/articles/why-corporate-separations-are-gaining-popularity-in-board-room-playbooks"
     },
+    "https://www.goldmansachs.com/insights/articles/why-etfs-are-expected-to-draw-2-trillion-in-investments-in-2026": {
+      "content_hash": "17359a12f8bfe2ff33910aa2c1f5979db4aa13afa141532c19d3ed7f42a4a3c4",
+      "content_type": "Article",
+      "description": "Product innovation, tax efficiency, and rising liquidity are helping drive ETF inflows to record levels.",
+      "fetched_at": "2026-08-19T01:54:14+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-18T16:28:52.000Z",
+      "media": [],
+      "publish_date": "2026-08-18",
+      "removed": false,
+      "title": "Why ETFs Are Expected to Draw $2 Trillion in Investments in 2026 ",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/why-etfs-are-expected-to-draw-2-trillion-in-investments-in-2026"
+    },
     "https://www.goldmansachs.com/insights/articles/why-europe-excels-at-building-fintech-unicorns": {
       "content_hash": "c71c27d05597d3ad1c9742752794d624c45b27389a02bee76975d59ec48237b0",
       "content_type": "Video",
@@ -22828,6 +22842,35 @@
       "title": "Warburg Pincus CEO Jeffrey Perlman on navigating a trickier private equity environment",
       "topic": "Great Investors",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/warburg-pincus-ceo-jeffrey-perlman-on-navigating-a-trickier-private-equity-environment"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/wellingtons-jean-hynes-on-the-art-of-investing-and-finding-new-markets": {
+      "content_hash": "886576bc0fbaf52a23136d1a0e42f6b12eb472c811410da1b9bf4ee25b804d71",
+      "content_type": "Podcast",
+      "description": "Jean Hynes, CEO of Wellington Management, went from joining the firm 30 35 years ago as an administrative assistant to leading the firm today. In an interview with Goldman Sachs’ Alison Mass on the Great Investors podcast, Hynes describes her career and shares what it takes to be a leading healthcare investor. what she learned from several decades of healthcare investing. I’m suggesting this edit because otherwise it sounds like she is still a healthcare investor.",
+      "fetched_at": "2026-08-19T01:54:15+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-18T13:27:22.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/wellingtons-jean-hynes-on-the-art-of-investing-and-finding-new-markets/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71491_005_9666_Ep26-044_GIP_with_Jean_Hynes_and_Alison_Mass_FullPodcast_REVISED.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/wellingtons-jean-hynes-on-the-art-of-investing-and-finding-new-markets/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-08-18",
+      "removed": false,
+      "title": "Wellington’s Jean Hynes on the Art of Investing and Finding New Markets",
+      "topic": "Great Investors",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/wellingtons-jean-hynes-on-the-art-of-investing-and-finding-new-markets"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-investors-expect-from-trump": {
       "content_hash": "18966772940717fc31eea78579073c0c4107b0c4b9dadcd39b2553aac2147c43",
@@ -44350,9 +44393,9 @@
       "content_hash": "cbf4d6dba9b3c65da9dc901a97ad0b7792a461d88529c696474618baa8b944c0",
       "content_type": "Podcast",
       "description": "Inflation is increasingly in focus for the US bond market and the Fed, says Mike Mitchell, head of US Treasury and Inflation Trading at Goldman Sachs.",
-      "fetched_at": "2026-08-14T13:45:14+00:00",
+      "fetched_at": "2026-08-19T01:54:16+00:00",
       "file_path": "",
-      "lastmod": "2026-08-14T13:06:20.000Z",
+      "lastmod": "2026-08-18T13:28:24.000Z",
       "media": [
         {
           "kind": "video",

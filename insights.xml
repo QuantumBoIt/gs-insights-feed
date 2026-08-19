@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 18 Aug 2026 13:09:44 +0000</lastBuildDate>
-    <item>
-      <title>The Impact of Higher Energy Prices on European Manufacturing Industries</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/the-impact-of-higher-energy-prices-on-eruopean-manufacturing-industries</link>
-      <description>Higher energy prices driven by the conflict in the Middle East are forecast to reduce European industrial production by 2% by the end of 2027 compared to its pre-conflict baseline, according to Goldman Sachs Research.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/the-impact-of-higher-energy-prices-on-eruopean-manufacturing-industries</guid>
-      <category>Energy</category>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>When AI Learns How the World Works</title>
-      <link>https://www.goldmansachs.com/insights/articles/when-ai-learns-how-the-world-works</link>
-      <description>After a decade defined by systems that recognize patterns and predict text, the frontier of AI is shifting toward models that understand how the world works. The next advances in AI may come from world models, which represent a quiet but decisive change in how machines become intelligent.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/when-ai-learns-how-the-world-works</guid>
-      <category>Artificial Intelligence</category>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 01:54:16 +0000</lastBuildDate>
     <item>
       <title>Cybersecurity Firms Show Software Industry How to Navigate AI</title>
       <link>https://www.goldmansachs.com/insights/articles/cybersecurity-firms-show-software-industry-how-to-navigate-ai</link>
@@ -803,6 +787,22 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/how-inflation-and-fiscal-policy-are-driving-us-treasury-markets</guid>
       <category>Markets</category>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wellington’s Jean Hynes on the Art of Investing and Finding New Markets</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/wellingtons-jean-hynes-on-the-art-of-investing-and-finding-new-markets</link>
+      <description>Jean Hynes, CEO of Wellington Management, went from joining the firm 30 35 years ago as an administrative assistant to leading the firm today. In an interview with Goldman Sachs’ Alison Mass on the Great Investors podcast, Hynes describes her career and shares what it takes to be a leading healthcare investor. what she learned from several decades of healthcare investing. I’m suggesting this edit because otherwise it sounds like she is still a healthcare investor.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/wellingtons-jean-hynes-on-the-art-of-investing-and-finding-new-markets</guid>
+      <category>Great Investors</category>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why ETFs Are Expected to Draw $2 Trillion in Investments in 2026 </title>
+      <link>https://www.goldmansachs.com/insights/articles/why-etfs-are-expected-to-draw-2-trillion-in-investments-in-2026</link>
+      <description>Product innovation, tax efficiency, and rising liquidity are helping drive ETF inflows to record levels.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-etfs-are-expected-to-draw-2-trillion-in-investments-in-2026</guid>
+      <category>Markets</category>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

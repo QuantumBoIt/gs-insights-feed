@@ -25655,6 +25655,28 @@
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/gs-sustain-adaptation-physical-risk-financial-risk-opportunity"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-research/gs-sustain-ai-data-centers-power-demand-cyclical-progresison-and-sustainability-implications": {
+      "content_hash": "1659a3b9d028ec1679bc9d29ba0be94b260e72891e1c461897c5b000d0795c0d",
+      "content_type": "Report",
+      "description": "AI hyperscalers’ increased spending, server/model productivity gains and US community pushback to data center development are raising questions about how long the AI innovation cycle can continue to fuel the Reliability investment theme. ",
+      "fetched_at": "2026-08-20T01:52:38+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-19T19:39:32.000Z",
+      "media": [
+        {
+          "kind": "pdf-report",
+          "local_path": "",
+          "poster": "",
+          "title": "Read Report",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/gs-sustain-ai-data-centers-power-demand-cyclical-progresison-and-sustainability-implications/redacted-report.pdf"
+        }
+      ],
+      "publish_date": "2026-08-19",
+      "removed": false,
+      "title": "GS SUSTAIN: AI/Data Centers: Power Demand, Cyclical Progression, and Sustainability Implications",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/gs-sustain-ai-data-centers-power-demand-cyclical-progresison-and-sustainability-implications"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-research/gs-sustain-an-analysis-of-apac-esg-regulation": {
       "content_hash": "36a781aa348a3c6655fc91866e2343b4f7accef7c19c392f974e5f884eefabf0",
       "content_type": "Report",

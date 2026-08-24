@@ -48202,6 +48202,35 @@
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/the-markets/why-todays-ipo-market-may-surprise-you"
     },
+    "https://www.goldmansachs.com/insights/the-markets/why-us-equity-returns-are-broadening-beyond-ai-stocks": {
+      "content_hash": "7ec3562bbd5e42499f1fc5bf0aeeb189a8df04f83356125616df5c59e0624fa4",
+      "content_type": "Podcast",
+      "description": "As US stocks trade near record highs, equity returns are starting to broaden beyond AI-related companies, says Shawn Tuteja, head of ETF and Custom Basket Volatility Trading in Goldman Sachs Global Banking &amp; Markets, on The Markets podcast.",
+      "fetched_at": "2026-08-24T01:58:52+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-21T13:14:20.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/why-us-equity-returns-are-broadening-beyond-ai-stocks/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-71752_9667-26-032_Markets_Shawn-Tuteja_v4.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/why-us-equity-returns-are-broadening-beyond-ai-stocks/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-08-21",
+      "removed": false,
+      "title": "Why US Equity Returns Are Broadening Beyond AI Stocks",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/the-markets/why-us-equity-returns-are-broadening-beyond-ai-stocks"
+    },
     "https://www.goldmansachs.com/insights/the-markets/why-us-stocks-could-climb-higher": {
       "content_hash": "37f993272798a8db8d55a111ffc69fbeeaab72eec02974739b426199b007433a",
       "content_type": "Podcast",

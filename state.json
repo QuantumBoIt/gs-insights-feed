@@ -18092,6 +18092,35 @@
       "topic": "Great Investors",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/bridgewater-associates-co-cio-karen-karniol-tambour"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/building-ai-systems-for-capital-markets": {
+      "content_hash": "b7a7e8273ce43dd19f09c7c0daa9379d0804268ef2991a927c3f2d272ecadfb5",
+      "content_type": "Podcast",
+      "description": "Rapid technological advances have raised the stakes of building generative AI applications for financial professionals. Chris Churchman, head of Goldman Sachs Marquee, shares his first-hand experience.",
+      "fetched_at": "2026-08-25T01:53:34+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-24T19:28:09.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/building-ai-systems-for-capital-markets/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71126_9666_Ep26-046_Exchanges_Chris_ChurchmanFULL.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/building-ai-systems-for-capital-markets/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-08-24",
+      "removed": false,
+      "title": "Building AI Systems for Capital Markets",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/building-ai-systems-for-capital-markets"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/can-software-survive-ai": {
       "content_hash": "70ce9344606ea5e47f80eb7569208dc1aa5c7adec10fcabbb74b8a9743b62241",
       "content_type": "Podcast",

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 24 Aug 2026 13:14:45 +0000</lastBuildDate>
-    <item>
-      <title>M&amp;A Volume Expected to Surge This Year Despite Economic Uncertainty</title>
-      <link>https://www.goldmansachs.com/insights/articles/ma-volume-expected-to-surge-this-year-despite-economic-uncertainty</link>
-      <description>This M&amp;amp;A cycle has a few years to run as big deals lead a surge in volume.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/ma-volume-expected-to-surge-this-year-despite-economic-uncertainty</guid>
-      <category>IPOs &amp; M&amp;A</category>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 01:53:34 +0000</lastBuildDate>
     <item>
       <title>Winning the Right to Invest: 20VC’s Harry Stebbings</title>
       <link>https://www.goldmansachs.com/insights/talks-at-gs/harry-stebbings</link>
@@ -802,6 +794,14 @@ Recorded on May 28, 2026.</description>
       <description>As US stocks trade near record highs, equity returns are starting to broaden beyond AI-related companies, says Shawn Tuteja, head of ETF and Custom Basket Volatility Trading in Goldman Sachs Global Banking &amp;amp; Markets, on The Markets podcast.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/why-us-equity-returns-are-broadening-beyond-ai-stocks</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building AI Systems for Capital Markets</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/building-ai-systems-for-capital-markets</link>
+      <description>Rapid technological advances have raised the stakes of building generative AI applications for financial professionals. Chris Churchman, head of Goldman Sachs Marquee, shares his first-hand experience.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/building-ai-systems-for-capital-markets</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

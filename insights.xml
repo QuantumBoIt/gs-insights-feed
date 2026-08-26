@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:12:48 +0000</lastBuildDate>
-    <item>
-      <title>Winning the Right to Invest: 20VC’s Harry Stebbings</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/harry-stebbings</link>
-      <description>Harry Stebbings has transformed a bedroom podcast into a media and investment conglomerate, leveraging that platform to back ten unicorns. In conversation with Bobby Molavi, head of EMEA execution services and European primary distribution for Equity Capital Markets in Equities, Stebbings discusses his journey from an 18-year-old dropout to a leading venture capitalist, exploring how distribution and brand have become the ultimate weapons in a commoditized capital market. He shares his &amp;quot;science of content,&amp;quot; the shifting loyalty in early-stage investing, and why he believes Europe is currently the greatest opportunity in the venture landscape.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/harry-stebbings</guid>
-      <category>Entrepreneurship</category>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 01:59:35 +0000</lastBuildDate>
     <item>
       <title>How Warsh Could Shape Fed Policy</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-warsh-could-shape-fed-policy</link>
@@ -802,6 +794,13 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/building-ai-systems-for-capital-markets</guid>
       <category>Artificial Intelligence</category>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessing a Less Transparent Fed</title>
+      <link>https://www.goldmansachs.com/insights/top-of-mind/assessing-a-less-transparent-fed</link>
+      <description>Fed Chairman Kevin Warsh is steering the Fed into a less transparent era. So, is that a positive or negative development, and what could it mean for markets and the economy?</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/top-of-mind/assessing-a-less-transparent-fed</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

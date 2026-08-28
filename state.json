@@ -3094,6 +3094,20 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/articles/gold-forecast-to-rise-by-the-middle-of-2026"
     },
+    "https://www.goldmansachs.com/insights/articles/gold-is-forecast-to-climb-as-central-banks-buy-the-precious-metal": {
+      "content_hash": "d70321bf1f7ca144d83b2e3af861c68e11d55cef312fd8aa71ac21a79f06b00b",
+      "content_type": "Article",
+      "description": "Goldman Sachs Research expects gold to rise to $4,900/toz by the end of 2026, supported by demand from central banks and declining expectations of US rate hikes.",
+      "fetched_at": "2026-08-28T22:23:20+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-28T15:56:18.000Z",
+      "media": [],
+      "publish_date": "2026-08-28",
+      "removed": false,
+      "title": "Gold Is Forecast to Climb as Central Banks Buy the Precious Metal",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/gold-is-forecast-to-climb-as-central-banks-buy-the-precious-metal"
+    },
     "https://www.goldmansachs.com/insights/articles/gold-predicted-to-climb-higher-than-expected-as-records-shatter": {
       "content_hash": "1c5e14c4892a42dbc43b8296991d59e288f3ebb9879c9390910ebd10015d6729",
       "content_type": "Article",
@@ -47274,6 +47288,35 @@
       "title": "What Fed cuts will mean for markets",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/what-fed-cuts-will-mean-for-markets"
+    },
+    "https://www.goldmansachs.com/insights/the-markets/what-is-the-outlook-for-diesel-and-gasoline-supplies": {
+      "content_hash": "816386e6c1ee9b66b5f07083fd5e82c5abda86a8536913084553dba36eaa0bf6",
+      "content_type": "",
+      "description": "The tightness in supplies of refined products like diesel, gasoline, and jet fuel is likely to persist amid the ongoing disruption to traffic through the Strait of Hormuz, says Nitin Jindal, head of Global Commodities in Goldman Sachs FICC and Equities, on The Markets podcast.",
+      "fetched_at": "2026-08-28T22:23:19+00:00",
+      "file_path": "",
+      "lastmod": "2026-08-28T13:35:15.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/what-is-the-outlook-for-diesel-and-gasoline-supplies/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-71821_9667_Ep26-006_Markets_with_Nitin_Jindal_v4.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/what-is-the-outlook-for-diesel-and-gasoline-supplies/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-08-28",
+      "removed": false,
+      "title": "What Is the Outlook for Diesel and Gasoline Supplies?",
+      "topic": "Energy",
+      "url": "https://www.goldmansachs.com/insights/the-markets/what-is-the-outlook-for-diesel-and-gasoline-supplies"
     },
     "https://www.goldmansachs.com/insights/the-markets/what-latest-inflation-data-means-for-markets-fed-and-investors-portfolios": {
       "content_hash": "24ff0dd1b0ddc970d44f8c00eb3fa04b193d362bc1ccd39cd1940aefc5d889ac",

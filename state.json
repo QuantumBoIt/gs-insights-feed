@@ -22299,6 +22299,35 @@
       "topic": "Artificial Intelligence",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-new-ai-trades"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-outlook-for-data-center-power-demand-as-ai-token-use-grows": {
+      "content_hash": "ae781d34172766c17ef23226f0f53f2d697d8a4279003c260fe72ce7af08fad3",
+      "content_type": "Podcast",
+      "description": "Brian Singer and Carly Davenport of Goldman Sachs Research discuss the biggest bottlenecks for data centers and why they expect global data center power demand to rise 170% by 2030.",
+      "fetched_at": "2026-09-01T16:42:05+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-01T13:21:14.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/the-outlook-for-data-center-power-demand-as-ai-token-use-grows/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71713_9666_Ep26-045_Exchanges_Brian_Singer_Carly_Davenport_FULL.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/the-outlook-for-data-center-power-demand-as-ai-token-use-grows/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-09-01",
+      "removed": false,
+      "title": "The Outlook for Data Center Power Demand as AI Token Use Grows",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-outlook-for-data-center-power-demand-as-ai-token-use-grows"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-outlook-for-global-deal-making": {
       "content_hash": "f8898845c1ae42435a40b1dbef1c9a8b9bebc77d8da66ad6b23bed1d89b3b6be",
       "content_type": "Podcast",

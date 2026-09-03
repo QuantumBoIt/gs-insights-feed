@@ -4325,6 +4325,20 @@
       "topic": "IPOs & M&A",
       "url": "https://www.goldmansachs.com/insights/articles/ipo-volumes-in-europe-are-expected-to-rise-in-2025"
     },
+    "https://www.goldmansachs.com/insights/articles/is-ai-impacting-global-labor-markets": {
+      "content_hash": "750afcf8f940ef9ecbb15cdc5714ae608dbc38596db65e125a81102f0abb31bf",
+      "content_type": "Article",
+      "description": "AI adoption is highest in France, the US and the Netherlands, according to Goldman Sachs Research, and there are signs that hiring has slowed in industries that are most exposed to AI.",
+      "fetched_at": "2026-09-03T16:27:57+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-03T08:23:28.000Z",
+      "media": [],
+      "publish_date": "2026-09-03",
+      "removed": false,
+      "title": "Is AI Impacting Global Labor Markets?",
+      "topic": "Macroeconomics",
+      "url": "https://www.goldmansachs.com/insights/articles/is-ai-impacting-global-labor-markets"
+    },
     "https://www.goldmansachs.com/insights/articles/is-chinas-economy-facing-japanification": {
       "content_hash": "7ee705a91184b031be575133f0f3d23513ad5ff629510fb78f90afa3a190288b",
       "content_type": "Article",
@@ -22303,16 +22317,16 @@
       "content_hash": "7407322b15529680b3dc6268216cf39eb54dbb5715976ee9c58687080d7a93b0",
       "content_type": "Podcast",
       "description": "Brian Singer and Carly Davenport of Goldman Sachs Research discuss the biggest bottlenecks for data centers and why they expect global data center power demand to rise 170% by 2030.",
-      "fetched_at": "2026-09-02T04:38:59+00:00",
+      "fetched_at": "2026-09-03T16:27:56+00:00",
       "file_path": "",
-      "lastmod": "2026-09-01T20:53:38.000Z",
+      "lastmod": "2026-09-03T12:48:41.000Z",
       "media": [
         {
           "kind": "video",
           "local_path": "",
           "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/the-outlook-for-data-center-power-demand-as-ai-token-use-grows/16x9.jpg",
           "title": "Video",
-          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71713_9666_Ep26-045_Exchanges_Brian_Singer_Carly_Davenport_FULL.mp4"
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71713_9666_Ep26-045_Exchanges_Brian_Singer_Carly_Davenport_FULLREVISED2.mp4"
         },
         {
           "kind": "transcript",

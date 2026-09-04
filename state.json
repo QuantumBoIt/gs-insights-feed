@@ -50534,6 +50534,35 @@
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-2q-earnings-deal-making-and-ai-investment"
     },
+    "https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-on-us-economy-outlook": {
+      "content_hash": "a36dc7db9b75bbfef71fabc7bced5d57f85be73c2a93b462650fd6fcec8ddce5",
+      "content_type": "Video",
+      "description": "David Solomon joined CNBC from the recent G20 meeting to share a constructive US economic outlook.",
+      "fetched_at": "2026-09-04T04:37:49+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-03T18:41:16.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/videos/david-solomon-cnbc-sep-2026/dms-live-at-g20-16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-71844_9691_David_Solomon_on_CNBC_20260831_Akamai.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/videos/david-solomon-cnbc-sep-2026/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-09-03",
+      "removed": false,
+      "title": "Chairman and CEO David Solomon Joins CNBC to Discuss His Outlook for the US Economy",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-on-us-economy-outlook"
+    },
     "https://www.goldmansachs.com/insights/videos/david-kostin-cnbc": {
       "content_hash": "0a2bb7980f6863eaf21d021293e0c986cc1e79cee439d620cac0ea1523797e5c",
       "content_type": "Video",

@@ -18623,6 +18623,35 @@
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/david-solomon-on-global-business-environment-ai-and-rise-of-private-credit"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/dipan-patel-on-permiras-artisanal-approach-to-private-equity": {
+      "content_hash": "463fa2192d97a394b861435289b38b6c3bb13f43b69c109fa931b4a043fa02a8",
+      "content_type": "Podcast",
+      "description": "On Goldman Sachs Exchanges: Great Investors, Permira’s Dipan Patel discusses the growing divide among private equity firms as competition increases.",
+      "fetched_at": "2026-09-04T16:24:02+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-04T13:29:35.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/dipan-patel-on-permiras-artisanal-approach-to-private-equity/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71861_004_9666_Ep26-051_Interview_Dipan_Patel_FullPodcast.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/dipan-patel-on-permiras-artisanal-approach-to-private-equity/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-09-04",
+      "removed": false,
+      "title": "Dipan Patel on Permira’s ‘Artisanal’ Approach to Private Equity",
+      "topic": "Great Investors",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/dipan-patel-on-permiras-artisanal-approach-to-private-equity"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/emerging-markets-stirred-but-not-yet-shaken": {
       "content_hash": "dae8289e83348d348171208b175c5c28aa1266b03626bb49dd26ed769493f867",
       "content_type": "Podcast",
@@ -22317,9 +22346,9 @@
       "content_hash": "7407322b15529680b3dc6268216cf39eb54dbb5715976ee9c58687080d7a93b0",
       "content_type": "Podcast",
       "description": "Brian Singer and Carly Davenport of Goldman Sachs Research discuss the biggest bottlenecks for data centers and why they expect global data center power demand to rise 170% by 2030.",
-      "fetched_at": "2026-09-03T16:27:56+00:00",
+      "fetched_at": "2026-09-04T16:24:04+00:00",
       "file_path": "",
-      "lastmod": "2026-09-03T12:48:41.000Z",
+      "lastmod": "2026-09-04T15:26:17.000Z",
       "media": [
         {
           "kind": "video",

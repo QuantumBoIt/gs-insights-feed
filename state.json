@@ -48029,6 +48029,35 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/why-gold-could-rise-even-higher"
     },
+    "https://www.goldmansachs.com/insights/the-markets/why-gold-is-expected-to-rise-to-record-highs": {
+      "content_hash": "6a15aaf7e9a7eaeaeef86b342978de1f425f64a241a277c3f0116647423e0224",
+      "content_type": "Podcast",
+      "description": "Uncertainty about US interest rates and the Iran war have led to an “elongated pause” in gold’s rally, but demand from central banks is likely to propel the metal to record highs, says Tony Kim, global head of Metals Trading in Goldman Sachs FICC and Equities, on The Markets podcast.",
+      "fetched_at": "2026-09-07T04:46:39+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-04T19:12:16.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/why-gold-is-expected-to-rise-to-record-highs/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-71929_9667_Ep26-034_Markets_Tony-Kim_v3-akamai.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/why-gold-is-expected-to-rise-to-record-highs/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-09-04",
+      "removed": false,
+      "title": "Why Gold Is Expected to Rise to Record Highs",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/the-markets/why-gold-is-expected-to-rise-to-record-highs"
+    },
     "https://www.goldmansachs.com/insights/the-markets/why-investors-should-expect-the-chop-to-continue": {
       "content_hash": "6193fe6dde38bf6522ec72894eaf850722c1589450a4ab5d0015875894778e24",
       "content_type": "Podcast",

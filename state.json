@@ -7748,6 +7748,20 @@
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/articles/why-germanys-economy-is-facing-challenges-and-how-its-adapting"
     },
+    "https://www.goldmansachs.com/insights/articles/why-global-bond-yields-are-expected-to-stay-elevated": {
+      "content_hash": "064eb836f5f0cd4ca53043fd276cba32bdf8619d70501a292683f7ad6ff67a01",
+      "content_type": "Article",
+      "description": "While some of the factors that have driven longer-maturity global bond yields higher are expected to fade, fiscal pressures are likely to persist, according to Goldman Sachs Research.",
+      "fetched_at": "2026-09-09T16:41:03+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-09T14:13:37.000Z",
+      "media": [],
+      "publish_date": "2026-09-09",
+      "removed": false,
+      "title": "Why Global Bond Yields Are Expected to Stay Elevated",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/why-global-bond-yields-are-expected-to-stay-elevated"
+    },
     "https://www.goldmansachs.com/insights/articles/why-global-stocks-are-not-yet-in-a-bubble": {
       "content_hash": "aaf0a9bd68aa8c57d46844c768f73d34c8ff2ed7bab90e78a916abeba4d4e510",
       "content_type": "Article",
@@ -20151,6 +20165,35 @@
       "title": "How Will AI Impact the Labor Market?",
       "topic": "Artificial Intelligence",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-will-ai-impact-the-labor-market"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-will-less-fed-transparency-affect-markets-and-the-economy": {
+      "content_hash": "7b9c05cbeab4aedbda06818ed7e5318dc8360c57c84f750f0492acc0c77c7e04",
+      "content_type": "Podcast",
+      "description": "Federal Reserve Chairman Kevin Warsh has steered the central bank into a less transparent era. Former Fed governors Donald Kohn and Stephen Miran as well as Goldman Sachs Research Chief Economist Jan Hatzius discuss on the Goldman Sachs Exchanges podcast whether this change is a positive or negative development and whether it will create a stronger market signal or lead to unnecessary volatility. The episode is based on the latest Top of Mind report.",
+      "fetched_at": "2026-09-09T16:41:04+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-09T16:04:19.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/how-will-less-fed-transparency-affect-markets-and-the-economy/16x9.png",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71963_9666_Ep26-054_Exchanges_TOM_FED_Transparency_Slated.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/how-will-less-fed-transparency-affect-markets-and-the-economy/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-09-09",
+      "removed": false,
+      "title": "How Will Less Fed Transparency Affect Markets and the Economy?",
+      "topic": "Macroeconomics",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-will-less-fed-transparency-affect-markets-and-the-economy"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/impactinvesting-singer-shell": {
       "content_hash": "c047fbddb9c401afeab192756d5e3fbc0f44f0e1c99ec2077ded24cff6ddfb6f",

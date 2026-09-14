@@ -3455,6 +3455,20 @@
       "topic": "Artificial Intelligence",
       "url": "https://www.goldmansachs.com/insights/articles/how-artificial-intelligence-is-accelerating-innovation-in-healthcare"
     },
+    "https://www.goldmansachs.com/insights/articles/how-automation-impacts-the-lives-and-careers-of-displaced-workers": {
+      "content_hash": "a1ad726535716d84a10490d6df2e9c3ea7be3ee7f82194152d9b3a99ad33c50a",
+      "content_type": "Article",
+      "description": "Past waves of technology-driven unemployment show how automation affects displaced workers and how retraining programs can help.",
+      "fetched_at": "2026-09-14T05:00:30+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-11T18:56:42.000Z",
+      "media": [],
+      "publish_date": "2026-09-11",
+      "removed": false,
+      "title": "How Automation Impacts the Lives and Careers of Displaced Workers",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/articles/how-automation-impacts-the-lives-and-careers-of-displaced-workers"
+    },
     "https://www.goldmansachs.com/insights/articles/how-china-aims-to-mitigate-the-economic-impact-of-us-tariffs": {
       "content_hash": "089930e0705c206a52f3e48b196689a93b3a34ebc68e3aa617631d582f176d85",
       "content_type": "Article",
@@ -7749,12 +7763,12 @@
       "url": "https://www.goldmansachs.com/insights/articles/why-germanys-economy-is-facing-challenges-and-how-its-adapting"
     },
     "https://www.goldmansachs.com/insights/articles/why-global-bond-yields-are-expected-to-stay-elevated": {
-      "content_hash": "ccb06ba88f56dbec3b53a70392a15431798d95cddeff235b5c636400ac3227e3",
+      "content_hash": "37d3f14baa1db08272fde4c58aa6e16ecb814dfae4954d92ff764f59f6bfaafa",
       "content_type": "Article",
       "description": "While some of the factors that have driven longer-maturity global bond yields higher are expected to fade, fiscal pressures are likely to persist, according to Goldman Sachs Research.",
-      "fetched_at": "2026-09-11T04:45:06+00:00",
+      "fetched_at": "2026-09-14T05:00:31+00:00",
       "file_path": "",
-      "lastmod": "2026-09-10T18:43:32.000Z",
+      "lastmod": "2026-09-11T18:33:49.000Z",
       "media": [],
       "publish_date": "2026-09-09",
       "removed": false,
@@ -47167,6 +47181,35 @@
       "title": "\"We Like Bonds\"",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/we-like-bonds"
+    },
+    "https://www.goldmansachs.com/insights/the-markets/what-a-fed-rate-hike-could-mean-for-us-stocks": {
+      "content_hash": "13b3a8b8d89565bb0afd60333adef53931a31879516ede0fa1ac7be6184b1d4d",
+      "content_type": "Podcast",
+      "description": "A rate hike by the Federal Reserve may not keep the US stock market from climbing, says Jonathan Shugar, head of Cross Asset Sales in Goldman Sachs FICC and Equities, on The Markets podcast.",
+      "fetched_at": "2026-09-14T05:00:32+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-11T22:03:30.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/what-a-fed-rate-hike-could-mean-for-us-stocks/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-72075_9667-26-035_Markets_Jonathan-Shugar_v3.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/what-a-fed-rate-hike-could-mean-for-us-stocks/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-09-11",
+      "removed": false,
+      "title": "What a Fed Rate Hike Could Mean for US Stocks",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/the-markets/what-a-fed-rate-hike-could-mean-for-us-stocks"
     },
     "https://www.goldmansachs.com/insights/the-markets/what-are-retail-earnings-and-cpi-telling-us-about-the-us-consumer": {
       "content_hash": "3216e3053beab4fd4ec7f302b6428abf62fc99b2a40cf7374ec5076987640d0a",

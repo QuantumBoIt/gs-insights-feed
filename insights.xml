@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:31:00 +0000</lastBuildDate>
-    <item>
-      <title>Jerome Dortmans on the Drivers of Oil Markets</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/jerome-dortmans-on-the-drivers-of-oil-markets</link>
-      <description>Oil prices have fallen thanks to investor optimism that the Iran conflict could soon be resolved. But the situation may be more complicated than it appears, cautions Jerome Dortmans, co-head of Global Oil and Products Trading in Goldman Sachs Global Banking &amp;amp; Markets. He discusses the drivers of the crude oil and refined product markets, as well as some potential trading opportunities, in this conversation with Chris Hussey.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/jerome-dortmans-on-the-drivers-of-oil-markets</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Outlook for the US Consumer amid Rising Inflation</title>
-      <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-the-us-consumer-amid-rising-inflation</link>
-      <description>Rising prices driven by disruptions to the flow of oil from the Middle East are having a measurable impact on US consumer spending.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-outlook-for-the-us-consumer-amid-rising-inflation</guid>
-      <category>Macroeconomics</category>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 05:00:32 +0000</lastBuildDate>
     <item>
       <title>Pressures in Private Credit</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/cracks-in-private-credit</link>
@@ -800,6 +784,22 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-global-bond-yields-are-expected-to-stay-elevated</guid>
       <category>Markets</category>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What a Fed Rate Hike Could Mean for US Stocks</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/what-a-fed-rate-hike-could-mean-for-us-stocks</link>
+      <description>A rate hike by the Federal Reserve may not keep the US stock market from climbing, says Jonathan Shugar, head of Cross Asset Sales in Goldman Sachs FICC and Equities, on The Markets podcast.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/what-a-fed-rate-hike-could-mean-for-us-stocks</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Automation Impacts the Lives and Careers of Displaced Workers</title>
+      <link>https://www.goldmansachs.com/insights/articles/how-automation-impacts-the-lives-and-careers-of-displaced-workers</link>
+      <description>Past waves of technology-driven unemployment show how automation affects displaced workers and how retraining programs can help.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-automation-impacts-the-lives-and-careers-of-displaced-workers</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

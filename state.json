@@ -795,6 +795,20 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/articles/can-the-nikkei-record-rally-japan-stocks-continue"
     },
+    "https://www.goldmansachs.com/insights/articles/can-the-s-and-p-500-rally-as-treasury-yields-rise": {
+      "content_hash": "3ea9f110dd162fc6a5bb89ef1ddc33cde210c4c72a4400dea3f255c5d4fe04d9",
+      "content_type": "Article",
+      "description": "While Fed hikes tend to weigh on US stocks in the shorter term, the S&amp;P 500 usually generates gains a year after policy rates begin to increase.",
+      "fetched_at": "2026-09-15T17:02:39+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-15T16:17:28.000Z",
+      "media": [],
+      "publish_date": "2026-09-15",
+      "removed": false,
+      "title": "Can the S&P 500 Rally as Treasury Yields Rise?",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/can-the-s-and-p-500-rally-as-treasury-yields-rise"
+    },
     "https://www.goldmansachs.com/insights/articles/can-unused-office-space-become-residential-estate": {
       "content_hash": "1ae4ea0b28f5d2ed8c5ef9e5825df76e00ca19cd129997e5087efee8e6d6cabd",
       "content_type": "Article",
@@ -23509,6 +23523,35 @@
       "title": "Why China&#x27;s economy is struggling",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-chinas-economy-is-struggling"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-global-bond-yields-are-surging": {
+      "content_hash": "0efd53156fb7e6456ce2c86b20595a78c2d1129453f94ff9801938ec3773f8ba",
+      "content_type": "Podcast",
+      "description": "Global bond yields have surged to multi-decade highs. Goldman Sachs Research discusses the forces behind the bond sell-off, from growing deficits to AI borrowing and rising energy prices.",
+      "fetched_at": "2026-09-15T17:02:41+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-15T16:30:12.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/why-global-bond-yields-are-surging/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-72119_9666_Ep26-060_Exchanges_George_Cole_FullPodcast_1.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/why-global-bond-yields-are-surging/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-09-15",
+      "removed": false,
+      "title": "Why Global Bond Yields Are Surging",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-global-bond-yields-are-surging"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-japanese-stocks-could-keep-rallying": {
       "content_hash": "b35692c36bbed99e463ca5b4cb8b5639936b065e3cccc1fb5a8da02b046f78ff",
@@ -48119,9 +48162,9 @@
       "content_hash": "6a15aaf7e9a7eaeaeef86b342978de1f425f64a241a277c3f0116647423e0224",
       "content_type": "Podcast",
       "description": "Uncertainty about US interest rates and the Iran war have led to an “elongated pause” in gold’s rally, but demand from central banks is likely to propel the metal to record highs, says Tony Kim, global head of Metals Trading in Goldman Sachs FICC and Equities, on The Markets podcast.",
-      "fetched_at": "2026-09-07T04:46:39+00:00",
+      "fetched_at": "2026-09-15T17:02:38+00:00",
       "file_path": "",
-      "lastmod": "2026-09-04T19:12:16.000Z",
+      "lastmod": "2026-09-15T13:48:46.000Z",
       "media": [
         {
           "kind": "video",
@@ -48141,7 +48184,7 @@
       "publish_date": "2026-09-04",
       "removed": false,
       "title": "Why Gold Is Expected to Rise to Record Highs",
-      "topic": "",
+      "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/why-gold-is-expected-to-rise-to-record-highs"
     },
     "https://www.goldmansachs.com/insights/the-markets/why-investors-should-expect-the-chop-to-continue": {

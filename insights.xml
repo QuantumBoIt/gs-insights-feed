@@ -8,30 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 18 Sep 2026 04:47:56 +0000</lastBuildDate>
-    <item>
-      <title>Optical Networking: The Next Mega Trend in AI Infrastructure</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/optical-networking-the-next-mega-trend-in-ai-infrastructure</link>
-      <description>Goldman Sachs Research forecasts the total addressable market (TAM) for the AI networking sector to increase by 9 times to $154 billion.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/optical-networking-the-next-mega-trend-in-ai-infrastructure</guid>
-      <category>Artificial Intelligence</category>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>McLaren Racing's Lando Norris and Zak Brown: Building a High-Performance Team</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/mclaren-racing</link>
-      <description>McLaren Racing returned to the forefront of Formula 1 through a culture of collaboration. Lando Norris, the 2025 Formula 1 World Drivers’ Champion, and Zak Brown, CEO of McLaren Racing, joined Anthony Gutman, Co-CEO of Goldman Sachs International, to discuss McLaren’s team-first approach to performance, the evolving technical landscape of Formula 1, and what has fueled the team’s resurgence. This episode was recorded on March 18, 2026.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/mclaren-racing</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Innovation and Inflation: Twin Forces Reshaping Portfolios</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/innovation-and-inflation-twin-forces-reshaping-portfolios</link>
-      <description>Technology stocks have staged a formidable rally, elevating innovation from a thematic tilt to a core portfolio driver. Yet this tailwind arrives alongside a recurring challenge — an inflationary environment in which traditional fixed-income hedges have fallen short. Together, these forces are pushing asset allocators toward a fundamental rethink of portfolio construction, as Goldman Sachs&amp;#x27; Christian Mueller-Glissmann and Alexandra Wilson-Elizondo discuss on Goldman Sachs Exchanges.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/innovation-and-inflation-twin-forces-reshaping-portfolios</guid>
-      <category>Technology</category>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 16:26:56 +0000</lastBuildDate>
     <item>
       <title>China’s Exports Are Expected to Slow Before Green Energy Surge</title>
       <link>https://www.goldmansachs.com/insights/articles/chinas-exports-are-expected-to-slow-before-green-energy-surge</link>
@@ -800,6 +777,30 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/can-the-s-and-p-500-rally-as-treasury-yields-rise</guid>
       <category>Markets</category>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Opportunities for Investors amid Higher-for-Longer Interest Rates </title>
+      <link>https://www.goldmansachs.com/insights/the-markets/the-opportunities-for-investors-amid-higher-for-longer-interest-rates</link>
+      <description>Elevated interest rates could pose a challenge for equity markets if tighter policy leads to less consumption, says Anshul Sehgal, global co-head of FICC, on The Markets podcast.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/the-opportunities-for-investors-amid-higher-for-longer-interest-rates</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Consumer Agents Signal New Phase for AI Growth</title>
+      <link>https://www.goldmansachs.com/insights/articles/consumer-agents-signal-new-phase-for-ai-growth</link>
+      <description>The rapid shift from AI experimentation to implementation was a surprising theme at the Goldman Sachs Communacopia Technology Conference.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/consumer-agents-signal-new-phase-for-ai-growth</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rich Friedman on the Rise of Private Markets and AI Investing</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/rich-friedman-on-the-rise-of-private-markets-and-ai-investing</link>
+      <description>Goldman Sachs Asset Management Chairman Rich Friedman looks back over his 45-year investing career, from the early days of building the firm’s merchant bank, to investing through market crises and the challenges and opportunities when investors are captivated by innovation in technology.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/rich-friedman-on-the-rise-of-private-markets-and-ai-investing</guid>
+      <category>Great Investors</category>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

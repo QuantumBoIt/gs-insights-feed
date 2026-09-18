@@ -1197,6 +1197,20 @@
       "topic": "Climate Transition",
       "url": "https://www.goldmansachs.com/insights/articles/companies-should-think-circular-to-cut-waste-costs-and-emissions"
     },
+    "https://www.goldmansachs.com/insights/articles/consumer-agents-signal-new-phase-for-ai-growth": {
+      "content_hash": "fe538624c275c770d04e0c7d93f0ee6ba731dfe1013c17068680f5ac2b2e7249",
+      "content_type": "Article",
+      "description": "The rapid shift from AI experimentation to implementation was a surprising theme at the Goldman Sachs Communacopia Technology Conference.",
+      "fetched_at": "2026-09-18T16:26:55+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-18T11:02:53.000Z",
+      "media": [],
+      "publish_date": "2026-09-18",
+      "removed": false,
+      "title": "Consumer Agents Signal New Phase for AI Growth",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/articles/consumer-agents-signal-new-phase-for-ai-growth"
+    },
     "https://www.goldmansachs.com/insights/articles/convertible-bond-issuance-jumps-as-interest-rates-climb": {
       "content_hash": "c32681e26cebe0244ee22458690ab05e6aeab516543545906fa78a33eb8996db",
       "content_type": "Article",
@@ -21722,6 +21736,35 @@
       "title": "Revenge of the Meme Stocks",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/revenge-of-the-meme-stocks"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/rich-friedman-on-the-rise-of-private-markets-and-ai-investing": {
+      "content_hash": "3e4bb02abecf282c6ccca62b748d83a162ca75e18c26ff5815964bbc3a81aa89",
+      "content_type": "Podcast",
+      "description": "Goldman Sachs Asset Management Chairman Rich Friedman looks back over his 45-year investing career, from the early days of building the firm’s merchant bank, to investing through market crises and the challenges and opportunities when investors are captivated by innovation in technology.",
+      "fetched_at": "2026-09-18T16:26:54+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-18T13:16:24.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/rich-friedman-on-the-rise-of-private-markets-and-ai-investing/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-72143_9666_Ep26-050__GIP_Rich_Friedman-Full_Version.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/rich-friedman-on-the-rise-of-private-markets-and-ai-investing/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-09-18",
+      "removed": false,
+      "title": "Rich Friedman on the Rise of Private Markets and AI Investing",
+      "topic": "Great Investors",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/rich-friedman-on-the-rise-of-private-markets-and-ai-investing"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/roger-ashworth-housing": {
       "content_hash": "1f2953ac8fdee15eb01df8663eaa2353d0c92720225970dd9b7bbd7afa1c6927",
@@ -46851,6 +46894,35 @@
       "title": "The new equity opportunities",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/the-new-equity-opportunities"
+    },
+    "https://www.goldmansachs.com/insights/the-markets/the-opportunities-for-investors-amid-higher-for-longer-interest-rates": {
+      "content_hash": "66f1f7069b84b9a518379c1e2d9844155b54e90a3c3105cbf90579544241f44b",
+      "content_type": "Podcast",
+      "description": "Elevated interest rates could pose a challenge for equity markets if tighter policy leads to less consumption, says Anshul Sehgal, global co-head of FICC, on The Markets podcast.",
+      "fetched_at": "2026-09-18T16:26:56+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-18T13:08:39.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/the-opportunities-for-investors-amid-higher-for-longer-interest-rates/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-72195_9667-26-036_Markets_Anshul-Sehgal-v3.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/the-opportunities-for-investors-amid-higher-for-longer-interest-rates/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-09-18",
+      "removed": false,
+      "title": "The Opportunities for Investors amid Higher-for-Longer Interest Rates ",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/the-markets/the-opportunities-for-investors-amid-higher-for-longer-interest-rates"
     },
     "https://www.goldmansachs.com/insights/the-markets/the-outlook-for-ai-related-stocks-and-us-interest-rates": {
       "content_hash": "72ecf7d7123f71741879a7314c533af2fa7e35353b4f30ec7c6df6ae67a485ab",

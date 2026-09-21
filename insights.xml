@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:26:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 05:00:24 +0000</lastBuildDate>
     <item>
       <title>China’s Exports Are Expected to Slow Before Green Energy Surge</title>
       <link>https://www.goldmansachs.com/insights/articles/chinas-exports-are-expected-to-slow-before-green-energy-surge</link>
@@ -787,19 +787,19 @@ Recorded on May 28, 2026.</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Consumer Agents Signal New Phase for AI Growth</title>
-      <link>https://www.goldmansachs.com/insights/articles/consumer-agents-signal-new-phase-for-ai-growth</link>
-      <description>The rapid shift from AI experimentation to implementation was a surprising theme at the Goldman Sachs Communacopia Technology Conference.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/consumer-agents-signal-new-phase-for-ai-growth</guid>
-      <category>Artificial Intelligence</category>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Rich Friedman on the Rise of Private Markets and AI Investing</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/rich-friedman-on-the-rise-of-private-markets-and-ai-investing</link>
       <description>Goldman Sachs Asset Management Chairman Rich Friedman looks back over his 45-year investing career, from the early days of building the firm’s merchant bank, to investing through market crises and the challenges and opportunities when investors are captivated by innovation in technology.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/rich-friedman-on-the-rise-of-private-markets-and-ai-investing</guid>
       <category>Great Investors</category>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Consumer Agents Signal New Phase for AI Growth</title>
+      <link>https://www.goldmansachs.com/insights/articles/consumer-agents-signal-new-phase-for-ai-growth</link>
+      <description>The rapid shift from AI experimentation to implementation was a surprising theme at the Goldman Sachs Communacopia Technology Conference.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/consumer-agents-signal-new-phase-for-ai-growth</guid>
+      <category>Artificial Intelligence</category>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

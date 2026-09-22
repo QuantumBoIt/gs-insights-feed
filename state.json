@@ -40480,6 +40480,35 @@
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/ruth-simmons-john-degioia"
     },
+    "https://www.goldmansachs.com/insights/talks-at-gs/ryan-serhant-on-the-art-of-selling-luxury-real-estate": {
+      "content_hash": "d49acae4718a40be00724a9ada21688b3dbbd067a5281fad7831be32f2435f4e",
+      "content_type": "Video",
+      "description": "On Talks at GS, Ryan Serhant discusses his journey from theatre to luxury real estate, the power of optimism, and the role of AI in sales at his company SERHANT.",
+      "fetched_at": "2026-09-22T05:01:06+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-21T20:22:57.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/ryan-serhant/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-72200_9723_Ep26-025-Talks_at_GS_with_Ryan_Serhant-Session_Highlights_16X9.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/ryan-serhant/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-09-21",
+      "removed": false,
+      "title": "Ryan Serhant on the Art of Selling Luxury Real Estate",
+      "topic": "Real Estate & Housing",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/ryan-serhant-on-the-art-of-selling-luxury-real-estate"
+    },
     "https://www.goldmansachs.com/insights/talks-at-gs/ryan-watts": {
       "content_hash": "c672cb7b8d9cfa8aca862626b997c26ac3288cdb11c4325885f23fa6e670dd4b",
       "content_type": "Video",

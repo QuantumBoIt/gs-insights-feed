@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Sep 2026 18:13:00 +0000</lastBuildDate>
-    <item>
-      <title>China’s Exports Are Expected to Slow Before Green Energy Surge</title>
-      <link>https://www.goldmansachs.com/insights/articles/chinas-exports-are-expected-to-slow-before-green-energy-surge</link>
-      <description>China&amp;#x27;s export growth is under near-term pressure as the Middle East energy shock dampens demand. But the crisis may accelerate global clean energy adoption, a business China dominates.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/chinas-exports-are-expected-to-slow-before-green-energy-surge</guid>
-      <category>Macroeconomics</category>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Sep 2026 05:01:07 +0000</lastBuildDate>
     <item>
       <title>Securing and Financing the Future of Water</title>
       <link>https://www.goldmansachs.com/insights/articles/securing-and-financing-the-future-of-water</link>
@@ -801,6 +793,14 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/consumer-agents-signal-new-phase-for-ai-growth</guid>
       <category>Artificial Intelligence</category>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryan Serhant on the Art of Selling Luxury Real Estate</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/ryan-serhant-on-the-art-of-selling-luxury-real-estate</link>
+      <description>On Talks at GS, Ryan Serhant discusses his journey from theatre to luxury real estate, the power of optimism, and the role of AI in sales at his company SERHANT.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/ryan-serhant-on-the-art-of-selling-luxury-real-estate</guid>
+      <category>Real Estate &amp; Housing</category>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

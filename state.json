@@ -725,6 +725,20 @@
       "topic": "Energy",
       "url": "https://www.goldmansachs.com/insights/articles/bullish-electricity-attracting-new-power-traders"
     },
+    "https://www.goldmansachs.com/insights/articles/can-ai-investment-drive-s-and-p-500-earnings-even-higher": {
+      "content_hash": "0848ff8b17c55deb7ba58f4b635a64fb744542f6699e0fbf031aaea3a105638f",
+      "content_type": "Article",
+      "description": "Goldman Sachs Research expects S&amp;P 500 earnings per share to rise to $415 in 2027 and $460 in 2028. Our strategists forecast the index will rise to 8,700 in the next 12 months.",
+      "fetched_at": "2026-09-24T04:56:08+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-23T18:13:08.000Z",
+      "media": [],
+      "publish_date": "2026-09-23",
+      "removed": false,
+      "title": "Can AI Investment Drive S&P 500 Earnings Even Higher?",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/can-ai-investment-drive-s-and-p-500-earnings-even-higher"
+    },
     "https://www.goldmansachs.com/insights/articles/can-eu-bonds-rival-the-german-bund": {
       "content_hash": "c1d17489393a2309922ba36191ddd070e3e748c27a9873701a37d19fea9c9915",
       "content_type": "Article",
@@ -8301,6 +8315,20 @@
       "title": "Will AI lead to superintelligence or just super-automation?",
       "topic": "Artificial Intelligence",
       "url": "https://www.goldmansachs.com/insights/articles/will-ai-lead-to-superintelligence-or-just-super-automation"
+    },
+    "https://www.goldmansachs.com/insights/articles/will-european-gas-prices-keep-rising-this-winter": {
+      "content_hash": "09c59d0ee2f60ecbf8e4cf1630046d034c39d379795fccf8c8b6da508555783f",
+      "content_type": "Article",
+      "description": "European gas prices could rise to over €100/MWh in December if exports through the Strait of Hormuz do not increase, according to Goldman Sachs Research.",
+      "fetched_at": "2026-09-24T04:56:07+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-23T15:53:34.000Z",
+      "media": [],
+      "publish_date": "2026-09-23",
+      "removed": false,
+      "title": "Will European Gas Prices Keep Rising This Winter?",
+      "topic": "Energy",
+      "url": "https://www.goldmansachs.com/insights/articles/will-european-gas-prices-keep-rising-this-winter"
     },
     "https://www.goldmansachs.com/insights/articles/will-european-stocks-rally-in-2025": {
       "content_hash": "2f2e72865b5d9b85975a44bcdf267ed2f9de67e0d506eb264af0972060e21dd5",
@@ -23625,6 +23653,35 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-japanese-stocks-could-keep-rallying"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-markets-may-be-pricing-in-too-many-rate-hikes": {
+      "content_hash": "b758aa01440760edacd412342afdfdcbd6756c673be53b4c6e4e1826b8320331",
+      "content_type": "Podcast",
+      "description": "Goldman Sachs’ Rob Kaplan on why markets may be pricing in more Fed hikes than is warranted, the AI boom&#x27;s disconnect from Fed policy, and colliding supply shocks.",
+      "fetched_at": "2026-09-24T04:56:10+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-23T22:53:58.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/why-markets-may-be-pricing-in-too-many-fed-rate-hikes/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-72311_9666_Ep26-059_Exchanges_Rob_Kaplan_FullPodcast.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/why-markets-may-be-pricing-in-too-many-fed-rate-hikes/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-09-23",
+      "removed": false,
+      "title": "Why Markets May Be Pricing in Too Many Fed Rate Hikes",
+      "topic": "Macroeconomics",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-markets-may-be-pricing-in-too-many-rate-hikes"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-oil-and-gold-prices-could-keep-rising": {
       "content_hash": "7a7e7c638fb78a86908caa1ae96d2d5521fcd470bca71f1a97c51cacc1241be3",
       "content_type": "Podcast",
@@ -29808,9 +29865,9 @@
       "content_hash": "cd81576641e8bc27388d80075e9ddaca256a855f66446b98ac5cd4459a18a3e7",
       "content_type": "Video",
       "description": "Carlos Cordeiro, senior advisor to the FIFA president and the former president of the US Soccer Federation, joins Gene Sykes, co-chair of Goldman Sachs M&amp;A and co-chair of the Global Technology, Media, and Telecom Group, to discuss the legacy of the 2026 FIFA World Cup.",
-      "fetched_at": "2026-07-20T04:06:18+00:00",
+      "fetched_at": "2026-09-24T04:56:09+00:00",
       "file_path": "",
-      "lastmod": "2026-07-17T19:39:22.000Z",
+      "lastmod": "2026-09-23T20:28:08.000Z",
       "media": [
         {
           "kind": "video",

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Sep 2026 04:56:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:14:28 +0000</lastBuildDate>
     <item>
       <title>Why UK Gilt Yields Are Climbing</title>
       <link>https://www.goldmansachs.com/insights/articles/why-uk-gilt-yields-are-climbing</link>
@@ -779,19 +779,19 @@ Recorded on May 28, 2026.</description>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Can AI Investment Drive S&amp;P 500 Earnings Even Higher?</title>
-      <link>https://www.goldmansachs.com/insights/articles/can-ai-investment-drive-s-and-p-500-earnings-even-higher</link>
-      <description>Goldman Sachs Research expects S&amp;amp;P 500 earnings per share to rise to $415 in 2027 and $460 in 2028. Our strategists forecast the index will rise to 8,700 in the next 12 months.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/can-ai-investment-drive-s-and-p-500-earnings-even-higher</guid>
-      <category>Markets</category>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Will European Gas Prices Keep Rising This Winter?</title>
       <link>https://www.goldmansachs.com/insights/articles/will-european-gas-prices-keep-rising-this-winter</link>
       <description>European gas prices could rise to over €100/MWh in December if exports through the Strait of Hormuz do not increase, according to Goldman Sachs Research.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/will-european-gas-prices-keep-rising-this-winter</guid>
       <category>Energy</category>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can AI Investment Drive S&amp;P 500 Earnings Even Higher?</title>
+      <link>https://www.goldmansachs.com/insights/articles/can-ai-investment-drive-s-and-p-500-earnings-even-higher</link>
+      <description>Goldman Sachs Research expects S&amp;amp;P 500 earnings per share to rise to $415 in 2027 and $460 in 2028. Our strategists forecast the index will rise to 8,700 in the next 12 months.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/can-ai-investment-drive-s-and-p-500-earnings-even-higher</guid>
+      <category>Markets</category>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

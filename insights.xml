@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Sep 2026 05:00:59 +0000</lastBuildDate>
-    <item>
-      <title>Why UK Gilt Yields Are Climbing</title>
-      <link>https://www.goldmansachs.com/insights/articles/why-uk-gilt-yields-are-climbing</link>
-      <description>UK government bond yields have soared amid growing political uncertainty, with questions over the future direction of fiscal policy.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-uk-gilt-yields-are-climbing</guid>
-      <category>Markets</category>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Data Center Power Demand Projected to Double by 2027</title>
-      <link>https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027</link>
-      <description>US data center power demand is forecast to surge from 31 GW in 2025 to 66 GW by 2027, driven by AI expansion, with implications for regional electricity markets and grid reliability.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027</guid>
-      <category>Artificial Intelligence</category>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Sep 2026 17:15:00 +0000</lastBuildDate>
     <item>
       <title>AI Agents Forecast to Boost Tech Cash Flow as Usage Soars</title>
       <link>https://www.goldmansachs.com/insights/articles/ai-agents-forecast-to-boost-tech-cash-flow-as-usage-soars</link>
@@ -793,6 +777,21 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/can-ai-investment-drive-s-and-p-500-earnings-even-higher</guid>
       <category>Markets</category>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why the Bond Market May Be the Biggest Risk to Further S&amp;P 500 Gains</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/why-the-bond-market-may-be-the-stock-markets-biggest-risk</link>
+      <description>Rising bond yields may pose the biggest risk to gains in the S&amp;amp;P 500, says Tony Pasquariello, global head of hedge fund coverage in Goldman Sachs FICC and Equities on The Markets podcast.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/why-the-bond-market-may-be-the-stock-markets-biggest-risk</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why the ECB Is Unlikely to Keep Rates Higher Than 3%</title>
+      <link>https://www.goldmansachs.com/insights/articles/why-the-ecb-is-unlikely-to-keep-rates-higher-than-3-percent</link>
+      <description>Goldman Sachs Research expects the ECB to hike rates in December amid resilient economic growth and inflationary pressures from the Iran war.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-the-ecb-is-unlikely-to-keep-rates-higher-than-3-percent</guid>
+      <category>Europe</category>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

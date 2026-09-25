@@ -8056,6 +8056,20 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/articles/why-the-dollar-is-likely-to-stay-stronger-longer"
     },
+    "https://www.goldmansachs.com/insights/articles/why-the-ecb-is-unlikely-to-keep-rates-higher-than-3-percent": {
+      "content_hash": "edf9860ba8a290f084395456d6d56964b232967ff1b27333d08705bffb21dc1a",
+      "content_type": "Article",
+      "description": "Goldman Sachs Research expects the ECB to hike rates in December amid resilient economic growth and inflationary pressures from the Iran war.",
+      "fetched_at": "2026-09-25T17:14:59+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-25T08:33:26.000Z",
+      "media": [],
+      "publish_date": "2026-09-25",
+      "removed": false,
+      "title": "Why the ECB Is Unlikely to Keep Rates Higher Than 3%",
+      "topic": "Europe",
+      "url": "https://www.goldmansachs.com/insights/articles/why-the-ecb-is-unlikely-to-keep-rates-higher-than-3-percent"
+    },
     "https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year": {
       "content_hash": "81f0bc850968581d70f8a12ed6b93c566db76724c8cbcfad10a2816e371c3feb",
       "content_type": "Article",
@@ -48531,6 +48545,35 @@
       "title": "Why the AI-driven tech rally has legs",
       "topic": "Artificial Intelligence",
       "url": "https://www.goldmansachs.com/insights/the-markets/why-the-ai-driven-tech-rally-has-legs"
+    },
+    "https://www.goldmansachs.com/insights/the-markets/why-the-bond-market-may-be-the-stock-markets-biggest-risk": {
+      "content_hash": "c9c0a956e99b26ea4273e17ea6e96bd39079577a71bc859d7e0c8baec5d1144c",
+      "content_type": "Podcast",
+      "description": "Rising bond yields may pose the biggest risk to gains in the S&amp;P 500, says Tony Pasquariello, global head of hedge fund coverage in Goldman Sachs FICC and Equities on The Markets podcast.",
+      "fetched_at": "2026-09-25T17:15:00+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-25T13:02:40.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/why-the-bond-market-may-be-the-stock-markets-biggest-risk/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X27-72346_9667-26-037_Markets_Tony-Pasquariello_V3.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/why-the-bond-market-may-be-the-stock-markets-biggest-risk/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-09-25",
+      "removed": false,
+      "title": "Why the Bond Market May Be the Biggest Risk to Further S&P 500 Gains",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/the-markets/why-the-bond-market-may-be-the-stock-markets-biggest-risk"
     },
     "https://www.goldmansachs.com/insights/the-markets/why-the-dollar-could-drop": {
       "content_hash": "b01ff5dba10ab48cf4301045579267c93d0efae7611a52ed084af91b3fceef72",

@@ -19870,6 +19870,35 @@
       "topic": "Technology",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-falling-launch-costs-and-ai-are-driving-the-space-economy"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-family-businesses-should-plan-for-generational-success": {
+      "content_hash": "77bd2fef0a147c2f71c9eb31122203e34f23d198decf2986a1b510b641dfa242",
+      "content_type": "Podcast",
+      "description": "Why do some family businesses persist across generations and not others? For some, the answer comes down to succession planning and a long-term mindset, say Goldman Sachs&#x27; FX de Mallmann and Tucker York on the latest episode of Goldman Sachs Exchanges.",
+      "fetched_at": "2026-09-29T18:06:14+00:00",
+      "file_path": "",
+      "lastmod": "2026-09-29T12:45:44.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/how-family-businesses-should-plan-for-generational-success/FX-Tucker-16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-72239_9666_Ep26-055_Exchanges_Tucker_and_FX__FullPodcast.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/how-family-businesses-should-plan-for-generational-success/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-09-29",
+      "removed": false,
+      "title": "How Family Businesses Should Plan for Generational Success",
+      "topic": "Entrepreneurship",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-family-businesses-should-plan-for-generational-success"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-goldman-sachs-john-waldron-is-navigating-a-more-uncertain-time": {
       "content_hash": "b0400a4309797e711820ef4777dc411a44522923c93961ee4456a9e18ccff6e8",
       "content_type": "Podcast",

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 02 Oct 2026 05:42:46 +0000</lastBuildDate>
-    <item>
-      <title>Why Rates Could Keep Rising: Phillip Lee on Treasuries</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/why-rates-could-keep-rising-phillip-lee-on-treasuries</link>
-      <description>What’s driving the rise in US Treasury yields, and what could be ahead for the bond market? Phillip Lee, head of Real Money Rate Sales in Goldman Sachs Global Banking &amp;amp; Markets, shares his outlook with Chris Hussey.&#13;
-Recorded on May 21, 2026.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/why-rates-could-keep-rising-phillip-lee-on-treasuries</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Oct 2026 17:53:23 +0000</lastBuildDate>
     <item>
       <title>Stock Markets Are Increasingly Vulnerable to Rising Bond Yields</title>
       <link>https://www.goldmansachs.com/insights/articles/stock-markets-are-increasingly-vulnerable-to-rising-bond-yields</link>
@@ -792,6 +784,14 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-family-businesses-should-plan-for-generational-success</guid>
       <category>Entrepreneurship</category>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Is Becoming a Stock Picker's Market </title>
+      <link>https://www.goldmansachs.com/insights/the-markets/ai-is-becoming-a-stock-pickers-market</link>
+      <description>Investors are increasingly focused on new parts of the artificial intelligence sector such as security software and agentic commerce, says Peter Callahan, US Technology, Media, and Telecommunications sector specialist in Goldman Sachs FICC and Equities, on The Markets podcast.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/ai-is-becoming-a-stock-pickers-market</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

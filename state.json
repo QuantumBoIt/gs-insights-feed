@@ -43554,6 +43554,35 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/a-solid-buying-opportunity-making-sense-of-the-market-shakeout"
     },
+    "https://www.goldmansachs.com/insights/the-markets/ai-is-becoming-a-stock-pickers-market": {
+      "content_hash": "9f523a926ef2536b760f74230c434c8c81e51f08b9694a8dc6c6e67516e54f25",
+      "content_type": "Podcast",
+      "description": "Investors are increasingly focused on new parts of the artificial intelligence sector such as security software and agentic commerce, says Peter Callahan, US Technology, Media, and Telecommunications sector specialist in Goldman Sachs FICC and Equities, on The Markets podcast.",
+      "fetched_at": "2026-10-02T17:53:23+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-02T12:44:52.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/ai-is-becoming-a-stock-pickers-market/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-72484_9667-26-038_Markets_Peter-Callahan_v2.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/ai-is-becoming-a-stock-pickers-market/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-10-02",
+      "removed": false,
+      "title": "AI Is Becoming a Stock Picker's Market ",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/the-markets/ai-is-becoming-a-stock-pickers-market"
+    },
     "https://www.goldmansachs.com/insights/the-markets/are-emerging-markets-due-for-a-comeback": {
       "content_hash": "7a59d8502a0a851334e7ea5c56cb94e525da15f99430df5fc23ce63cc0dd2c4f",
       "content_type": "Podcast",

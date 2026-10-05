@@ -51067,6 +51067,35 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-on-us-economy-outlook"
     },
+    "https://www.goldmansachs.com/insights/videos/cnbc-jan-hatzius-outlook-for-us-economy": {
+      "content_hash": "3e48e70814be95cd5a98a3cd2689fb9613a4a4c60aaa3cee468b5ac01ec34d72",
+      "content_type": "Video",
+      "description": "Jan Hatzius joined CNBC to discuss his projections for near-term Fed policy—citing softer-than-expected inflation data and stable labor-market conditions. ",
+      "fetched_at": "2026-10-05T05:46:12+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-02T21:34:07.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/videos/cnbc-jan-hatzius-outlook-for-us-economy/cnbc-jan-us-outlook-16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-72527_9691_Jan_Hatzius_on_CNBC_Squawk_on_the_Street_261002.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/videos/jan-hatzius-cnbc-oct-2026/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-10-02",
+      "removed": false,
+      "title": "Goldman Sachs Chief Economist Jan Hatzius Joins CNBC to Discuss His Outlook for the US Economy",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/videos/cnbc-jan-hatzius-outlook-for-us-economy"
+    },
     "https://www.goldmansachs.com/insights/videos/david-kostin-cnbc": {
       "content_hash": "0a2bb7980f6863eaf21d021293e0c986cc1e79cee439d620cac0ea1523797e5c",
       "content_type": "Video",

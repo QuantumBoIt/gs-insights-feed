@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:25:36 +0000</lastBuildDate>
-    <item>
-      <title>How Hedge Funds Are Trading Semiconductor Stocks</title>
-      <link>https://www.goldmansachs.com/insights/articles/how-hedge-funds-are-trading-semiconductor-stocks</link>
-      <description>Some hedge funds are taking profits on makers of semiconductors and related equipment to manage risk in their portfolios, even as tech stocks climb.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-hedge-funds-are-trading-semiconductor-stocks</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Oct 2026 18:24:41 +0000</lastBuildDate>
     <item>
       <title>‘Complexity Is Our Friend’: James Brocklebank on Advent's Private Equity Strategy</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/complexity-is-our-friend-james-brocklebank-on-advents-private-equity-strategy</link>
@@ -791,6 +783,14 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/ai-is-becoming-a-stock-pickers-market</guid>
       <category>Artificial Intelligence</category>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the Revival of Venture Capital Liquidity with an Industry Pioneer</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/inside-the-revival-of-venture-capital-liquidity-with-an-industry</link>
+      <description>AI is creating opportunities as well as challenges for venture capital portfolios amid declining liquidity, says Goldman Sachs&amp;#x27; Hans Swildens.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/inside-the-revival-of-venture-capital-liquidity-with-an-industry</guid>
+      <category>Great Investors</category>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

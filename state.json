@@ -20452,6 +20452,35 @@
       "topic": "Technology",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/innovation-and-inflation-twin-forces-reshaping-portfolios"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/inside-the-revival-of-venture-capital-liquidity-with-an-industry": {
+      "content_hash": "1478eab6a8a5942443ebcc087227335eb8060996afd2b81d7fd4686ac8134148",
+      "content_type": "",
+      "description": "AI is creating opportunities as well as challenges for venture capital portfolios amid declining liquidity, says Goldman Sachs&#x27; Hans Swildens.",
+      "fetched_at": "2026-10-06T18:24:40+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-06T16:03:19.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/inside-the-revival-of-venture-capital-liquidity-with-an-industry-pioneer/16x9.png",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-72430_9666_Ep26-057_GIP_Hans_Swildens_and_Michael_Brandmeyer_AKAMAI_20261006.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/inside-the-revival-of-venture-capital-liquidity-with-an-industry-pioneer/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-10-06",
+      "removed": false,
+      "title": "Inside the Revival of Venture Capital Liquidity with an Industry Pioneer",
+      "topic": "Great Investors",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/inside-the-revival-of-venture-capital-liquidity-with-an-industry"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/insurance-survey-siegel-armas": {
       "content_hash": "1430d0b4e1d533fa31ac047c075ee54ead08baef421c8c7e971da59320160267",
       "content_type": "Podcast",

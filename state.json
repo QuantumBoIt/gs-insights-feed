@@ -409,6 +409,20 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/articles/are-bear-markets-in-stocks-an-investment-opportunity"
     },
+    "https://www.goldmansachs.com/insights/articles/are-bonds-becoming-a-better-investment-for-portfolios": {
+      "content_hash": "d8a5e7b766197a8847337c2f2ccfaf14a621e374415217f0e28b2b9191ff2c6b",
+      "content_type": "Article",
+      "description": "Treasury yields are at multi-decade highs, but Goldman Sachs Research says equities still look more attractive than bonds in the near term.",
+      "fetched_at": "2026-10-08T18:52:18+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-08T09:24:34.000Z",
+      "media": [],
+      "publish_date": "2026-10-08",
+      "removed": false,
+      "title": "Are Bonds Becoming a Better Investment for Portfolios?",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/are-bonds-becoming-a-better-investment-for-portfolios"
+    },
     "https://www.goldmansachs.com/insights/articles/are-japanese-stocks-at-risk-of-falling-as-the-yen-surges": {
       "content_hash": "99f8d9bd6368e5c7919001e1d256522983dbd14f9d7329d67e510ffc7a61ed54",
       "content_type": "Article",
@@ -52908,6 +52922,35 @@
       "title": "Why the US equity bull market could keep running",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/videos/why-the-us-equity-bull-market-could-keep-running"
+    },
+    "https://www.goldmansachs.com/insights/videos/why-us-consumers-are-downbeat-despite-a-healthy-economy": {
+      "content_hash": "71176900c8ec97b4c971fdace2b970539f44cb05e72884d2332336f5aa309e00",
+      "content_type": "Video",
+      "description": "Americans feel worse about the economy than growth and jobs data suggest they should, and a key reason may be be Americans’ declining confidence in US institutions.",
+      "fetched_at": "2026-10-08T18:52:19+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-07T21:24:09.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/videos/why-us-consumers-are-downbeat-despite-a-healthy-economy/16x9.png",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-72625_9671_Ep26_011_Signal_Noise_Joseph_Briggs_16x9.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/videos/why-us-consumers-are-downbeat-despite-a-healthy-economy/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-10-08",
+      "removed": false,
+      "title": "Why US Consumers Are Downbeat Despite a Healthy Economy",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/videos/why-us-consumers-are-downbeat-despite-a-healthy-economy"
     },
     "https://www.goldmansachs.com/insights/videos/why-utilities-stocks-are-now-thrilling-investors": {
       "content_hash": "d1fa5d598cd1d030cc80a58ee912f279c2c40b9584ec1bc1dff7c7baec9f2e86",

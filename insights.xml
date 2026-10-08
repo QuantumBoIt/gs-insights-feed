@@ -8,24 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 08 Oct 2026 06:09:48 +0000</lastBuildDate>
-    <item>
-      <title>The S&amp;amp;P 500 Is Forecast to Climb as Earnings Growth Powers Stocks Higher</title>
-      <link>https://www.goldmansachs.com/insights/articles/s-and-p-500-forecast-to-climb-as-earnings-growth-powers-stocks-higher</link>
-      <description>Goldman Sachs Research raised its S&amp;amp;P 500 year-end target to 8000, projecting earnings per share of $340 in 2026 (a 24% increase, year over year). AI infrastructure investment is expected to account for about half of the earnings growth. </description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/s-and-p-500-forecast-to-climb-as-earnings-growth-powers-stocks-higher</guid>
-      <category>Markets</category>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why There May Be More Investment Opportunities in Internet Stocks</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/why-there-may-be-more-investment-opportunities-in-internet-stocks</link>
-      <description>Tech stocks have surged in the past two months. Pete Callahan, the US Technology, Media and Telecommunications sector specialist within Goldman Sachs Global Banking &amp;amp; Markets, explains that the move is anchored by strong earnings—and says there could still be opportunities in internet stocks. He discusses with Chris Hussey.&#13;
-Recorded on May 28, 2026.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/why-there-may-be-more-investment-opportunities-in-internet-stocks</guid>
-      <category>Technology</category>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Oct 2026 18:52:19 +0000</lastBuildDate>
     <item>
       <title>Karl-Anthony Towns of the New York Knicks on Leading with Purpose on and off the Court</title>
       <link>https://www.goldmansachs.com/insights/talks-at-gs/karl-anthony-towns</link>
@@ -791,6 +774,22 @@ Recorded on May 28, 2026.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/will-30-year-us-treasury-yields-climb-higher</guid>
       <category>Markets</category>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why US Consumers Are Downbeat Despite a Healthy Economy</title>
+      <link>https://www.goldmansachs.com/insights/videos/why-us-consumers-are-downbeat-despite-a-healthy-economy</link>
+      <description>Americans feel worse about the economy than growth and jobs data suggest they should, and a key reason may be be Americans’ declining confidence in US institutions.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/why-us-consumers-are-downbeat-despite-a-healthy-economy</guid>
+      <category>Markets</category>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are Bonds Becoming a Better Investment for Portfolios?</title>
+      <link>https://www.goldmansachs.com/insights/articles/are-bonds-becoming-a-better-investment-for-portfolios</link>
+      <description>Treasury yields are at multi-decade highs, but Goldman Sachs Research says equities still look more attractive than bonds in the near term.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/are-bonds-becoming-a-better-investment-for-portfolios</guid>
+      <category>Markets</category>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

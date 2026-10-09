@@ -1225,6 +1225,20 @@
       "topic": "Climate Transition",
       "url": "https://www.goldmansachs.com/insights/articles/companies-should-think-circular-to-cut-waste-costs-and-emissions"
     },
+    "https://www.goldmansachs.com/insights/articles/competition-among-chinas-ai-models-is-intensifying-as-chip-sector-advances": {
+      "content_hash": "5f5fe2878f3e864b72a9e6cb82082ad49e4507ce3bdba48c772d0061f9b0da1c",
+      "content_type": "Article",
+      "description": "Investors are debating how the landscape for AI-model companies will evolve as competition intensifies.",
+      "fetched_at": "2026-10-09T18:23:01+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-09T13:27:22.000Z",
+      "media": [],
+      "publish_date": "2026-10-09",
+      "removed": false,
+      "title": "Competition Among China’s AI Models Is Intensifying as the Chip Sector Advances",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/articles/competition-among-chinas-ai-models-is-intensifying-as-chip-sector-advances"
+    },
     "https://www.goldmansachs.com/insights/articles/consumer-agents-signal-new-phase-for-ai-growth": {
       "content_hash": "fe538624c275c770d04e0c7d93f0ee6ba731dfe1013c17068680f5ac2b2e7249",
       "content_type": "Article",
@@ -44811,6 +44825,35 @@
       "title": "Hedge fund outlook for 2024",
       "topic": "Alternatives & Private Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/hedge-fund-outlook-for-2024"
+    },
+    "https://www.goldmansachs.com/insights/the-markets/hedge-funds-are-cautious-on-stocks-amid-rates-and-energy-volatility": {
+      "content_hash": "dbfb2a234e2956ede6d8a19e841fa2c9c287cb8b8de61a2f8f091708912c0730",
+      "content_type": "Podcast",
+      "description": "Hedge fund positioning in equities for long-short strategies is at historically low levels amid ongoing volatility in interest rates and oil prices, says Mark Wilson, head of European Equity Franchise Sales and Hedge Fund Coverage in Goldman Sachs FICC and Equities. ",
+      "fetched_at": "2026-10-09T18:23:02+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-09T15:23:07.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/hedge-funds-are-cautious-on-stocks-amid-rates-and-energy-volatility/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-72688_9667-26-039_Markets_Mark-Wilson-v2.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/hedge-funds-are-cautious-on-stocks-amid-rates-and-energy-volatility/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-10-09",
+      "removed": false,
+      "title": "Hedge Funds Are Cautious on Stocks amid Rates and Energy Volatility",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/the-markets/hedge-funds-are-cautious-on-stocks-amid-rates-and-energy-volatility"
     },
     "https://www.goldmansachs.com/insights/the-markets/hidden-volatility": {
       "content_hash": "d2004363c94cf29f49a38257bd93b51358815341d41a742a60d42796926e3ec2",

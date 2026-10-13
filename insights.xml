@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 13 Oct 2026 06:49:32 +0000</lastBuildDate>
-    <item>
-      <title>The AI Investment Boom: When Will It Pay Off?</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-ai-investment-boom-when-will-it-pay-off</link>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/the-ai-investment-boom-when-will-it-pay-off</guid>
-      <category>Technology</category>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 19:19:05 +0000</lastBuildDate>
     <item>
       <title>Will Bonds Become a Better Hedge for Investment Portfolios?</title>
       <link>https://www.goldmansachs.com/insights/videos/will-bonds-become-a-better-hedge-for-investment-portfolios</link>
@@ -791,6 +784,14 @@
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/competition-among-chinas-ai-models-is-intensifying-as-chip-sector-advances</guid>
       <category>Artificial Intelligence</category>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Where Chinese Exports Are Gaining the Most Market Share</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/where-chinese-exports-are-gaining-the-most-market-share</link>
+      <description>The market share for Chinese products is estimated to have reached 24% in emerging markets, says Trina Chen of Goldman Sachs Research.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/where-chinese-exports-are-gaining-the-most-market-share</guid>
+      <category>Trade</category>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

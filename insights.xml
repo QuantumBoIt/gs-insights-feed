@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 15 Oct 2026 04:44:32 +0000</lastBuildDate>
-    <item>
-      <title>Will Bonds Become a Better Hedge for Investment Portfolios?</title>
-      <link>https://www.goldmansachs.com/insights/videos/will-bonds-become-a-better-hedge-for-investment-portfolios</link>
-      <description>Can bonds still help balance portfolios? William Marshall, Head of US Rates Strategy in Goldman Sachs Research, separates the signal from the noise.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/will-bonds-become-a-better-hedge-for-investment-portfolios</guid>
-      <category>Macroeconomics</category>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 17:04:18 +0000</lastBuildDate>
     <item>
       <title>The Outlook for India’s Stock Market amid the Middle East Conflict</title>
       <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-stock-market-amid-the-middle-east-conflict</link>
@@ -792,6 +784,14 @@
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/where-chinese-exports-are-gaining-the-most-market-share</guid>
       <category>Trade</category>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>German Exports Rebound amid Demand from the US, EU, and AI Buildout</title>
+      <link>https://www.goldmansachs.com/insights/articles/german-exports-rebound-amid-demand-from-the-us-eu-and-ai-buildout</link>
+      <description>Our economists forecast Germany’s real exports will grow at a robust rate of 3.5% in 2026 and 2.4% the following year.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/german-exports-rebound-amid-demand-from-the-us-eu-and-ai-buildout</guid>
+      <category>Europe</category>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

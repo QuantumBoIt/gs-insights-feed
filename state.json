@@ -8442,6 +8442,20 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/articles/will-japanese-stocks-rally-to-fresh-record-highs"
     },
+    "https://www.goldmansachs.com/insights/articles/will-oil-prices-decline-as-middle-east-supply-recovers": {
+      "content_hash": "80cad4d2b699b4425e461b76cba183b1dcf03fb1fc3bf208351f0e98e8819da4",
+      "content_type": "Article",
+      "description": "Goldman Sachs Research’s base case is that the global oil market shifts to a surplus, helped by a recovery in Persian Gulf shipments, eventually moderating crude prices.",
+      "fetched_at": "2026-10-16T16:42:07+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-16T10:01:16.000Z",
+      "media": [],
+      "publish_date": "2026-10-16",
+      "removed": false,
+      "title": "Will Oil Prices Decline as Middle East Supply Recovers?",
+      "topic": "Energy",
+      "url": "https://www.goldmansachs.com/insights/articles/will-oil-prices-decline-as-middle-east-supply-recovers"
+    },
     "https://www.goldmansachs.com/insights/articles/will-space-stocks-outperform-the-s-and-p-500": {
       "content_hash": "5df760929c7c618ec410741dd38b10a47fa8ada8c8efce01315d10f94a84f6d0",
       "content_type": "Article",
@@ -45042,6 +45056,35 @@
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/the-markets/how-geopolitical-instability-is-affecting-markets"
     },
+    "https://www.goldmansachs.com/insights/the-markets/how-higher-rates-and-ai-issuance-are-affecting-credit-markets": {
+      "content_hash": "cce0806a1aa16dd0a8444a50b7101fa0390ac219bf5fed3b5137d3a363e14360",
+      "content_type": "Podcast",
+      "description": "Credit markets are resilient despite recent higher-than-expected inflation data and scrutiny over the AI buildout, says Alex Finston, co-head of US and Asia Credit Trading in Goldman Sachs FICC and Equities on The Markets podcast.",
+      "fetched_at": "2026-10-16T16:42:08+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-16T14:09:38.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/how-higher-rates-and-ai-issuance-are-affecting-credit-markets/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-72834_9667-26-040_Markets_Alex-Finston_v2.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/how-higher-rates-and-ai-issuance-are-affecting-credit-markets/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-10-16",
+      "removed": false,
+      "title": "How Higher Rates and AI Issuance Are Affecting Credit Markets",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/the-markets/how-higher-rates-and-ai-issuance-are-affecting-credit-markets"
+    },
     "https://www.goldmansachs.com/insights/the-markets/how-inflation-and-fiscal-policy-are-driving-us-treasury-markets": {
       "content_hash": "cbf4d6dba9b3c65da9dc901a97ad0b7792a461d88529c696474618baa8b944c0",
       "content_type": "Podcast",
@@ -51180,6 +51223,35 @@
       "title": "Goldman Sachs Chairman and CEO David Solomon Joins CNBC",
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-2q-earnings-deal-making-and-ai-investment"
+    },
+    "https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-builders-and-innovators-summit": {
+      "content_hash": "77e8f1fe209918e38de3b86d16403b7025e0d1a6d84ec38342df4e3af200e9a9",
+      "content_type": "Video",
+      "description": "David Solomon discussed the firm’s third-quarter earnings, his outlook for near-term dealmaking activity, and continued confidence in the IPO market. He also shared his views on AI innovation, and the need for human and enterprise accountability and risk controls.",
+      "fetched_at": "2026-10-16T16:42:09+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-16T15:27:59.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/videos/cnbc-david-solomon-builders-and-innovators-summit/DMS-CNBC-BI-16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-72527_9691_Jan_Hatzius_on_CNBC_Squawk_on_the_Street_261002.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/videos/cnbc-david-solomon-builders-and-innovators-summit/Transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-10-15",
+      "removed": false,
+      "title": "Chairman and CEO David Solomon Joins CNBC from Our Builders and Innovators Summit",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-builders-and-innovators-summit"
     },
     "https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-on-us-economy-outlook": {
       "content_hash": "a36dc7db9b75bbfef71fabc7bced5d57f85be73c2a93b462650fd6fcec8ddce5",

@@ -8,31 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 16 Oct 2026 04:36:02 +0000</lastBuildDate>
-    <item>
-      <title>The Outlook for India’s Stock Market amid the Middle East Conflict</title>
-      <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-stock-market-amid-the-middle-east-conflict</link>
-      <description>Indian equities have historically rebounded after periods of crisis, which may offer attractive entry points for long-term investors in the markets.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-stock-market-amid-the-middle-east-conflict</guid>
-      <category>Markets</category>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Spain’s Economy Is Growing Three Times Faster Than the Euro Area</title>
-      <link>https://www.goldmansachs.com/insights/articles/why-spains-economy-is-growing-three-times-faster-than-the-euro-area</link>
-      <description>Spain’s strong fiscal position and ‘structural resilience’ have bolstered GDP at a time when its neighbors are struggling to cope with the global energy shock.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-spains-economy-is-growing-three-times-faster-than-the-euro-area</guid>
-      <category>Macroeconomics</category>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are European Stocks Poised to Outperform the S&amp;P?</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/are-european-stocks-poised-to-outperform-the-s-and-p</link>
-      <description>As US stocks surge, European equities are turning out positive performance as well. Sharon Bell, European portfolio strategist in Goldman Sachs Research, recently raised her target prices for European indices, but she still doesn’t think they’ll outperform their US counterparts. She discusses with Chris Hussey.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/are-european-stocks-poised-to-outperform-the-s-and-p</guid>
-      <category>Europe</category>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 16:42:10 +0000</lastBuildDate>
     <item>
       <title>Leading Through Complexity: EY’s Janet Truncale on Leadership, AI, and the Modern Boardroom</title>
       <link>https://www.goldmansachs.com/insights/talks-at-gs/janet-truncale</link>
@@ -786,12 +762,35 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Chairman and CEO David Solomon Joins CNBC from Our Builders and Innovators Summit</title>
+      <link>https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-builders-and-innovators-summit</link>
+      <description>David Solomon discussed the firm’s third-quarter earnings, his outlook for near-term dealmaking activity, and continued confidence in the IPO market. He also shared his views on AI innovation, and the need for human and enterprise accountability and risk controls.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-builders-and-innovators-summit</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>German Exports Rebound amid Demand from the US, EU, and AI Buildout</title>
       <link>https://www.goldmansachs.com/insights/articles/german-exports-rebound-amid-demand-from-the-us-eu-and-ai-buildout</link>
       <description>Our economists forecast Germany’s real exports will grow at a robust rate of 3.5% in 2026 and 2.4% the following year.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/german-exports-rebound-amid-demand-from-the-us-eu-and-ai-buildout</guid>
       <category>Europe</category>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Higher Rates and AI Issuance Are Affecting Credit Markets</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/how-higher-rates-and-ai-issuance-are-affecting-credit-markets</link>
+      <description>Credit markets are resilient despite recent higher-than-expected inflation data and scrutiny over the AI buildout, says Alex Finston, co-head of US and Asia Credit Trading in Goldman Sachs FICC and Equities on The Markets podcast.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/how-higher-rates-and-ai-issuance-are-affecting-credit-markets</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will Oil Prices Decline as Middle East Supply Recovers?</title>
+      <link>https://www.goldmansachs.com/insights/articles/will-oil-prices-decline-as-middle-east-supply-recovers</link>
+      <description>Goldman Sachs Research’s base case is that the global oil market shifts to a surplus, helped by a recovery in Persian Gulf shipments, eventually moderating crude prices.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/will-oil-prices-decline-as-middle-east-supply-recovers</guid>
+      <category>Energy</category>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

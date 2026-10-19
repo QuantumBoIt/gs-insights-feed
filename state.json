@@ -50111,6 +50111,28 @@
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/top-of-mind/high-bond-yields-here-to-stay"
     },
+    "https://www.goldmansachs.com/insights/top-of-mind/higher-bond-yields-how-concerning": {
+      "content_hash": "d274341a7d26131037b62e54d72026f40cb6090ed366e490b0cfb3981c7e96c6",
+      "content_type": "Report",
+      "description": "Global bond yields have risen to multi-decade highs, but with some pressures beginning to emerge and yields looking unlikely to retreat soon, can that resilience last, or will more vulnerabilities be revealed?",
+      "fetched_at": "2026-10-19T18:43:53+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-19T14:27:54.000Z",
+      "media": [
+        {
+          "kind": "pdf-report",
+          "local_path": "",
+          "poster": "",
+          "title": "Read Report",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/higher-bond-yields-how-concerning/top-of-mind.pdf"
+        }
+      ],
+      "publish_date": "2026-10-19",
+      "removed": false,
+      "title": "Higher Bond Yields: How Concerning?",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/top-of-mind/higher-bond-yields-how-concerning"
+    },
     "https://www.goldmansachs.com/insights/top-of-mind/how-investable-is-europe": {
       "content_hash": "d4a391fe383a9e91482f0c60b48979f8d4357b91c8bc52e16870943acb91cf66",
       "content_type": "Report",

@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 22 Oct 2026 04:53:51 +0000</lastBuildDate>
-    <item>
-      <title>Private Markets at an Inflection Point</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-markets-at-an-inflection-point</link>
-      <description>Private markets have stalled since interest rates started to rise in 2022, even as public markets have climbed to new highs. But a period of sustained economic growth along with rising liquidity and AI-driven innovation could help private markets rebound, according to Goldman Sachs&amp;#x27; Pete Lyon and Michael Brandmeyer. Despite longer private equity holding times and mixed performance from private credit funds, they remain cautiously optimistic, projecting that distributions will gradually return to 15%-20% and that deal activity could exceed its 2021 peak within two to three years.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-markets-at-an-inflection-point</guid>
-      <category>Alternatives &amp; Private Markets</category>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why the Fed Is Unlikely to Cut Rates This Year</title>
-      <link>https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year</link>
-      <description>Goldman Sachs Research has pushed back its forecast for Fed rate cuts to June and December 2027 (from December 2026 and March 2027 previously).</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year</guid>
-      <category>Macroeconomics</category>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 17:13:42 +0000</lastBuildDate>
     <item>
       <title>The Outlook for Data Centers in Asia</title>
       <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-data-centers-in-asia</link>
@@ -790,6 +774,22 @@
       <description>Global bond yields have risen to multi-decade highs, but with some pressures beginning to emerge and yields looking unlikely to retreat soon, can that resilience last, or will more vulnerabilities be revealed?</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/top-of-mind/higher-bond-yields-how-concerning</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Small Business Owners Are Using AI to Help Propel Growth</title>
+      <link>https://www.goldmansachs.com/insights/articles/how-small-business-owners-are-using-ai-to-help-propel-growth</link>
+      <description>Small business owners are accelerating their adoption of AI to help analyze financial data, develop new products, and help manage core operations.  </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-small-business-owners-are-using-ai-to-help-propel-growth</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Luxury Goods Companies’ Revenues Are Forecast to Climb</title>
+      <link>https://www.goldmansachs.com/insights/articles/why-luxury-goods-companies-revenues-are-forecast-to-climb</link>
+      <description>Goldman Sachs Research forecasts 7% revenue growth for luxury-goods companies in 2027, up from 6% in 2026, based on a basket of key luxury-brand stocks.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-luxury-goods-companies-revenues-are-forecast-to-climb</guid>
+      <category>Markets</category>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Oct 2026 04:56:17 +0000</lastBuildDate>
-    <item>
-      <title>The Outlook for Data Centers in Asia</title>
-      <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-data-centers-in-asia</link>
-      <description>Traditional cloud workloads as well as new AI-first demand are driving growth in data centers in Asia, according to Goldman Sachs Research.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-outlook-for-data-centers-in-asia</guid>
-      <category>Artificial Intelligence</category>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Outlook for AI-Related Stocks and US Interest Rates</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/the-outlook-for-ai-related-stocks-and-us-interest-rates</link>
-      <description>What’s the path for US interest rates, when could AI-related debt issuance become problematic, and where are the next AI opportunities? Muhammad Qubbaj, co-head of US Interest Rate Products in Goldman Sachs Global Banking &amp;amp; Markets, discusses with Chris Hussey on The Markets.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/the-outlook-for-ai-related-stocks-and-us-interest-rates</guid>
-      <category>Technology</category>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Oct 2026 17:11:52 +0000</lastBuildDate>
     <item>
       <title>Private Markets Are Expected to Have a Growing Role in Data Center Financing</title>
       <link>https://www.goldmansachs.com/insights/articles/private-markets-expected-to-have-growing-role-in-data-center-financing</link>
@@ -790,6 +774,22 @@
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/how-small-business-owners-are-using-ai-to-help-propel-growth</guid>
       <category>Artificial Intelligence</category>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Investors Are Reducing AI Exposure</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/why-investors-are-reducing-ai-exposure</link>
+      <description>Investors are reassessing their highly concentrated AI exposure, looking to lower risk amid rising capital costs, says Rich Privorotsky, head of European Equities Trading in Goldman Sachs FICC and Equities.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/why-investors-are-reducing-ai-exposure</guid>
+      <category>Markets</category>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Oil Prices Are Surging Despite Recovering Supply</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-oil-prices-are-surging-despite-recovering-supply</link>
+      <description>Crude oil prices remain in triple digits despite recovering supply from the Middle East, as buyers brace for more potential disruptions and investors hedge their portfolios.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-oil-prices-are-surging-despite-recovering-supply</guid>
+      <category>Outlooks</category>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -23644,12 +23644,12 @@
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/where-are-family-offices-seeking-higher-returns"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/where-chinese-exports-are-gaining-the-most-market-share": {
-      "content_hash": "318b4093b83e9eae96d05f4b3291d518e9952f8ecb9ebe3510a3ab809cb915be",
+      "content_hash": "9bf705ba640c20332174916da0e7b65a03bff109414e827ed3b667b8fa218c4d",
       "content_type": "Podcast",
       "description": "The market share for Chinese products is estimated to have reached 24% in emerging markets, says Trina Chen of Goldman Sachs Research.",
-      "fetched_at": "2026-10-15T04:44:32+00:00",
+      "fetched_at": "2026-10-23T17:11:51+00:00",
       "file_path": "",
-      "lastmod": "2026-10-14T14:59:01.000Z",
+      "lastmod": "2026-10-23T15:33:12.000Z",
       "media": [
         {
           "kind": "video",
@@ -23923,6 +23923,35 @@
       "title": "Why oil and gold prices could keep rising",
       "topic": "Energy",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-oil-and-gold-prices-could-keep-rising"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-oil-prices-are-surging-despite-recovering-supply": {
+      "content_hash": "e1e72b630fe9a79d21a805640cdaa4a8063f92ed3443c53da86cc113a74cb9b2",
+      "content_type": "Podcast",
+      "description": "Crude oil prices remain in triple digits despite recovering supply from the Middle East, as buyers brace for more potential disruptions and investors hedge their portfolios.",
+      "fetched_at": "2026-10-23T17:11:49+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-23T13:02:30.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/why-oil-prices-are-surging-despite-recovering-supply/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-73011_005_9666_Ep26-067_Exchanges_Daan_StruyvanFULL_2.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/why-oil-prices-are-surging-despite-recovering-supply/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-10-23",
+      "removed": false,
+      "title": "Why Oil Prices Are Surging Despite Recovering Supply",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-oil-prices-are-surging-despite-recovering-supply"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/why-us-recession-fears-are-likely-overblown": {
       "content_hash": "d3c8e6bfa6fa168a61e20c7ca36f980ebc4a15cb0a4456fa74fb3e4e77e14952",
@@ -48688,6 +48717,35 @@
       "title": "Why Gold Is Expected to Rise to Record Highs",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/why-gold-is-expected-to-rise-to-record-highs"
+    },
+    "https://www.goldmansachs.com/insights/the-markets/why-investors-are-reducing-ai-exposure": {
+      "content_hash": "ec0f1d4400522c273e9877e123270815164fc5d48975a0f92caf1b1ba8a77601",
+      "content_type": "Podcast",
+      "description": "Investors are reassessing their highly concentrated AI exposure, looking to lower risk amid rising capital costs, says Rich Privorotsky, head of European Equities Trading in Goldman Sachs FICC and Equities.",
+      "fetched_at": "2026-10-23T17:11:50+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-23T14:03:12.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/why-investors-are-reducing-ai-exposure/16x9.png",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-73029_9667_Ep26-041_Markets_Rich-Privorotsky_v2.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/why-investors-are-reducing-ai-exposure/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-10-23",
+      "removed": false,
+      "title": "Why Investors Are Reducing AI Exposure",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/the-markets/why-investors-are-reducing-ai-exposure"
     },
     "https://www.goldmansachs.com/insights/the-markets/why-investors-should-expect-the-chop-to-continue": {
       "content_hash": "6193fe6dde38bf6522ec72894eaf850722c1589450a4ab5d0015875894778e24",

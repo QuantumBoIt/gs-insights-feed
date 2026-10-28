@@ -18320,16 +18320,16 @@
       "content_hash": "b7a7e8273ce43dd19f09c7c0daa9379d0804268ef2991a927c3f2d272ecadfb5",
       "content_type": "Podcast",
       "description": "Rapid technological advances have raised the stakes of building generative AI applications for financial professionals. Chris Churchman, head of Goldman Sachs Marquee, shares his first-hand experience.",
-      "fetched_at": "2026-08-25T01:53:34+00:00",
+      "fetched_at": "2026-10-28T05:46:37+00:00",
       "file_path": "",
-      "lastmod": "2026-08-24T19:28:09.000Z",
+      "lastmod": "2026-10-27T18:49:35.000Z",
       "media": [
         {
           "kind": "video",
           "local_path": "",
           "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/building-ai-systems-for-capital-markets/16x9.jpg",
           "title": "Video",
-          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71126_9666_Ep26-046_Exchanges_Chris_ChurchmanFULL.mp4"
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-71773_9666_Ep26-046_Exchanges_Chris_ChurchmanFULL_1R1.mp4"
         },
         {
           "kind": "transcript",
@@ -19364,6 +19364,35 @@
       "title": "Steven Tananbaum: The Evolution of Credit Investing and AI Opportunities",
       "topic": "Great Investors",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldentrees-steven-tananbaum-the-evolution-of-credit-investing"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-chairman-and-ceo-david-solomon-on-ai-implementation-accountability-and-jobs": {
+      "content_hash": "827235d5845c89b9fb44d82cc768aef3f4196e222f8c1b2127f6383868055abd",
+      "content_type": "Podcast",
+      "description": "Advancing AI doesn’t have to be a choice between innovation and safety, says Goldman Sachs Chairman and CEO David Solomon.",
+      "fetched_at": "2026-10-28T05:46:38+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-27T19:44:02.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/goldman-sachs-chairman-and-ceo-david-solomon-on-ai-implementation-accountability-and-jobs/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-73112_9666_Ep26-068_Exchanges_David_SolomonFULL.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/goldman-sachs-chairman-and-ceo-david-solomon-on-ai-implementation-accountability-and-jobs/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-10-27",
+      "removed": false,
+      "title": "Goldman Sachs Chairman and CEO David Solomon on AI: Implementation, Accountability, and Jobs",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-chairman-and-ceo-david-solomon-on-ai-implementation-accountability-and-jobs"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/goldman-sachs-chairman-and-ceo-david-solomon-on-ai-m-and-a-and-markets": {
       "content_hash": "45ba8b5c14fed6ae854240cd0e4f9908868afd6e2e9c83ad77eb742f04ba9068",

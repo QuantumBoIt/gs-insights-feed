@@ -32168,6 +32168,35 @@
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/dikembe-mutombo"
     },
+    "https://www.goldmansachs.com/insights/talks-at-gs/dimensionals-david-booth-on-how-to-interpret-risk-and-stay-calm-amid-uncertainty": {
+      "content_hash": "89f1699f552197e3a38e606dcf58db6c2f000edd4b07230f37919d32e95eb174",
+      "content_type": "Video",
+      "description": "David Booth, founder and chairman of Dimensional Fund Advisors, and author of Stay Calm, says investing in the market lets you “participate in the upside of human ingenuity.” Staying invested is key.",
+      "fetched_at": "2026-10-29T05:52:39+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-28T19:45:06.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/david-booth/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-73128_9723_Ep26-030_TAGS_David_Booth_V05_HIGHLIGHTS.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/david-booth/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-10-28",
+      "removed": false,
+      "title": "Dimensional’s David Booth on How to Interpret Risk and 'Stay Calm' Amid Uncertainty",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/dimensionals-david-booth-on-how-to-interpret-risk-and-stay-calm-amid-uncertainty"
+    },
     "https://www.goldmansachs.com/insights/talks-at-gs/dominique-ansel": {
       "content_hash": "e0862010d668cc1fea64b028944acd7ec0abab6b9a7ba5eb9814cb36e31de490",
       "content_type": "Video",

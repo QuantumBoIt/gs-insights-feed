@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Oct 2026 05:52:39 +0000</lastBuildDate>
-    <item>
-      <title>How the US-Iran Deal Could Affect Oil Prices</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-the-us-iran-deal-could-affect-oil-prices</link>
-      <description>Oil prices are expected to fall further after reports that the US and Iran agreed to end hostilities and reopen the Strait of Hormuz.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-the-us-iran-deal-could-affect-oil-prices</guid>
-      <category>Geopolitics</category>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Oct 2026 18:29:36 +0000</lastBuildDate>
     <item>
       <title>Maverick Capital Co-CIOs on Finding the AI Winners</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/maverick-capital-co-cios-on-finding-the-ai-winners</link>
@@ -789,6 +781,14 @@
       <description>David Booth, founder and chairman of Dimensional Fund Advisors, and author of Stay Calm, says investing in the market lets you “participate in the upside of human ingenuity.” Staying invested is key.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/dimensionals-david-booth-on-how-to-interpret-risk-and-stay-calm-amid-uncertainty</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Security Supercycle: Investing in Innovation, Resilience, and Rearmament</title>
+      <link>https://www.goldmansachs.com/insights/articles/the-security-supercycle-investing-in-innovation-resilience-and-rearmament</link>
+      <description>Global rearmament is reshaping industrial policies and drawing new sectors into the defense economy, with far-reaching implications for businesses and investors. This paper examines what&amp;#x27;s driving the current rearmament cycle, where capital is flowing, and what it means for the global economy.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-security-supercycle-investing-in-innovation-resilience-and-rearmament</guid>
+      <category>Geopolitics</category>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6534,6 +6534,20 @@
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-the-us-consumer-amid-rising-inflation"
     },
+    "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates": {
+      "content_hash": "ff2e52c4b9126d01fd8d6cb35099b4a70830724d123f993a51e7288a7380fba5",
+      "content_type": "Article",
+      "description": "The rise in mortgage rates this year is likely to continue to weigh on home sales, prices, and housing starts in the year ahead.",
+      "fetched_at": "2026-10-30T18:01:44+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-30T14:36:22.000Z",
+      "media": [],
+      "publish_date": "2026-10-30",
+      "removed": false,
+      "title": "The Outlook for US Housing in 2027 amid Rising Mortgage Rates",
+      "topic": "Real Estate & Housing",
+      "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates"
+    },
     "https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-supply-and-affordability": {
       "content_hash": "7fe79017843af982584740fd8c105bd059ebc7c63ae2451ec0827f59d3e34189",
       "content_type": "Article",
@@ -18337,6 +18351,35 @@
       "title": "How to find alpha: Bridgewater Associates’ Co-CIO Karen Karniol-Tambour ",
       "topic": "Great Investors",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/bridgewater-associates-co-cio-karen-karniol-tambour"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/brookfields-connor-teskey-on-the-real-bottleneck-in-the-ai-buildout": {
+      "content_hash": "74ed8f86414f83b98d0c80705dc62837d8e36990ee144a2f6a152d3036c5b04a",
+      "content_type": "Podcast",
+      "description": "Brookfield Asset Management CEO Connor Teskey discusses what is needed to get AI infrastructure built and market concerns about data center demand. ",
+      "fetched_at": "2026-10-30T18:01:43+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-30T16:36:56.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/brookfields-connor-teskey-on-the-real-bottleneck-in-the-ai-buildout/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-73089_9666_Ep26-061_GIP_Connor_Teskey_Full_Final_Video_V3.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/brookfields-connor-teskey-on-the-real-bottleneck-in-the-ai-buildout/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-10-30",
+      "removed": false,
+      "title": "Brookfield’s Connor Teskey on the Real Bottleneck in the AI Buildout",
+      "topic": "Great Investors",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/brookfields-connor-teskey-on-the-real-bottleneck-in-the-ai-buildout"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/building-ai-systems-for-capital-markets": {
       "content_hash": "b7a7e8273ce43dd19f09c7c0daa9379d0804268ef2991a927c3f2d272ecadfb5",
@@ -44200,6 +44243,35 @@
       "title": "Breaking down the record highs",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/breaking-down-the-record-highs"
+    },
+    "https://www.goldmansachs.com/insights/the-markets/bullish-options-trades-trades-slow-amid-ai-uncertainty": {
+      "content_hash": "c48cd306f2a252204d588fd0a9d4221d63f6f4a1ea93bcedc797620aaf375391",
+      "content_type": "Podcast",
+      "description": " Bullish bets on AI are slowing as investors watch tech earnings to help determine the winners and losers from the AI build-out, says Lee Coppersmith of Goldman Sachs FICC and Equities.",
+      "fetched_at": "2026-10-30T18:01:45+00:00",
+      "file_path": "",
+      "lastmod": "2026-10-30T12:57:52.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/bullish-options-trades-slow-amid-ai-uncertainty/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-73193_9667_Ep26-042_Markets_Lee-Coppersmith_v3.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/bullish-options-trades-slow-amid-ai-uncertainty/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-10-30",
+      "removed": false,
+      "title": "Bullish Options Trades Slow amid AI Uncertainty",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/the-markets/bullish-options-trades-trades-slow-amid-ai-uncertainty"
     },
     "https://www.goldmansachs.com/insights/the-markets/buy-the-dip-in-us-equities": {
       "content_hash": "153195e3b35749b88c909837471761a21f2dc23b4edbaf2e989f7e5a3479376a",

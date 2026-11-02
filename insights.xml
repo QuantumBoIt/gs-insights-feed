@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 30 Oct 2026 18:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:12:39 +0000</lastBuildDate>
     <item>
       <title>What the IPO Boom Means for the US Equity Outlook</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-the-ipo-boom-means-for-the-us-equity-outlook</link>
@@ -776,19 +776,19 @@
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Outlook for US Housing in 2027 amid Rising Mortgage Rates</title>
-      <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates</link>
-      <description>The rise in mortgage rates this year is likely to continue to weigh on home sales, prices, and housing starts in the year ahead.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates</guid>
-      <category>Real Estate &amp; Housing</category>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Brookfield’s Connor Teskey on the Real Bottleneck in the AI Buildout</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/brookfields-connor-teskey-on-the-real-bottleneck-in-the-ai-buildout</link>
       <description>Brookfield Asset Management CEO Connor Teskey discusses what is needed to get AI infrastructure built and market concerns about data center demand. </description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/brookfields-connor-teskey-on-the-real-bottleneck-in-the-ai-buildout</guid>
       <category>Great Investors</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Outlook for US Housing in 2027 amid Rising Mortgage Rates</title>
+      <link>https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates</link>
+      <description>The rise in mortgage rates this year is likely to continue to weigh on home sales, prices, and housing starts in the year ahead.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-outlook-for-us-housing-in-2027-amid-rising-mortgage-rates</guid>
+      <category>Real Estate &amp; Housing</category>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

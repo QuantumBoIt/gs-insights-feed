@@ -27050,6 +27050,28 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/music-in-the-air--focus-on-monetisation--emerging-markets-and-ai"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-research/music-in-the-air-10-years-on": {
+      "content_hash": "8a7cedda57037cee4b6e01b6e92d16720aa684dcd18ba559f67cd9df11c6dc06",
+      "content_type": "Report",
+      "description": "Ten years after the original Music in the Air, the industry&#x27;s investment debate has evolved from one centered on streaming adoption toward one focused on monetization. ",
+      "fetched_at": "2026-11-03T06:52:38+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-02T18:59:48.000Z",
+      "media": [
+        {
+          "kind": "pdf-report",
+          "local_path": "",
+          "poster": "",
+          "title": "Read Report",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/music-in-the-air-10-years-on/report.pdf"
+        }
+      ],
+      "publish_date": "2026-11-02",
+      "removed": false,
+      "title": "Music in the Air: 10 Years On",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/music-in-the-air-10-years-on"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-research/music-in-the-air-2022": {
       "content_hash": "4587cf65ea98b8780921703077d47538d50dbcc75972e4198deebb9da34f09f7",
       "content_type": "Report",

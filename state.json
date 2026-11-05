@@ -34246,6 +34246,35 @@
       "topic": "Strategy & Leadership",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/horacio-rozanski"
     },
+    "https://www.goldmansachs.com/insights/talks-at-gs/how-aaru-uses-advanced-ai-simulations-to-predict-human-behavior-": {
+      "content_hash": "a76b16b86160c516523da243575bcabe09f78e800f88a38eb2a2828277acbaf3",
+      "content_type": "",
+      "description": "Cam Fink and Ned Koh, co-founders of Aaru, discuss their $1 billion startup and the  use of AI in market research and behavioral simulation.",
+      "fetched_at": "2026-11-05T19:59:17+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-05T16:07:29.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/cam-fink-and-ned-koh/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-73037_9723_Ep26-026_-_Talks_at_GS_with_Cam_Fink_and_Ned_Koh_-_Session_Highlights_Akamai.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/cam-fink-and-ned-koh/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-11-05",
+      "removed": false,
+      "title": "How Aaru Uses Advanced AI Simulations to Predict Human Behavior ",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/how-aaru-uses-advanced-ai-simulations-to-predict-human-behavior-"
+    },
     "https://www.goldmansachs.com/insights/talks-at-gs/howard-marks": {
       "content_hash": "3b1e7ae7538423e89fee471af3c2b3618aa5416d8007c338ba85afac4409c7b7",
       "content_type": "Video",

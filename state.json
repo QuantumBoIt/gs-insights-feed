@@ -21053,6 +21053,35 @@
       "topic": "IPOs & M&A",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/is-the-surge-in-us-ipos-a-warning-sign-for-investors"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/john-waldron-on-gdp-growth-ai-and-the-m-a-outlook": {
+      "content_hash": "41f7e629acf002b27e8fed4c98c5ad2b81c98e926eb6831200fc76671171e937",
+      "content_type": "Podcast",
+      "description": "Goldman Sachs President and COO John Waldron discusses the sentiment among executives at major companies, momentum in M&amp;A, and opportunities in capital markets.",
+      "fetched_at": "2026-11-05T06:52:44+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-04T22:11:11.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/john-waldron-on-gdp-growth-ai-and-the-m-a-outlook/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-73325_9666_Ep26-065_Exchanges_John_Waldron_FULL.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/john-waldron-on-gdp-growth-ai-and-the-m-a-outlook/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-11-04",
+      "removed": false,
+      "title": "John Waldron on GDP Growth, AI, and the M&A Outlook ",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/john-waldron-on-gdp-growth-ai-and-the-m-a-outlook"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/kkr-henry-kravis-on-private-equity-culture-and-global-markets": {
       "content_hash": "9b6d39b23528a3eca757087c4b273aa61a65dbec3b837f355dc2def2753ad618",
       "content_type": "Podcast",

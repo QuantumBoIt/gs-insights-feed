@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:52:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 19:27:04 +0000</lastBuildDate>
     <item>
       <title>HALO Stocks in Emerging Markets Could Extend Rally as Heavy Industries Surge</title>
       <link>https://www.goldmansachs.com/insights/articles/halo-stocks-in-emerging-markets-could-extend-rally-as-heavy-industries-surge</link>
@@ -778,19 +778,19 @@
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Global Music Revenues Are Forecast to Rise as Subscriber Growth Beats Expectations</title>
-      <link>https://www.goldmansachs.com/insights/articles/global-music-revenues-are-forecast-to-rise-as-subscriber-growth-beats-expectations</link>
-      <description>Goldman Sachs Research has raised its outlook for the music industry for the first time in three years as the industry’s growth narrative evolves from one centered primarily on streaming adoption toward one focused on monetization.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/global-music-revenues-are-forecast-to-rise-as-subscriber-growth-beats-expectations</guid>
-      <category>Markets</category>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How Aaru Uses Advanced AI Simulations to Predict Human Behavior </title>
       <link>https://www.goldmansachs.com/insights/talks-at-gs/how-aaru-uses-advanced-ai-simulations-to-predict-human-behavior-</link>
       <description>Cam Fink and Ned Koh, co-founders of Aaru, discuss their $1 billion startup and the  use of AI in market research and behavioral simulation.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/how-aaru-uses-advanced-ai-simulations-to-predict-human-behavior-</guid>
       <category>Artificial Intelligence</category>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Music Revenues Are Forecast to Rise as Subscriber Growth Beats Expectations</title>
+      <link>https://www.goldmansachs.com/insights/articles/global-music-revenues-are-forecast-to-rise-as-subscriber-growth-beats-expectations</link>
+      <description>Goldman Sachs Research has raised its outlook for the music industry for the first time in three years as the industry’s growth narrative evolves from one centered primarily on streaming adoption toward one focused on monetization.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/global-music-revenues-are-forecast-to-rise-as-subscriber-growth-beats-expectations</guid>
+      <category>Markets</category>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 09 Nov 2026 06:40:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 22:25:07 +0000</lastBuildDate>
     <item>
       <title>Strengthening the Navy SEAL Community amid Geopolitical Shifts</title>
       <link>https://www.goldmansachs.com/insights/talks-at-gs/navy-seal-foundation</link>
@@ -746,14 +746,6 @@
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Emerging Market Credit Shows Resilience amid Energy Shock</title>
-      <link>https://www.goldmansachs.com/insights/articles/emerging-market-credit-shows-resilience-amid-energy-shock</link>
-      <description>Emerging market credit has transformed from a perceived high-risk market into a resilient and diverse asset class.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/emerging-market-credit-shows-resilience-amid-energy-shock</guid>
-      <category>Markets</category>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How Aaru Uses Advanced AI Simulations to Predict Human Behavior </title>
       <link>https://www.goldmansachs.com/insights/talks-at-gs/how-aaru-uses-advanced-ai-simulations-to-predict-human-behavior-</link>
       <description>Cam Fink and Ned Koh, co-founders of Aaru, discuss their $1 billion startup and the  use of AI in market research and behavioral simulation.</description>
@@ -770,17 +762,18 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Emerging Market Credit Shows Resilience amid Energy Shock</title>
+      <link>https://www.goldmansachs.com/insights/articles/emerging-market-credit-shows-resilience-amid-energy-shock</link>
+      <description>Emerging market credit has transformed from a perceived high-risk market into a resilient and diverse asset class.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/emerging-market-credit-shows-resilience-amid-energy-shock</guid>
+      <category>Markets</category>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Goldman Sachs Chief Economist Jan Hatzius Joins CNBC to Discuss the US Jobs Report and the Economic Outlook</title>
       <link>https://www.goldmansachs.com/insights/videos/cnbc-jan-hatzius-us-jobs-report-and-economic-outlook</link>
       <description>Jan Hatzius joined CNBC to discuss a stronger-than-expected employment report, describing the labor market as stable at roughly full employment. He shared his expectations for US growth to moderate next year and his views on the current AI investment cycle.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/cnbc-jan-hatzius-us-jobs-report-and-economic-outlook</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LSEG CEO David Schwimmer on Where Global Capital Is Moving</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/david-schwimmer</link>
-      <description>David Schwimmer, CEO of London Stock Exchange Group, explains why inflation, fiscal pressure, and geopolitical risk could spark greater market volatility. Schwimmer also outlines how credible, structured data can become more valuable as AI models and computing capacity develop.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/david-schwimmer</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -789,6 +782,13 @@
       <description>The US midterm elections could strengthen a stock market rotation that was already underway says Lou Miller, global head of Custom Basket Trading in Goldman Sachs FICC and Equities.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/the-us-midterms-reshaping-the-stock-market</guid>
       <category>Markets</category>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LSEG CEO David Schwimmer on Where Global Capital Is Moving</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/david-schwimmer</link>
+      <description>David Schwimmer, CEO of London Stock Exchange Group, explains why inflation, fiscal pressure, and geopolitical risk could spark greater market volatility. Schwimmer also outlines how credible, structured data can become more valuable as AI models and computing capacity develop.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/david-schwimmer</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

@@ -1629,6 +1629,20 @@
       "topic": "Healthcare",
       "url": "https://www.goldmansachs.com/insights/articles/eli-lilly-is-taking-aim-at-people-s-biggest-health-challenges"
     },
+    "https://www.goldmansachs.com/insights/articles/emerging-market-credit-shows-resilience-amid-energy-shock": {
+      "content_hash": "ddba3a22e7c2dd4f724f9e57cf9a8238721e91d3bf4d01307f4e96133e2cee72",
+      "content_type": "Article",
+      "description": "Emerging market credit has transformed from a perceived high-risk market into a resilient and diverse asset class.",
+      "fetched_at": "2026-11-09T06:40:36+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-06T14:28:56.000Z",
+      "media": [],
+      "publish_date": "2026-11-05",
+      "removed": false,
+      "title": "Emerging Market Credit Shows Resilience amid Energy Shock",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/articles/emerging-market-credit-shows-resilience-amid-energy-shock"
+    },
     "https://www.goldmansachs.com/insights/articles/emerging-markets-stocks-and-currencies-are-forecast-to-rally": {
       "content_hash": "66d0ddb2b303177d342d930adb8a1b9fff15cc09b6697166c77a2623deb7eeed",
       "content_type": "Article",
@@ -6113,12 +6127,12 @@
       "url": "https://www.goldmansachs.com/insights/articles/the-financial-times-strategic-interdependence-is-rewiring-the-global-economy"
     },
     "https://www.goldmansachs.com/insights/articles/the-future-of-coding-is-conversation": {
-      "content_hash": "e1ad65ea460ba394de993a134bce40d479434b0bca22d0dc24249e879932a389",
+      "content_hash": "ee9dc8c9ded1b5873b00f3f1cb3b530bb66126f6ccfd773b126308d80179639c",
       "content_type": "Article",
       "description": "",
-      "fetched_at": "2026-05-04T21:33:03+00:00",
+      "fetched_at": "2026-11-09T06:40:37+00:00",
       "file_path": "",
-      "lastmod": "2024-07-19T18:10:21.000Z",
+      "lastmod": "2026-11-06T18:32:04.000Z",
       "media": [],
       "publish_date": "2022-11-17",
       "removed": false,
@@ -31817,6 +31831,35 @@
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/david-rubenstein"
     },
+    "https://www.goldmansachs.com/insights/talks-at-gs/david-schwimmer": {
+      "content_hash": "31ceb115fc3c3f08cd9e79494f9a4182ae24fc52d4c9942341abaa7672ded698",
+      "content_type": "Video",
+      "description": "David Schwimmer, CEO of London Stock Exchange Group, explains why inflation, fiscal pressure, and geopolitical risk could spark greater market volatility. Schwimmer also outlines how credible, structured data can become more valuable as AI models and computing capacity develop.",
+      "fetched_at": "2026-11-09T06:40:39+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-06T21:38:10.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/david-schwimmer/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-73354_9723_Ep26-027_Talks_at_GS_with_David_Schwimmer_-_Session_Highlights_v2.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/david-schwimmer/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-11-06",
+      "removed": false,
+      "title": "LSEG CEO David Schwimmer on Where Global Capital Is Moving",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/david-schwimmer"
+    },
     "https://www.goldmansachs.com/insights/talks-at-gs/david-velez": {
       "content_hash": "51c8599fde1975df3d5211a050ef471ee3f80d5a0b8e5e45b681ef577914f7c7",
       "content_type": "Video",
@@ -47751,6 +47794,35 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/the-us-is-still-the-place-to-be"
     },
+    "https://www.goldmansachs.com/insights/the-markets/the-us-midterms-reshaping-the-stock-market": {
+      "content_hash": "ad65823bfe71066a6e702aa2708a016715d444574cee2c808c5859b415434d49",
+      "content_type": "Podcast",
+      "description": "The US midterm elections could strengthen a stock market rotation that was already underway says Lou Miller, global head of Custom Basket Trading in Goldman Sachs FICC and Equities.",
+      "fetched_at": "2026-11-09T06:40:38+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-06T21:14:04.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/how-the-us-midterms-may-reshape-the-stock-market/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-73394_9667-26-043_Markets_Lou-Miller-v3.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/how-the-us-midterms-may-reshape-the-stock-market/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-11-06",
+      "removed": false,
+      "title": "The US Midterms: Reshaping the Stock Market",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/the-markets/the-us-midterms-reshaping-the-stock-market"
+    },
     "https://www.goldmansachs.com/insights/the-markets/this-is-what-people-were-hoping-for": {
       "content_hash": "c7ddad43940b0be01692854386e466adfeb1b35b0c311e109cdd2d4b314e24ac",
       "content_type": "Podcast",
@@ -51664,6 +51736,28 @@
       "title": "Goldman Sachs Chief Economist Jan Hatzius Joins CNBC to Discuss His Outlook for the US Economy",
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/videos/cnbc-jan-hatzius-outlook-for-us-economy"
+    },
+    "https://www.goldmansachs.com/insights/videos/cnbc-jan-hatzius-us-jobs-report-and-economic-outlook": {
+      "content_hash": "e72ce25d71eae313bace67505b90b0f63e1c2d0b97d124ec47781234605687a3",
+      "content_type": "Video",
+      "description": "Jan Hatzius joined CNBC to discuss a stronger-than-expected employment report, describing the labor market as stable at roughly full employment. He shared his expectations for US growth to moderate next year and his views on the current AI investment cycle.",
+      "fetched_at": "2026-11-09T06:40:40+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-06T22:44:57.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/videos/cnbc-jan-hatzius-us-jobs-report-and-economic-outlook/16x9.png",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-73393_9691_Jan_Hatzius_on_CNBC_20261106-v2-Akamai.mp4"
+        }
+      ],
+      "publish_date": "2026-11-06",
+      "removed": false,
+      "title": "Goldman Sachs Chief Economist Jan Hatzius Joins CNBC to Discuss the US Jobs Report and the Economic Outlook",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/videos/cnbc-jan-hatzius-us-jobs-report-and-economic-outlook"
     },
     "https://www.goldmansachs.com/insights/videos/david-kostin-cnbc": {
       "content_hash": "0a2bb7980f6863eaf21d021293e0c986cc1e79cee439d620cac0ea1523797e5c",

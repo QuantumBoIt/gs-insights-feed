@@ -8194,14 +8194,14 @@
       "content_hash": "bb71036ca223e4a8c11acaca3bb676c4b431115a9446e198f2248fad0abbad6a",
       "content_type": "Article",
       "description": "Goldman Sachs Research expects the ECB to hike rates in December amid resilient economic growth and inflationary pressures from the Iran war.",
-      "fetched_at": "2026-09-30T18:00:50+00:00",
+      "fetched_at": "2026-11-10T19:46:28+00:00",
       "file_path": "",
-      "lastmod": "2026-09-29T15:49:37.000Z",
+      "lastmod": "2026-11-10T14:56:42.000Z",
       "media": [],
       "publish_date": "2026-09-25",
       "removed": false,
       "title": "Why the ECB Is Unlikely to Keep Rates Higher Than 3%",
-      "topic": "",
+      "topic": "Energy",
       "url": "https://www.goldmansachs.com/insights/articles/why-the-ecb-is-unlikely-to-keep-rates-higher-than-3-percent"
     },
     "https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year": {
@@ -21085,9 +21085,9 @@
       "content_hash": "41f7e629acf002b27e8fed4c98c5ad2b81c98e926eb6831200fc76671171e937",
       "content_type": "Podcast",
       "description": "Goldman Sachs President and COO John Waldron discusses the sentiment among executives at major companies, momentum in M&amp;A, and opportunities in capital markets.",
-      "fetched_at": "2026-11-05T06:52:44+00:00",
+      "fetched_at": "2026-11-10T19:46:25+00:00",
       "file_path": "",
-      "lastmod": "2026-11-04T22:11:11.000Z",
+      "lastmod": "2026-11-10T14:36:22.000Z",
       "media": [
         {
           "kind": "video",
@@ -24079,9 +24079,9 @@
       "content_hash": "e1e72b630fe9a79d21a805640cdaa4a8063f92ed3443c53da86cc113a74cb9b2",
       "content_type": "Podcast",
       "description": "Crude oil prices remain in triple digits despite recovering supply from the Middle East, as buyers brace for more potential disruptions and investors hedge their portfolios.",
-      "fetched_at": "2026-10-23T17:11:49+00:00",
+      "fetched_at": "2026-11-10T19:46:26+00:00",
       "file_path": "",
-      "lastmod": "2026-10-23T13:02:30.000Z",
+      "lastmod": "2026-11-10T14:34:38.000Z",
       "media": [
         {
           "kind": "video",
@@ -31835,9 +31835,9 @@
       "content_hash": "31ceb115fc3c3f08cd9e79494f9a4182ae24fc52d4c9942341abaa7672ded698",
       "content_type": "Video",
       "description": "David Schwimmer, CEO of London Stock Exchange Group, explains why inflation, fiscal pressure, and geopolitical risk could spark greater market volatility. Schwimmer also outlines how credible, structured data can become more valuable as AI models and computing capacity develop.",
-      "fetched_at": "2026-11-09T06:40:39+00:00",
+      "fetched_at": "2026-11-10T19:46:27+00:00",
       "file_path": "",
-      "lastmod": "2026-11-06T21:38:10.000Z",
+      "lastmod": "2026-11-10T14:35:49.000Z",
       "media": [
         {
           "kind": "video",
@@ -31857,7 +31857,7 @@
       "publish_date": "2026-11-06",
       "removed": false,
       "title": "LSEG CEO David Schwimmer on Where Global Capital Is Moving",
-      "topic": "",
+      "topic": "IPOs & M&A",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/david-schwimmer"
     },
     "https://www.goldmansachs.com/insights/talks-at-gs/david-velez": {

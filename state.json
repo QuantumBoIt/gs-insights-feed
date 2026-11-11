@@ -21842,6 +21842,35 @@
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/planning-the-missing-link-to-retirement-security"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/playing-for-scale-the-future-of-sports-investing": {
+      "content_hash": "1dc0d367831f0ce43b775b8c371d6eb56230e17b9bd8473d7df948e95543042a",
+      "content_type": "Podcast",
+      "description": "Surging media rights, institutional capital, and modern stadium models are transforming the business of sports, Nicole Pullen Ross explains on the Goldman Sachs Exchanges podcast.",
+      "fetched_at": "2026-11-11T19:38:45+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-09T21:35:13.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/playing-for-scale-the-future-of-sports-investing/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-73473_9666_Ep26-063_Exchanges_Nicole_Pullen_Ross_FULL___2.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/playing-for-scale-the-future-of-sports-investing/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-11-10",
+      "removed": false,
+      "title": "Playing for Scale: The Future of Sports Investing",
+      "topic": "Business of Sports",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/playing-for-scale-the-future-of-sports-investing"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/private-credit-concerns-in-context": {
       "content_hash": "a3ecd74db7e594ce72c4e70a9711ab84ae878dd11a417056e4fd07c2fafe2284",
       "content_type": "Podcast",
@@ -26106,6 +26135,28 @@
       "title": "Global Macroscope – Global Strategy Conference: Results of Our 2023 ‘PM Question Time’",
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/global-macroscope-global-strategy-conference-results-of-2023-question-time"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-research/global-markets-daily-g4-net-bond-supply-leveling-out": {
+      "content_hash": "271ec3c53faa4ad5af60beb676b5a054eb8d8943453f06fa82f19c7293dbbf69",
+      "content_type": "Report",
+      "description": "",
+      "fetched_at": "2026-11-11T19:38:46+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-11T14:10:41.000Z",
+      "media": [
+        {
+          "kind": "pdf-report",
+          "local_path": "",
+          "poster": "",
+          "title": "Read Report",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/global-markets-daily-g4-net-bond-supply/GMD-G4-BondSupply-Redaction.pdf"
+        }
+      ],
+      "publish_date": "2026-11-11",
+      "removed": false,
+      "title": "Global Sovereign Bond Issuance in 2027—Leveling Out",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/global-markets-daily-g4-net-bond-supply-leveling-out"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-research/global-markets-daily-how-much-risk-is-priced-into-global-assets-now": {
       "content_hash": "711e0b207066f779d5320e55860b9655a109c0ac25d5bf5d5d20f670b14726e3",

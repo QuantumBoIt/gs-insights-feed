@@ -6246,6 +6246,20 @@
       "topic": "Macroeconomics",
       "url": "https://www.goldmansachs.com/insights/articles/the-global-economy-in-2075-growth-slows-as-asia-rises"
     },
+    "https://www.goldmansachs.com/insights/articles/the-global-economy-is-forecast-to-grow-2-point-8-percent-in-2027-as-oil-prices-decline": {
+      "content_hash": "500ba7746db49d6c6561d9d0bcbe0e242e5c15c54e82fad19c0d5c342272af43",
+      "content_type": "Article",
+      "description": "Goldman Sachs Research expects steady global GDP growth in 2027 amid lower energy prices and ongoing AI investment.",
+      "fetched_at": "2026-11-13T19:45:41+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-13T18:16:58.000Z",
+      "media": [],
+      "publish_date": "2026-11-13",
+      "removed": false,
+      "title": "The Global Economy Is Forecast to Grow 2.8% in 2027 as Oil Prices Decline",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/articles/the-global-economy-is-forecast-to-grow-2-point-8-percent-in-2027-as-oil-prices-decline"
+    },
     "https://www.goldmansachs.com/insights/articles/the-global-economy-is-forecast-to-grow-solidly-in-2025": {
       "content_hash": "8fd2b0e06104667184108782e2d8b9828d6ebbeb160bb781db1f09d29ea06cb0",
       "content_type": "Article",
@@ -7895,6 +7909,20 @@
       "title": "Why Europe Excels at Building Fintech Unicorns",
       "topic": "Technology",
       "url": "https://www.goldmansachs.com/insights/articles/why-europe-excels-at-building-fintech-unicorns"
+    },
+    "https://www.goldmansachs.com/insights/articles/why-european-companies-are-forecast-to-have-robust-earnings-growth": {
+      "content_hash": "06cc4dc816e7247bf27c8b0be8d916c1d082c7dc672c871775d87734cd93be70",
+      "content_type": "Article",
+      "description": "Goldman Sachs Research forecasts earnings per share for European stocks to grow 18% in 2026 and 7% in 2027, at a faster rate than the euro area economy. ",
+      "fetched_at": "2026-11-13T19:45:42+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-13T18:51:45.000Z",
+      "media": [],
+      "publish_date": "2026-11-13",
+      "removed": false,
+      "title": "Why European Companies Are Forecast to Have Robust Earnings Growth",
+      "topic": "Europe",
+      "url": "https://www.goldmansachs.com/insights/articles/why-european-companies-are-forecast-to-have-robust-earnings-growth"
     },
     "https://www.goldmansachs.com/insights/articles/why-european-stocks-are-outperforming-the-us": {
       "content_hash": "b6e0d268b552738d2a847b129de81efe7905ee9622f052fe8e686a418256f21f",

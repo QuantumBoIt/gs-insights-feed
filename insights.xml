@@ -8,39 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:36:16 +0000</lastBuildDate>
-    <item>
-      <title>AI Investment Is Shifting as Inference, Enterprise Adoption Accelerate</title>
-      <link>https://www.goldmansachs.com/insights/articles/ai-investment-is-shifting-as-inference-enterprise-adoption-accelerate</link>
-      <description>Companies are rapidly deploying AI in a test for computing infrastructure as investment opportunities emerge in fiber optics.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/ai-investment-is-shifting-as-inference-enterprise-adoption-accelerate</guid>
-      <category>Artificial Intelligence</category>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why the US Dollar Could Continue to Strengthen</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/why-the-us-dollar-could-continue-to-strengthen</link>
-      <description>Brian Dunne, head of Americas Foreign Exchange Options Trading in Goldman Sachs Global Banking &amp;amp; Markets, explains what’s behind recent US dollar strength and what’s going on in other global currency markets. </description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/why-the-us-dollar-could-continue-to-strengthen</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biotech Stocks Are Projected to Extend Rally amid Innovation and M&amp;A</title>
-      <link>https://www.goldmansachs.com/insights/articles/biotech-stocks-are-projected-to-extend-rally-amid-innovation</link>
-      <description>Healthcare stocks are outperforming technology shares as biotech breakthroughs and dealmaking activity jumps.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/biotech-stocks-are-projected-to-extend-rally-amid-innovation</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are US Stock Market Valuations Outpacing Fundamentals?</title>
-      <link>https://www.goldmansachs.com/insights/articles/are-us-stock-market-valuations-outpacing-fundamentals</link>
-      <description>The tension between large market gains in AI stocks and friendly economic and corporate fundamentals continues to sharpen, according to Goldman Sachs Research.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/are-us-stock-market-valuations-outpacing-fundamentals</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Nov 2026 22:09:13 +0000</lastBuildDate>
     <item>
       <title>How Falling Launch Costs and AI Are Driving the Space Economy</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-falling-launch-costs-and-ai-are-driving-the-space-economy</link>
@@ -792,6 +760,38 @@
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-global-economy-is-forecast-to-grow-2-point-8-percent-in-2027-as-oil-prices-decline</guid>
       <category>Outlooks</category>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Equity Strategy Outlook: Finding Value in Growth</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/global-equity-strategy-outlook-finding-value-in-growth</link>
+      <description>Goldman Sachs Research sees the equity bull market continuing in 2027, with an overweight in US and Japan equities and an underweight in Europe.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/global-equity-strategy-outlook-finding-value-in-growth</guid>
+      <category>Outlooks</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Markets Outlook: Growing Pains</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/global-markets-outlook-growing-pains</link>
+      <description>Goldman Sachs Research outlines key investment themes set to drive markets in 2027, from a maturing cycle to bonds reclaiming hedging value.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/global-markets-outlook-growing-pains</guid>
+      <category>Outlooks</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Macro Outlook: Steady Baseline, Downside Risks</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/global-macro-outlook-stead-baseline-downside-risks</link>
+      <description>Goldman Sachs Research expects the global economy to grow 2.8% in 2027 as lower energy prices and strong AI capex outweigh tighter financial conditions.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/global-macro-outlook-stead-baseline-downside-risks</guid>
+      <category>Outlooks</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Stocks Are Expected to Rally in 2027 Even as Earnings Growth Slows </title>
+      <link>https://www.goldmansachs.com/insights/articles/global-stocks-expected-to-rally-in-2027-as-earnings-growth-slows</link>
+      <description>Three key investment themes for Goldman Sachs Research are growth equities, defensive stocks, and companies that benefit from lower oil prices and bond yields.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/global-stocks-expected-to-rally-in-2027-as-earnings-growth-slows</guid>
+      <category>Outlooks</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

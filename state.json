@@ -3178,6 +3178,20 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/articles/global-stocks-are-vulnerable-in-2025"
     },
+    "https://www.goldmansachs.com/insights/articles/global-stocks-expected-to-rally-in-2027-as-earnings-growth-slows": {
+      "content_hash": "a2834211fcbb84730b2e88f4013eb21bdc73bcbf84640136a174b2a11c7f4bf9",
+      "content_type": "Article",
+      "description": "Three key investment themes for Goldman Sachs Research are growth equities, defensive stocks, and companies that benefit from lower oil prices and bond yields.",
+      "fetched_at": "2026-11-16T22:09:10+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-16T21:57:54.000Z",
+      "media": [],
+      "publish_date": "2026-11-16",
+      "removed": false,
+      "title": "Global Stocks Are Expected to Rally in 2027 Even as Earnings Growth Slows ",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/articles/global-stocks-expected-to-rally-in-2027-as-earnings-growth-slows"
+    },
     "https://www.goldmansachs.com/insights/articles/global-trade-is-showing-resilience-despite-rising-barriers": {
       "content_hash": "d85e172632b2698dfdbce5507cf50b0dae7fbc35168fd2f077c0756e36a157a5",
       "content_type": "Article",
@@ -6247,12 +6261,12 @@
       "url": "https://www.goldmansachs.com/insights/articles/the-global-economy-in-2075-growth-slows-as-asia-rises"
     },
     "https://www.goldmansachs.com/insights/articles/the-global-economy-is-forecast-to-grow-2-point-8-percent-in-2027-as-oil-prices-decline": {
-      "content_hash": "500ba7746db49d6c6561d9d0bcbe0e242e5c15c54e82fad19c0d5c342272af43",
+      "content_hash": "304de3ee52e1b95041b12c9cece73872b33b7ada9116de29a00f23692d552eb4",
       "content_type": "Article",
       "description": "Goldman Sachs Research expects steady global GDP growth in 2027 amid lower energy prices and ongoing AI investment.",
-      "fetched_at": "2026-11-13T19:45:41+00:00",
+      "fetched_at": "2026-11-16T22:09:09+00:00",
       "file_path": "",
-      "lastmod": "2026-11-13T18:16:58.000Z",
+      "lastmod": "2026-11-16T19:42:11.000Z",
       "media": [],
       "publish_date": "2026-11-13",
       "removed": false,
@@ -26128,6 +26142,20 @@
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/global-automation-humanoid-robot-the-ai-accelerant"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-research/global-equity-strategy-outlook-finding-value-in-growth": {
+      "content_hash": "de94f964425d4ac05f2dccc531a531f9c2b5c10655f291158a142c21be8f81c3",
+      "content_type": "Report",
+      "description": "Goldman Sachs Research sees the equity bull market continuing in 2027, with an overweight in US and Japan equities and an underweight in Europe.",
+      "fetched_at": "2026-11-16T22:09:13+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-16T18:15:25.000Z",
+      "media": [],
+      "publish_date": "2026-11-16",
+      "removed": false,
+      "title": "Global Equity Strategy Outlook: Finding Value in Growth",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/global-equity-strategy-outlook-finding-value-in-growth"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-research/global-fx-outlook-2026-different-dollar-downside": {
       "content_hash": "8aa317dacdcc0aa57879194168b0698c53d3e59561bd0438b2513fc7ad9b037e",
       "content_type": "Report",
@@ -26141,6 +26169,20 @@
       "title": "Global FX 2026 Outlook: Different Dollar Downside",
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/global-fx-outlook-2026-different-dollar-downside"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-research/global-macro-outlook-stead-baseline-downside-risks": {
+      "content_hash": "7b14813c3e223227629c25e1a074ff84f8e79bef13e4edf61d99286e7600fc81",
+      "content_type": "Report",
+      "description": "Goldman Sachs Research expects the global economy to grow 2.8% in 2027 as lower energy prices and strong AI capex outweigh tighter financial conditions.",
+      "fetched_at": "2026-11-16T22:09:11+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-16T17:21:42.000Z",
+      "media": [],
+      "publish_date": "2026-11-16",
+      "removed": false,
+      "title": "Global Macro Outlook: Steady Baseline, Downside Risks",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/global-macro-outlook-stead-baseline-downside-risks"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-research/global-macroscope-global-strategy-conference-results-of-2023-question-time": {
       "content_hash": "340d76b27f5ad3ed97619561b1bee88ec8e43c2869d899af8674e35f6af96700",
@@ -26229,6 +26271,20 @@
       "title": "Global Markets Outlook 2024: Towards a Better Balance",
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/global-markets-outlook-2024-towards-a-better-balance"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-research/global-markets-outlook-growing-pains": {
+      "content_hash": "465a8674341c1cefea73e85922e2558252edb5645fe63d69c3144a9204246a40",
+      "content_type": "Report",
+      "description": "Goldman Sachs Research outlines key investment themes set to drive markets in 2027, from a maturing cycle to bonds reclaiming hedging value.",
+      "fetched_at": "2026-11-16T22:09:12+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-16T18:13:48.000Z",
+      "media": [],
+      "publish_date": "2026-11-16",
+      "removed": false,
+      "title": "Global Markets Outlook: Growing Pains",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/global-markets-outlook-growing-pains"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-research/global-strategy-paper-ai-to-buy-or-not-to-buy-that-is-the-question": {
       "content_hash": "57c362bc91e9c08ae8e5a350f8efcaf94a82b152d933388ad1272412bf2e4307",

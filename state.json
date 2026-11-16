@@ -45654,6 +45654,35 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/the-markets/how-to-trade-a-credit-expansion"
     },
+    "https://www.goldmansachs.com/insights/the-markets/how-will-higher-than-expected-inflation-data-impact-the-feds-next-rate-decisions": {
+      "content_hash": "d80d765107c78e3595938a0639a2ff8134de65d9be36e0be5da6ab381e67bfe7",
+      "content_type": "Podcast",
+      "description": "While a smaller hike remains more likely, October’s hot CPI data could lead to a 50-basis point hike at the Fed’s December meeting says Muhammad Qubbaj, co-head of North America Interest Rate Product Sales and Trading in Goldman Sachs FICC and Equities on The Markets podcast.",
+      "fetched_at": "2026-11-16T06:36:16+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-13T21:30:21.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/how-will-higher-than-expected-inflation-data-impact-the-feds-next-rate-decisions/16x9.png",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-73614_9667_Ep26-044_MarketsPodcastwithMuhammadQubbaj_FullVideo_EditMaster_v2.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/how-will-higher-than-expected-inflation-data-impact-the-feds-next-rate-decisions/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-11-13",
+      "removed": false,
+      "title": "How Will Higher-than-Expected Inflation Data Impact the Fed's Next Rate Decisions? ",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/the-markets/how-will-higher-than-expected-inflation-data-impact-the-feds-next-rate-decisions"
+    },
     "https://www.goldmansachs.com/insights/the-markets/id-rather-be-a-bond-lindsay-rosner-on-fixed-income-opportunities": {
       "content_hash": "b870fabd661ffbce3b8f63b936f1b34f5d1fad5909be502b5b7f396bc41ea497",
       "content_type": "Podcast",

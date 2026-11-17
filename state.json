@@ -8646,6 +8646,20 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/articles/will-the-rebound-in-chinese-stocks-continue"
     },
+    "https://www.goldmansachs.com/insights/articles/will-the-uk-economy-beat-expectations-again-in-2027": {
+      "content_hash": "c5a197d7cf06430767c63a4de2e36115fc2b26e9e3b2a2b0e8e3cf04307eba1f",
+      "content_type": "Article",
+      "description": "The coming quarters are likely to prove challenging for the UK, but economic growth is expected to accelerate again in the second half of 2027.",
+      "fetched_at": "2026-11-17T20:58:36+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-17T16:49:59.000Z",
+      "media": [],
+      "publish_date": "2026-11-17",
+      "removed": false,
+      "title": "Will the UK Economy Beat Expectations Again in 2027?",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/articles/will-the-uk-economy-beat-expectations-again-in-2027"
+    },
     "https://www.goldmansachs.com/insights/articles/will-the-uk-economy-go-into-recession-in-2023": {
       "content_hash": "581f845271ec99cf4d3e1a2d243a0984bf366337bb8b5578ca77063f7f053327",
       "content_type": "Article",
@@ -22400,6 +22414,35 @@
       "title": "Stagflation and the Fed's next move",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/stagflation-and-the-feds-next-move"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/steady-global-economic-growth-in2027-but-risks-tilted-to-downside": {
+      "content_hash": "823a741033cd4f1bd9277981e3dd7fc75419b68d83b1149f671b775a7f545be3",
+      "content_type": "Podcast",
+      "description": "Goldman Sachs Research expects steady global growth in 2027, while energy, rates, and AI create risks for markets and the economy.",
+      "fetched_at": "2026-11-17T20:58:37+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-17T19:51:54.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/steady-global-economic-growth-in-22027-outlook-but-risks-tilted-to-downside/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-73687_9666_Ep26-071_Exchanges_Hatzius_Wilson_FULL.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/steady-global-economic-growth-in-2027-outlook-but-risks-tilted-to-downside/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-11-17",
+      "removed": false,
+      "title": "Steady Global Economic Growth in 2027 Outlook But Risks Tilted to Downside",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/steady-global-economic-growth-in2027-but-risks-tilted-to-downside"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/tariffs-whats-ahead-and-why-it-matters": {
       "content_hash": "68b8ba92f8a22a0787b85af3310644bc520c63a7a36054f2ba305af82b64cc48",
@@ -39736,6 +39779,35 @@
       "title": "Oskar Eustis, From “Hair” to “Hamilton” - The Promise of The Public Theater",
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/oskar-eustis"
+    },
+    "https://www.goldmansachs.com/insights/talks-at-gs/pablo-salame": {
+      "content_hash": "c50d61eb24fc21797d7cb23206cf74c2a7f03b942b714960ddd97acd1c6cd51b",
+      "content_type": "Video",
+      "description": "Pablo Salame, co-CIO of Citadel, describes the best environment for taking risks and how to turn mistakes into insight.",
+      "fetched_at": "2026-11-17T20:58:35+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-17T14:48:09.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/pablo-salame/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-73644_9723_Ep26-043-Talks_at_GS_with_Pablo_Salame-Session_Highlights.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/pablo-salame/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-11-17",
+      "removed": false,
+      "title": "Citadel’s Pablo Salame on Risk-Taking, Leadership, and the Pursuit of Great Ideas",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/pablo-salame"
     },
     "https://www.goldmansachs.com/insights/talks-at-gs/parag-khanna": {
       "content_hash": "2693b2c3c332fbea4f5c7d06f12b77a4c7c4f542a2200a879168146b5e122453",

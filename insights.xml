@@ -8,30 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 17 Nov 2026 07:58:40 +0000</lastBuildDate>
-    <item>
-      <title>How Falling Launch Costs and AI Are Driving the Space Economy</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-falling-launch-costs-and-ai-are-driving-the-space-economy</link>
-      <description>Michael Tarulli and Erik Sparks of Goldman Sachs Investment Banking explain the drivers and economics of the emerging space economy, as well as the sector’s outlook, opportunities, and risks for investors. </description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-falling-launch-costs-and-ai-are-driving-the-space-economy</guid>
-      <category>Technology</category>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will Space Stocks Outperform the S&amp;P 500?</title>
-      <link>https://www.goldmansachs.com/insights/articles/will-space-stocks-outperform-the-s-and-p-500</link>
-      <description>Although gains have faded, stocks linked to the space industry are outperforming the broader US equity market. The sector has opportunities for revenue growth linked to defense, global communications, and AI, according to Goldman Sachs FICC and Equities.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/will-space-stocks-outperform-the-s-and-p-500</guid>
-      <category>Markets</category>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Goldman Sachs Chairman and CEO David Solomon Joins CNBC</title>
-      <link>https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-2q-earnings-deal-making-and-ai-investment</link>
-      <description>David Solomon joined CNBC to share his views on the firm’s second-quarter earnings, its strong positioning, and the outlook for AI investment. </description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/cnbc-david-solomon-2q-earnings-deal-making-and-ai-investment</guid>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Nov 2026 20:58:38 +0000</lastBuildDate>
     <item>
       <title>How Earnings, Volatility, and AI Capex Are Affecting US Markets</title>
       <link>https://www.goldmansachs.com/insights/the-markets/how-earnings-volatility-and-ai-capex-are-affecting-us-markets</link>
@@ -792,6 +769,29 @@
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/global-stocks-expected-to-rally-in-2027-as-earnings-growth-slows</guid>
       <category>Outlooks</category>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steady Global Economic Growth in 2027 Outlook But Risks Tilted to Downside</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/steady-global-economic-growth-in2027-but-risks-tilted-to-downside</link>
+      <description>Goldman Sachs Research expects steady global growth in 2027, while energy, rates, and AI create risks for markets and the economy.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/steady-global-economic-growth-in2027-but-risks-tilted-to-downside</guid>
+      <category>Outlooks</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will the UK Economy Beat Expectations Again in 2027?</title>
+      <link>https://www.goldmansachs.com/insights/articles/will-the-uk-economy-beat-expectations-again-in-2027</link>
+      <description>The coming quarters are likely to prove challenging for the UK, but economic growth is expected to accelerate again in the second half of 2027.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/will-the-uk-economy-beat-expectations-again-in-2027</guid>
+      <category>Outlooks</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citadel’s Pablo Salame on Risk-Taking, Leadership, and the Pursuit of Great Ideas</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/pablo-salame</link>
+      <description>Pablo Salame, co-CIO of Citadel, describes the best environment for taking risks and how to turn mistakes into insight.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/pablo-salame</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

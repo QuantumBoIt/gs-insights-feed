@@ -8366,6 +8366,20 @@
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/articles/why-the-us-dollar-may-be-past-its-peak"
     },
+    "https://www.goldmansachs.com/insights/articles/why-the-us-economy-is-forecast-to-grow-faster-than-consensus-estimates": {
+      "content_hash": "9076db9f028db2abfa32ab3a5cbb3944ed2c8def637525059d4459e8a1236b9e",
+      "content_type": "Article",
+      "description": "Goldman Sachs Research forecasts US GDP will grow 2.4% in 2027, above the 2.2% consensus, as inflation cools.",
+      "fetched_at": "2026-11-18T07:34:09+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-17T21:36:48.000Z",
+      "media": [],
+      "publish_date": "2026-11-17",
+      "removed": false,
+      "title": "Why the US Economy Is Forecast to Grow Faster than Consensus Estimates",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/articles/why-the-us-economy-is-forecast-to-grow-faster-than-consensus-estimates"
+    },
     "https://www.goldmansachs.com/insights/articles/why-the-us-economy-may-grow-more-slowly-than-expected": {
       "content_hash": "832d766d9d996364484fff2d8e2e4d91664a2d67cb5bec22c964914e8e92af90",
       "content_type": "Article",
@@ -22419,9 +22433,9 @@
       "content_hash": "823a741033cd4f1bd9277981e3dd7fc75419b68d83b1149f671b775a7f545be3",
       "content_type": "Podcast",
       "description": "Goldman Sachs Research expects steady global growth in 2027, while energy, rates, and AI create risks for markets and the economy.",
-      "fetched_at": "2026-11-17T20:58:37+00:00",
+      "fetched_at": "2026-11-18T07:34:10+00:00",
       "file_path": "",
-      "lastmod": "2026-11-17T19:51:54.000Z",
+      "lastmod": "2026-11-17T22:10:48.000Z",
       "media": [
         {
           "kind": "video",
@@ -22440,7 +22454,7 @@
       ],
       "publish_date": "2026-11-17",
       "removed": false,
-      "title": "Steady Global Economic Growth in 2027 Outlook But Risks Tilted to Downside",
+      "title": "Steady Global Economic Growth in 2027 Outlook but Risks Tilted to Downside",
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/steady-global-economic-growth-in2027-but-risks-tilted-to-downside"
     },
@@ -28392,6 +28406,35 @@
       "title": "Coinbase CEO Brian Armstrong: Propelling the Crypto Economy   ",
       "topic": "Artificial Intelligence",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/Brian-Armstrong"
+    },
+    "https://www.goldmansachs.com/insights/talks-at-gs/adam-and-ryan-goldston": {
+      "content_hash": "1fb34de8e7130957fa09eeb94d4176f780aa4498a5b4cc676bf67b09cc220be8",
+      "content_type": "Video",
+      "description": "When APL’s basketball shoes were banned by the NBA, it triggered viral global demand for the brand and catapulted the company into success. Co-founders Adam Goldston and Ryan Goldston talk about their design inspirations, the experience of running an independent, founder-owned company, and their strategy for building the luxury performance sector.",
+      "fetched_at": "2026-11-18T07:34:08+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-17T21:13:44.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/adam-and-ryan-goldston/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-73641_9723_Ep26-029_TAGS_Adam_and_Ryan_Goldston_V6_HIGHLIGHTS.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/adam-and-ryan-goldston/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-11-17",
+      "removed": false,
+      "title": "Adam Goldston and Ryan Goldston on Defining Luxury Performance Footwear",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/adam-and-ryan-goldston"
     },
     "https://www.goldmansachs.com/insights/talks-at-gs/adam-foroughi": {
       "content_hash": "173c7ef78806b7ed51b4802530a3c53b012075e2a19171edf1d8d4eeecd291ab",

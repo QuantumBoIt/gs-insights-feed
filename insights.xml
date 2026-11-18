@@ -8,22 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 17 Nov 2026 20:58:38 +0000</lastBuildDate>
-    <item>
-      <title>How Earnings, Volatility, and AI Capex Are Affecting US Markets</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/how-earnings-volatility-and-ai-capex-are-affecting-us-markets</link>
-      <description>Earnings expectations for US equities are “very high” as single-stock volatility climbs, says Brian Garrett, head of equities on the Cross Asset Sales desk in FICC &amp;amp; Equities.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/how-earnings-volatility-and-ai-capex-are-affecting-us-markets</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carlos Cordeiro on the Legacy of the FIFA World Cup 2026</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/carlos-cordeiro</link>
-      <description>Carlos Cordeiro, senior advisor to the FIFA president and the former president of the US Soccer Federation, joins Gene Sykes, co-chair of Goldman Sachs M&amp;amp;A and co-chair of the Global Technology, Media, and Telecom Group, to discuss the legacy of the 2026 FIFA World Cup.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/carlos-cordeiro</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 07:34:10 +0000</lastBuildDate>
     <item>
       <title>Emerging-Market Stocks May Climb Higher amid Boost from AI</title>
       <link>https://www.goldmansachs.com/insights/videos/emerging-market-stocks-may-climb-higher-amid-boost-from-ai</link>
@@ -771,7 +756,29 @@
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Steady Global Economic Growth in 2027 Outlook But Risks Tilted to Downside</title>
+      <title>Why the US Economy Is Forecast to Grow Faster than Consensus Estimates</title>
+      <link>https://www.goldmansachs.com/insights/articles/why-the-us-economy-is-forecast-to-grow-faster-than-consensus-estimates</link>
+      <description>Goldman Sachs Research forecasts US GDP will grow 2.4% in 2027, above the 2.2% consensus, as inflation cools.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-the-us-economy-is-forecast-to-grow-faster-than-consensus-estimates</guid>
+      <category>Outlooks</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adam Goldston and Ryan Goldston on Defining Luxury Performance Footwear</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/adam-and-ryan-goldston</link>
+      <description>When APL’s basketball shoes were banned by the NBA, it triggered viral global demand for the brand and catapulted the company into success. Co-founders Adam Goldston and Ryan Goldston talk about their design inspirations, the experience of running an independent, founder-owned company, and their strategy for building the luxury performance sector.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/adam-and-ryan-goldston</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Citadel’s Pablo Salame on Risk-Taking, Leadership, and the Pursuit of Great Ideas</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/pablo-salame</link>
+      <description>Pablo Salame, co-CIO of Citadel, describes the best environment for taking risks and how to turn mistakes into insight.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/pablo-salame</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steady Global Economic Growth in 2027 Outlook but Risks Tilted to Downside</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/steady-global-economic-growth-in2027-but-risks-tilted-to-downside</link>
       <description>Goldman Sachs Research expects steady global growth in 2027, while energy, rates, and AI create risks for markets and the economy.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/steady-global-economic-growth-in2027-but-risks-tilted-to-downside</guid>
@@ -784,13 +791,6 @@
       <description>The coming quarters are likely to prove challenging for the UK, but economic growth is expected to accelerate again in the second half of 2027.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/will-the-uk-economy-beat-expectations-again-in-2027</guid>
       <category>Outlooks</category>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citadel’s Pablo Salame on Risk-Taking, Leadership, and the Pursuit of Great Ideas</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/pablo-salame</link>
-      <description>Pablo Salame, co-CIO of Citadel, describes the best environment for taking risks and how to turn mistakes into insight.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/pablo-salame</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Nov 2026 07:34:10 +0000</lastBuildDate>
-    <item>
-      <title>Emerging-Market Stocks May Climb Higher amid Boost from AI</title>
-      <link>https://www.goldmansachs.com/insights/videos/emerging-market-stocks-may-climb-higher-amid-boost-from-ai</link>
-      <description>Equities in emerging market are rallying amid strong earnings and their exposure to AI, says Katherine Bordlemay in Goldman Sachs Asset Management.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/videos/emerging-market-stocks-may-climb-higher-amid-boost-from-ai</guid>
-      <category>Markets</category>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/us-midyear-outlook-geopolitical-shocks-the-new-fed-era-and-growth</link>
-      <description>With a newly installed Federal Reserve chairman, a surprisingly soft inflation print, and persistent geopolitical tensions, the trajectory of US monetary policy remains uncertain. Goldman Sachs Research Chief US Economist David Mericle shares his perspective on the resilience of the labor market, the outlook for inflation, and US economic growth.   </description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/us-midyear-outlook-geopolitical-shocks-the-new-fed-era-and-growth</guid>
-      <category>Markets</category>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 20:36:13 +0000</lastBuildDate>
     <item>
       <title>What the Capex Boom Means for Stock Investors</title>
       <link>https://www.goldmansachs.com/insights/articles/what-the-capex-boom-means-for-stock-investors</link>
@@ -756,11 +740,10 @@
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why the US Economy Is Forecast to Grow Faster than Consensus Estimates</title>
-      <link>https://www.goldmansachs.com/insights/articles/why-the-us-economy-is-forecast-to-grow-faster-than-consensus-estimates</link>
-      <description>Goldman Sachs Research forecasts US GDP will grow 2.4% in 2027, above the 2.2% consensus, as inflation cools.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-the-us-economy-is-forecast-to-grow-faster-than-consensus-estimates</guid>
-      <category>Outlooks</category>
+      <title>Citadel’s Pablo Salame on Risk-Taking, Leadership, and the Pursuit of Great Ideas</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/pablo-salame</link>
+      <description>Pablo Salame, co-CIO of Citadel, describes the best environment for taking risks and how to turn mistakes into insight.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/pablo-salame</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -768,13 +751,6 @@
       <link>https://www.goldmansachs.com/insights/talks-at-gs/adam-and-ryan-goldston</link>
       <description>When APL’s basketball shoes were banned by the NBA, it triggered viral global demand for the brand and catapulted the company into success. Co-founders Adam Goldston and Ryan Goldston talk about their design inspirations, the experience of running an independent, founder-owned company, and their strategy for building the luxury performance sector.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/adam-and-ryan-goldston</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Citadel’s Pablo Salame on Risk-Taking, Leadership, and the Pursuit of Great Ideas</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/pablo-salame</link>
-      <description>Pablo Salame, co-CIO of Citadel, describes the best environment for taking risks and how to turn mistakes into insight.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/pablo-salame</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -792,6 +768,29 @@
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/will-the-uk-economy-beat-expectations-again-in-2027</guid>
       <category>Outlooks</category>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why the US Economy Is Forecast to Grow Faster than Consensus Estimates</title>
+      <link>https://www.goldmansachs.com/insights/articles/why-the-us-economy-is-forecast-to-grow-faster-than-consensus-estimates</link>
+      <description>Goldman Sachs Research forecasts US GDP will grow 2.4% in 2027, above the 2.2% consensus, as inflation cools.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/why-the-us-economy-is-forecast-to-grow-faster-than-consensus-estimates</guid>
+      <category>Outlooks</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil Is Estimated to Ease in 2027 as Suppliers Adapt to Hormuz Disruption</title>
+      <link>https://www.goldmansachs.com/insights/articles/oil-is-estimated-to-ease-in-2027-as-suppliers-adapt-to-hormuz-disruption</link>
+      <description>Goldman Sachs Research expects oil and European LNG to ease in 2027 as supply from the Middle East increases.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/oil-is-estimated-to-ease-in-2027-as-suppliers-adapt-to-hormuz-disruption</guid>
+      <category>Outlooks</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESPN’s Jimmy Pitaro on the New Playbook for Sports Fans</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/jimmy-pitaro</link>
+      <description>ESPN Chairman Jimmy Pitaro shares how ESPN serves fans anytime, anywhere. He examines direct access, sports rights, and AI.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/jimmy-pitaro</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

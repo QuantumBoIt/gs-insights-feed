@@ -5164,6 +5164,20 @@
       "topic": "Real Estate & Housing",
       "url": "https://www.goldmansachs.com/insights/articles/offices-in-major-us-cities-are-the-most-at-risk-in-commercial-real-estate"
     },
+    "https://www.goldmansachs.com/insights/articles/oil-is-estimated-to-ease-in-2027-as-suppliers-adapt-to-hormuz-disruption": {
+      "content_hash": "72a37e7fe041c84baba75ee35f49bf012532de2c36a15bdaaf4a17afe7d4e601",
+      "content_type": "Article",
+      "description": "Goldman Sachs Research expects oil and European LNG to ease in 2027 as supply from the Middle East increases.",
+      "fetched_at": "2026-11-18T20:36:12+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-18T16:10:51.000Z",
+      "media": [],
+      "publish_date": "2026-11-18",
+      "removed": false,
+      "title": "Oil Is Estimated to Ease in 2027 as Suppliers Adapt to Hormuz Disruption",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/articles/oil-is-estimated-to-ease-in-2027-as-suppliers-adapt-to-hormuz-disruption"
+    },
     "https://www.goldmansachs.com/insights/articles/oil-prices-are-forecast-to-trade-between-70-and-100-a-barrel-in-2024": {
       "content_hash": "acb97d296c51face027511823f6d73c56461cb467b370421141a9e4362021442",
       "content_type": "Article",
@@ -8661,12 +8675,12 @@
       "url": "https://www.goldmansachs.com/insights/articles/will-the-rebound-in-chinese-stocks-continue"
     },
     "https://www.goldmansachs.com/insights/articles/will-the-uk-economy-beat-expectations-again-in-2027": {
-      "content_hash": "c5a197d7cf06430767c63a4de2e36115fc2b26e9e3b2a2b0e8e3cf04307eba1f",
+      "content_hash": "5eb172af1396a61fcdfc8c8d63e43b411066d661097c1d46f6ed93c6616f5f09",
       "content_type": "Article",
       "description": "The coming quarters are likely to prove challenging for the UK, but economic growth is expected to accelerate again in the second half of 2027.",
-      "fetched_at": "2026-11-17T20:58:36+00:00",
+      "fetched_at": "2026-11-18T20:36:08+00:00",
       "file_path": "",
-      "lastmod": "2026-11-17T16:49:59.000Z",
+      "lastmod": "2026-11-18T12:19:52.000Z",
       "media": [],
       "publish_date": "2026-11-17",
       "removed": false,
@@ -21916,9 +21930,9 @@
       "content_hash": "1dc0d367831f0ce43b775b8c371d6eb56230e17b9bd8473d7df948e95543042a",
       "content_type": "Podcast",
       "description": "Surging media rights, institutional capital, and modern stadium models are transforming the business of sports, Nicole Pullen Ross explains on the Goldman Sachs Exchanges podcast.",
-      "fetched_at": "2026-11-11T19:38:45+00:00",
+      "fetched_at": "2026-11-18T20:36:11+00:00",
       "file_path": "",
-      "lastmod": "2026-11-09T21:35:13.000Z",
+      "lastmod": "2026-11-18T13:34:55.000Z",
       "media": [
         {
           "kind": "video",
@@ -28280,15 +28294,29 @@
       "content_hash": "22fa9025ca76ed28f4555666603e8f9297cc335feaf31f87ec977a6f2e492cd5",
       "content_type": "",
       "description": "Forecasts from the center of capital markets on equity market trends, GDP growth, and more. Insights from bankers, traders, and analysts on the year ahead.",
-      "fetched_at": "2026-05-04T21:57:31+00:00",
+      "fetched_at": "2026-11-18T20:36:13+00:00",
       "file_path": "",
-      "lastmod": "2026-02-04T19:50:43.000Z",
+      "lastmod": "2026-11-10T21:03:10.000Z",
       "media": [],
       "publish_date": "",
       "removed": false,
       "title": "2026 Outlooks",
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/outlooks/2026-outlooks"
+    },
+    "https://www.goldmansachs.com/insights/outlooks/2027-outlooks": {
+      "content_hash": "60f2a89b63b7232e87933283fc2ffe4a29480c431603641ffb2bcb999cbe746a",
+      "content_type": "",
+      "description": "Explore the 2027 Outlooks from across Goldman Sachs, from specialists on the trading floor to economists and analysts from the global research team.",
+      "fetched_at": "2026-11-18T20:36:10+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-18T18:34:15.000Z",
+      "media": [],
+      "publish_date": "",
+      "removed": false,
+      "title": "2027 Outlooks",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/outlooks/2027-outlooks"
     },
     "https://www.goldmansachs.com/insights/talks-at-gs/04-01-20-cares-act-impact-on-us-economic-outlook": {
       "content_hash": "49258624f11e8bd32a246981a1cf99e1fcfbc170a8e88dbb61f1902a55ec3c17",
@@ -35835,6 +35863,35 @@
       "title": "Jimmy Chin, Mountain Athlete, Photographer, Filmmaker",
       "topic": "Strategy & Leadership",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/jimmy-chin"
+    },
+    "https://www.goldmansachs.com/insights/talks-at-gs/jimmy-pitaro": {
+      "content_hash": "2e20d289365b78141805085e38c3e0625c9c906bed3ad42dd62256f79e0fdaa8",
+      "content_type": "Video",
+      "description": "ESPN Chairman Jimmy Pitaro shares how ESPN serves fans anytime, anywhere. He examines direct access, sports rights, and AI.",
+      "fetched_at": "2026-11-18T20:36:09+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-18T18:25:15.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/jimmy-pitaro/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-73727_9723_Ep26-031_Talks_at_GS_with_Jimmy_Pitaro-Session_Highlights.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/jimmy-pitaro/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-11-18",
+      "removed": false,
+      "title": "ESPN’s Jimmy Pitaro on the New Playbook for Sports Fans",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/jimmy-pitaro"
     },
     "https://www.goldmansachs.com/insights/talks-at-gs/jitse-groen": {
       "content_hash": "a0656b0b462668e7c708eb47cd35f9ee2e30290291d8829fdb35bd1e984be78b",

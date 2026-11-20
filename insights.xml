@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Nov 2026 20:41:14 +0000</lastBuildDate>
-    <item>
-      <title>What the Capex Boom Means for Stock Investors</title>
-      <link>https://www.goldmansachs.com/insights/articles/what-the-capex-boom-means-for-stock-investors</link>
-      <description>A long-term shift in the investment regime could favor companies with high capital spending and physical assets.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/what-the-capex-boom-means-for-stock-investors</guid>
-      <category>Markets</category>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Nov 2026 07:21:19 +0000</lastBuildDate>
     <item>
       <title>Three New Stock Themes Are in Focus as the AI Trade Gyrates</title>
       <link>https://www.goldmansachs.com/insights/articles/three-new-stock-themes-are-in-focus-as-the-ai-trade-gyrates</link>
@@ -791,6 +783,14 @@
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/oil-is-estimated-to-ease-in-2027-as-suppliers-adapt-to-hormuz-disruption</guid>
       <category>Outlooks</category>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Stocks Are Predicted to Extend Their Historic Rally as Gains Moderate</title>
+      <link>https://www.goldmansachs.com/insights/articles/us-stocks-predicted-to-extend-historic-rally-as-gains-moderate</link>
+      <description>Goldman Sachs Research forecasts an 18% total return for the S&amp;amp;P 500 through the end of 2027.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/us-stocks-predicted-to-extend-historic-rally-as-gains-moderate</guid>
+      <category>Outlooks</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

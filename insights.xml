@@ -8,22 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:44:20 +0000</lastBuildDate>
-    <item>
-      <title>Are Hedge Funds Still Bullish on AI Stocks?</title>
-      <link>https://www.goldmansachs.com/insights/the-markets/are-hedge-funds-still-bullish-on-ai-stocks</link>
-      <description>Despite heavy selling of tech stocks, hedge funds are still fundamentally bullish on AI, according to Vincent Lin, co-head of Prime Insights and Analytics in Global Banking &amp;amp; Markets.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/are-hedge-funds-still-bullish-on-ai-stocks</guid>
-      <category>Markets</category>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jon Winkelried on Lessons from Goldman Sachs and TPG’s Next Chapter</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/jon-winkelried</link>
-      <description>Jon Winkelried, CEO of TPG and a Goldman Sachs alum, joins Matt McClure, global co-head of Investment Banking, to reflect on his career journey.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/jon-winkelried</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 23:57:00 +0000</lastBuildDate>
     <item>
       <title>Europe’s Consolidated Stock Market Tape Could Invigorate Trading and Boost Investment</title>
       <link>https://www.goldmansachs.com/insights/articles/europes-consolidated-stock-market-tape-could-invigorate-and-boost-investment</link>
@@ -738,7 +723,7 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Steady Global Economic Growth in 2027 Outlook but Risks Tilted to Downside</title>
+      <title>Global GDP Outlook for 2027: Steady Growth but Risks Tilted to the Downside</title>
       <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/steady-global-economic-growth-in2027-but-risks-tilted-to-downside</link>
       <description>Goldman Sachs Research expects steady global growth in 2027, while energy, rates, and AI create risks for markets and the economy.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/steady-global-economic-growth-in2027-but-risks-tilted-to-downside</guid>
@@ -791,6 +776,22 @@
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/the-outlook-for-retail-stocks-as-black-friday-approaches</guid>
       <category>Markets</category>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Economics Outlook: The End of the Inflation Shocks</title>
+      <link>https://www.goldmansachs.com/insights/articles/us-economics-outlook-end-of-the-inflation-shocks</link>
+      <description>Goldman Sachs Research forecasts 2.4% US GDP growth in 2027, with solid consumption growth and strong business investment growth offset by drags from housing and trade.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/us-economics-outlook-end-of-the-inflation-shocks</guid>
+      <category>Outlooks</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Economics Outlook: Cyclical Headwinds, Strengthening Fundamentals</title>
+      <link>https://www.goldmansachs.com/insights/articles/uk-economics-outlook-cyclical-headwinds-strengthening-fundamentals</link>
+      <description>UK GDP is projected to rise 1.4% in 2027 on a Q4/Q4 basis, exceeding consensus forecasts.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/uk-economics-outlook-cyclical-headwinds-strengthening-fundamentals</guid>
+      <category>Outlooks</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

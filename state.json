@@ -7053,6 +7053,20 @@
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/articles/uk-economic-growth-may-lag-expectations-in-2025"
     },
+    "https://www.goldmansachs.com/insights/articles/uk-economics-outlook-cyclical-headwinds-strengthening-fundamentals": {
+      "content_hash": "63fc241617a471605d8efde562ff349e0a0555b1586e196b4c71e7a36dde8744",
+      "content_type": "Article",
+      "description": "UK GDP is projected to rise 1.4% in 2027 on a Q4/Q4 basis, exceeding consensus forecasts.",
+      "fetched_at": "2026-11-23T23:56:59+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-23T11:19:21.000Z",
+      "media": [],
+      "publish_date": "2026-11-23",
+      "removed": false,
+      "title": "UK Economics Outlook: Cyclical Headwinds, Strengthening Fundamentals",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/articles/uk-economics-outlook-cyclical-headwinds-strengthening-fundamentals"
+    },
     "https://www.goldmansachs.com/insights/articles/uk-gdp-is-expected-to-grow-1-point-4-percent-this-year-despite-weaker-employment": {
       "content_hash": "2ebcd0089ec2148958e67146b2c260487a2b99ead69c7a9259c6ddb1e75d9a03",
       "content_type": "Article",
@@ -7144,6 +7158,20 @@
       "title": "US Earnings Will Start to Show the Impact of Trump's Tariffs",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/articles/us-earnings-will-start-to-show-the-impact-of-trumps-tariffs"
+    },
+    "https://www.goldmansachs.com/insights/articles/us-economics-outlook-end-of-the-inflation-shocks": {
+      "content_hash": "8897f352f62ef7e7f2bf6ff9f3d21c8e58b4cf14f7e438e8cf1d9d6be0c4c9df",
+      "content_type": "Report",
+      "description": "Goldman Sachs Research forecasts 2.4% US GDP growth in 2027, with solid consumption growth and strong business investment growth offset by drags from housing and trade.",
+      "fetched_at": "2026-11-23T23:57:00+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-23T10:54:43.000Z",
+      "media": [],
+      "publish_date": "2026-11-23",
+      "removed": false,
+      "title": "US Economics Outlook: The End of the Inflation Shocks",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/articles/us-economics-outlook-end-of-the-inflation-shocks"
     },
     "https://www.goldmansachs.com/insights/articles/us-economy-poised-to-slow": {
       "content_hash": "f3d9313fad7c530df0a1f45f1ef382ac0f5974ca8806099f84d1b2e46872da6e",
@@ -22461,9 +22489,9 @@
       "content_hash": "823a741033cd4f1bd9277981e3dd7fc75419b68d83b1149f671b775a7f545be3",
       "content_type": "Podcast",
       "description": "Goldman Sachs Research expects steady global growth in 2027, while energy, rates, and AI create risks for markets and the economy.",
-      "fetched_at": "2026-11-18T07:34:10+00:00",
+      "fetched_at": "2026-11-23T23:56:57+00:00",
       "file_path": "",
-      "lastmod": "2026-11-17T22:10:48.000Z",
+      "lastmod": "2026-11-23T17:04:49.000Z",
       "media": [
         {
           "kind": "video",
@@ -22482,7 +22510,7 @@
       ],
       "publish_date": "2026-11-17",
       "removed": false,
-      "title": "Steady Global Economic Growth in 2027 Outlook but Risks Tilted to Downside",
+      "title": "Global GDP Outlook for 2027: Steady Growth but Risks Tilted to the Downside",
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/steady-global-economic-growth-in2027-but-risks-tilted-to-downside"
     },
@@ -28322,9 +28350,9 @@
       "content_hash": "60f2a89b63b7232e87933283fc2ffe4a29480c431603641ffb2bcb999cbe746a",
       "content_type": "",
       "description": "Explore the 2027 Outlooks from across Goldman Sachs, from specialists on the trading floor to economists and analysts from the global research team.",
-      "fetched_at": "2026-11-20T07:21:19+00:00",
+      "fetched_at": "2026-11-23T23:56:58+00:00",
       "file_path": "",
-      "lastmod": "2026-11-19T19:55:56.000Z",
+      "lastmod": "2026-11-23T17:37:22.000Z",
       "media": [],
       "publish_date": "",
       "removed": false,

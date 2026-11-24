@@ -8,38 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Nov 2026 09:58:08 +0000</lastBuildDate>
-    <item>
-      <title>Europe’s Consolidated Stock Market Tape Could Invigorate Trading and Boost Investment</title>
-      <link>https://www.goldmansachs.com/insights/articles/europes-consolidated-stock-market-tape-could-invigorate-and-boost-investment</link>
-      <description>Consolidated stock ticker tapes could show that liquidity is stronger than many realize, boosting the region’s appeal to investors.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/europes-consolidated-stock-market-tape-could-invigorate-and-boost-investment</guid>
-      <category>Markets</category>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IPO Surge: A Red Flag for Markets?</title>
-      <link>https://www.goldmansachs.com/insights/top-of-mind/ipo-surge-a-red-flag-for-markets</link>
-      <description>After several relatively quiet years, the US IPO market has reopened in a big way in 2026, with issuance to date rising sharply to a new record high. But this resurgence has raised two key concerns for the equity market: whether it’s flashing a late-cycle warning sign, and—even if it isn’t—whether the market can comfortably digest so much new issuance. So, how worried should investors be?</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/top-of-mind/ipo-surge-a-red-flag-for-markets</guid>
-      <category>IPOs &amp; M&amp;A</category>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What the Surge in IPOs Means for Investors</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/is-the-surge-in-us-ipos-a-warning-sign-for-investors</link>
-      <description> The volume of US IPO issuance has jumped to a record high in 2026. Is it a late-cycle warning sign, and can the market absorb the new equity supply? Jay Ritter of The IPO Initiative and Owen Lamont of Acadian Asset Management discuss in an episode of Goldman Sachs Exchanges, based on the latest Top of Mind report.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/is-the-surge-in-us-ipos-a-warning-sign-for-investors</guid>
-      <category>IPOs &amp; M&amp;A</category>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arun Gupta on Bringing Silicon Valley’s Spirit to Public Service</title>
-      <link>https://www.goldmansachs.com/insights/talks-at-gs/arun-gupta</link>
-      <description>Arun Gupta joins Talks at GS to discuss building purpose-driven, dual-citizen careers that bring Silicon Valley’s innovative spirit to public service.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/arun-gupta</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Nov 2026 22:29:51 +0000</lastBuildDate>
     <item>
       <title>Balancing the Risks to Portfolios from an Innovation Boom and Inflation</title>
       <link>https://www.goldmansachs.com/insights/articles/balancing-the-risks-to-portfolios-from-an-innovation-boom-and-inflation</link>
@@ -792,6 +761,38 @@
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/uk-economics-outlook-cyclical-headwinds-strengthening-fundamentals</guid>
       <category>Outlooks</category>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is the AI Investment Cycle Durable? </title>
+      <link>https://www.goldmansachs.com/insights/top-of-mind/is-the-ai-investment-cycle-durable</link>
+      <description>Recent AI-related stresses in equity and credit markets and new regulatory uncertainty following the US midterm elections are raising fresh doubts about whether the current pace of AI spending can continue and the durability of the AI theme itself. </description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/top-of-mind/is-the-ai-investment-cycle-durable</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japanese Stocks Are Projected to Rally Again in the Coming Year</title>
+      <link>https://www.goldmansachs.com/insights/articles/japanese-stocks-are-projected-to-rally-again-in-the-coming-year</link>
+      <description>Goldman Sachs Research calls 2027 a “transitional year” for Japanese equities. A focus on investing in growth could help to spread gains beyond banks and AI.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/japanese-stocks-are-projected-to-rally-again-in-the-coming-year</guid>
+      <category>Outlooks</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>European Stocks Are Forecast to Rise in 2027 Even as Earnings Growth Slows</title>
+      <link>https://www.goldmansachs.com/insights/articles/european-stocks-are-forecast-to-rise-in-2027-even-as-earnings-growth-slows</link>
+      <description>Goldman Sachs Research projects a 9% total return for Europe’s STOXX 600 index over the next 12 months.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/european-stocks-are-forecast-to-rise-in-2027-even-as-earnings-growth-slows</guid>
+      <category>Outlooks</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Will Determine the Durability of the AI Investment Cycle?</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-will-determine-the-durability-of-the-ai-investment-cycle</link>
+      <description>Returns on AI-related investment, demand, funding, and power will determine whether the investment cycle endures, according to two industry experts.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-will-determine-the-durability-of-the-ai-investment-cycle</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

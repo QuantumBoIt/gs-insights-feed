@@ -1813,6 +1813,20 @@
       "topic": "IPOs & M&A",
       "url": "https://www.goldmansachs.com/insights/articles/european-private-equity-deals-rise-as-companies-focus-on-strengthening-core-businesses"
     },
+    "https://www.goldmansachs.com/insights/articles/european-stocks-are-forecast-to-rise-in-2027-even-as-earnings-growth-slows": {
+      "content_hash": "3a6f97a3f54092c860092d4f2285ba4a1253a2197243ed194236c21b0b7ac750",
+      "content_type": "Article",
+      "description": "Goldman Sachs Research projects a 9% total return for Europe’s STOXX 600 index over the next 12 months.",
+      "fetched_at": "2026-11-24T22:29:46+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-24T17:29:28.000Z",
+      "media": [],
+      "publish_date": "2026-11-24",
+      "removed": false,
+      "title": "European Stocks Are Forecast to Rise in 2027 Even as Earnings Growth Slows",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/articles/european-stocks-are-forecast-to-rise-in-2027-even-as-earnings-growth-slows"
+    },
     "https://www.goldmansachs.com/insights/articles/european-stocks-defy-global-shocks-with-strong-earnings-growth": {
       "content_hash": "5114e431e6a3b692dc1fc98965e484dfc8692e659fa8e2745308621c57165b80",
       "content_type": "Article",
@@ -4647,6 +4661,20 @@
       "title": "Jan Hatzius, Goldman Sachs’ Chief Economist, on 2023 US Outlook",
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/articles/jan-hatzius-2023-outlooks"
+    },
+    "https://www.goldmansachs.com/insights/articles/japanese-stocks-are-projected-to-rally-again-in-the-coming-year": {
+      "content_hash": "e6e4624ff2a6df5e10982e6b9ca5235912258cdfc44d66ca9f0d8cd54422cac1",
+      "content_type": "Article",
+      "description": "Goldman Sachs Research calls 2027 a “transitional year” for Japanese equities. A focus on investing in growth could help to spread gains beyond banks and AI.",
+      "fetched_at": "2026-11-24T22:29:48+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-24T16:08:23.000Z",
+      "media": [],
+      "publish_date": "2026-11-24",
+      "removed": false,
+      "title": "Japanese Stocks Are Projected to Rally Again in the Coming Year",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/articles/japanese-stocks-are-projected-to-rally-again-in-the-coming-year"
     },
     "https://www.goldmansachs.com/insights/articles/japans-prime-minister-how-japan-is-promoting-a-new-form-of-capitalism": {
       "content_hash": "9091f764aa6c82d39498133942f65dbb2e92d44e25db9d23521838594ce9447c",
@@ -23849,6 +23877,35 @@
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-trumps-win-means-for-markets-and-portfolios"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-will-determine-the-durability-of-the-ai-investment-cycle": {
+      "content_hash": "ae3d23166fa48b6c80f07f291c9da62ead612d0df8133f8b55b26f994949de3b",
+      "content_type": "",
+      "description": "Returns on AI-related investment, demand, funding, and power will determine whether the investment cycle endures, according to two industry experts.",
+      "fetched_at": "2026-11-24T22:29:45+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-24T19:15:08.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-exchanges/what-will-determine-the-durability-of-the-ai-investment-cycle/16x9.png",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/bcs/X26-73839_003_9666_Ep26-073_AI_Investment_durability_1_SLATED.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-exchanges/what-will-determine-the-durability-of-the-ai-investment-cycle/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-11-24",
+      "removed": false,
+      "title": "What Will Determine the Durability of the AI Investment Cycle?",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-will-determine-the-durability-of-the-ai-investment-cycle"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-will-the-us-presidential-election-mean-for-the-economy": {
       "content_hash": "ad2090732d82606292739439a45d79f4eb72bb50a21acee5a36dac31438ba515",
       "content_type": "Podcast",
@@ -28336,9 +28393,9 @@
       "content_hash": "22fa9025ca76ed28f4555666603e8f9297cc335feaf31f87ec977a6f2e492cd5",
       "content_type": "",
       "description": "Forecasts from the center of capital markets on equity market trends, GDP growth, and more. Insights from bankers, traders, and analysts on the year ahead.",
-      "fetched_at": "2026-11-18T20:36:13+00:00",
+      "fetched_at": "2026-11-24T22:29:44+00:00",
       "file_path": "",
-      "lastmod": "2026-11-10T21:03:10.000Z",
+      "lastmod": "2026-11-24T21:54:10.000Z",
       "media": [],
       "publish_date": "",
       "removed": false,
@@ -28350,9 +28407,9 @@
       "content_hash": "60f2a89b63b7232e87933283fc2ffe4a29480c431603641ffb2bcb999cbe746a",
       "content_type": "",
       "description": "Explore the 2027 Outlooks from across Goldman Sachs, from specialists on the trading floor to economists and analysts from the global research team.",
-      "fetched_at": "2026-11-23T23:56:58+00:00",
+      "fetched_at": "2026-11-24T22:29:49+00:00",
       "file_path": "",
-      "lastmod": "2026-11-23T17:37:22.000Z",
+      "lastmod": "2026-11-24T18:13:11.000Z",
       "media": [],
       "publish_date": "",
       "removed": false,
@@ -51096,6 +51153,28 @@
       "title": "Is China Investable?",
       "topic": "Markets",
       "url": "https://www.goldmansachs.com/insights/top-of-mind/is-china-investable"
+    },
+    "https://www.goldmansachs.com/insights/top-of-mind/is-the-ai-investment-cycle-durable": {
+      "content_hash": "aa88bd74c89872d3893e60e735d4c5d450f58722ba99ce2c96b9c78cecf42733",
+      "content_type": "Report",
+      "description": "Recent AI-related stresses in equity and credit markets and new regulatory uncertainty following the US midterm elections are raising fresh doubts about whether the current pace of AI spending can continue and the durability of the AI theme itself. ",
+      "fetched_at": "2026-11-24T22:29:51+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-24T20:21:28.000Z",
+      "media": [
+        {
+          "kind": "pdf-report",
+          "local_path": "",
+          "poster": "",
+          "title": "Read Report",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/is-the-ai-investment-cycle-durable/TOM-AI-investment-sustainability-redacted.pdf"
+        }
+      ],
+      "publish_date": "2026-11-24",
+      "removed": false,
+      "title": "Is the AI Investment Cycle Durable? ",
+      "topic": "Artificial Intelligence",
+      "url": "https://www.goldmansachs.com/insights/top-of-mind/is-the-ai-investment-cycle-durable"
     },
     "https://www.goldmansachs.com/insights/top-of-mind/is-the-fed-behind-the-curve": {
       "content_hash": "5610fe134a51096dc2cc8374d5d2a22ff89de19cd9071af803dd5f2c22ef13d2",

@@ -7090,7 +7090,7 @@
       "lastmod": "2026-11-23T11:19:21.000Z",
       "media": [],
       "publish_date": "2026-11-23",
-      "removed": false,
+      "removed": true,
       "title": "UK Economics Outlook: Cyclical Headwinds, Strengthening Fundamentals",
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/articles/uk-economics-outlook-cyclical-headwinds-strengthening-fundamentals"
@@ -7196,7 +7196,7 @@
       "lastmod": "2026-11-23T10:54:43.000Z",
       "media": [],
       "publish_date": "2026-11-23",
-      "removed": false,
+      "removed": true,
       "title": "US Economics Outlook: The End of the Inflation Shocks",
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/articles/us-economics-outlook-end-of-the-inflation-shocks"
@@ -28135,6 +28135,20 @@
       "topic": "Energy",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/top-projects-2023-back-to-growth"
     },
+    "https://www.goldmansachs.com/insights/goldman-sachs-research/uk-economics-outlook-cyclical-headwinds-strengthening-fundamentals": {
+      "content_hash": "63fc241617a471605d8efde562ff349e0a0555b1586e196b4c71e7a36dde8744",
+      "content_type": "Report",
+      "description": "UK GDP is projected to rise 1.4% in 2027 on a Q4/Q4 basis, exceeding consensus forecasts.",
+      "fetched_at": "2026-11-25T21:44:34+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-25T15:43:52.000Z",
+      "media": [],
+      "publish_date": "2026-11-23",
+      "removed": false,
+      "title": "UK Economics Outlook: Cyclical Headwinds, Strengthening Fundamentals",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/uk-economics-outlook-cyclical-headwinds-strengthening-fundamentals"
+    },
     "https://www.goldmansachs.com/insights/goldman-sachs-research/uk-outlook-2024-not-so-different-after-all": {
       "content_hash": "e64c1472bc47b51f5e77a3cd56c1b435e83dcdf249cc272e346fa1b73f7917a4",
       "content_type": "Report",
@@ -28258,6 +28272,20 @@
       "title": "2023 US Economic Outlook: Approaching a Soft Landing",
       "topic": "Outlooks",
       "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/us-economics-outlook-2023-approaching-a-soft-landing"
+    },
+    "https://www.goldmansachs.com/insights/goldman-sachs-research/us-economics-outlook-end-of-the-inflation-shocks": {
+      "content_hash": "8897f352f62ef7e7f2bf6ff9f3d21c8e58b4cf14f7e438e8cf1d9d6be0c4c9df",
+      "content_type": "Report",
+      "description": "Goldman Sachs Research forecasts 2.4% US GDP growth in 2027, with solid consumption growth and strong business investment growth offset by drags from housing and trade.",
+      "fetched_at": "2026-11-25T21:44:35+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-23T10:54:43.000Z",
+      "media": [],
+      "publish_date": "2026-11-23",
+      "removed": false,
+      "title": "US Economics Outlook: The End of the Inflation Shocks",
+      "topic": "Outlooks",
+      "url": "https://www.goldmansachs.com/insights/goldman-sachs-research/us-economics-outlook-end-of-the-inflation-shocks"
     },
     "https://www.goldmansachs.com/insights/goldman-sachs-research/us-inflation-reduction-act": {
       "content_hash": "4b66a0865bf0298548f8385f5a9371380881f07a23a799628c784a1d128e79a3",
@@ -28407,9 +28435,9 @@
       "content_hash": "60f2a89b63b7232e87933283fc2ffe4a29480c431603641ffb2bcb999cbe746a",
       "content_type": "",
       "description": "Explore the 2027 Outlooks from across Goldman Sachs, from specialists on the trading floor to economists and analysts from the global research team.",
-      "fetched_at": "2026-11-24T22:29:49+00:00",
+      "fetched_at": "2026-11-25T21:44:37+00:00",
       "file_path": "",
-      "lastmod": "2026-11-24T18:13:11.000Z",
+      "lastmod": "2026-11-25T19:49:32.000Z",
       "media": [],
       "publish_date": "",
       "removed": false,
@@ -37904,6 +37932,35 @@
       "topic": "Strategy & Leadership",
       "url": "https://www.goldmansachs.com/insights/talks-at-gs/lloyd-blankfein"
     },
+    "https://www.goldmansachs.com/insights/talks-at-gs/lord-chris-holmes": {
+      "content_hash": "6cb3c0da0dddd14a3cc1f68789a581b49bcab0849fea61e41c2287f0a9d736c7",
+      "content_type": "Video",
+      "description": "Paralympian and legislator, Lord Chris Holmes discusses inclusive technology, leadership, and turning ambition into action.",
+      "fetched_at": "2026-11-25T21:44:36+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-25T17:14:40.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/goldman-sachs-talks/lord-chris-holmes/16x9.jpg",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-73811_9723_Ep26-034_Lord_Chris_Holmes_Highlights_Akamai_MASTER.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/goldman-sachs-talks/lord-chris-holmes/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-11-25",
+      "removed": false,
+      "title": "Lord Chris Holmes on Turning Ambition into Action",
+      "topic": "",
+      "url": "https://www.goldmansachs.com/insights/talks-at-gs/lord-chris-holmes"
+    },
     "https://www.goldmansachs.com/insights/talks-at-gs/lord-john-browne": {
       "content_hash": "ecdc53832157092513b80e397ae53a4acfbd3e6621c725aab0961e50ccd6f21f",
       "content_type": "Video",
@@ -45807,6 +45864,35 @@
       "title": "How geopolitical instability is affecting markets",
       "topic": "",
       "url": "https://www.goldmansachs.com/insights/the-markets/how-geopolitical-instability-is-affecting-markets"
+    },
+    "https://www.goldmansachs.com/insights/the-markets/how-hedge-funds-are-navigating-stock-market-volatility": {
+      "content_hash": "63ca8b9d998a9e36130b04db6081fa5cce4d88b033a9b325c98e1e249fe266e6",
+      "content_type": "Podcast",
+      "description": "Hedge funds are becoming more cautious as volatility rises, says Vincent Lin, co-head of Prime Insights and Analytics within FICC and Equities, on The Markets podcast.",
+      "fetched_at": "2026-11-25T21:44:33+00:00",
+      "file_path": "",
+      "lastmod": "2026-11-25T14:43:17.000Z",
+      "media": [
+        {
+          "kind": "video",
+          "local_path": "",
+          "poster": "https://www.goldmansachs.com/images/insights/the-markets/how-hedge-funds-are-navigating-stock-market-volatility/16x9.png",
+          "title": "Video",
+          "url": "https://video.goldmansachs.com/gsvideo/delivery/X26-73845_9667_Ep26-046_Markets_Vincent-Lin_v2.mp4"
+        },
+        {
+          "kind": "transcript",
+          "local_path": "",
+          "poster": "",
+          "title": "Transcript",
+          "url": "https://www.goldmansachs.com/pdfs/insights/the-markets/how-hedge-funds-are-navigating-stock-market-volatility/transcript.pdf"
+        }
+      ],
+      "publish_date": "2026-11-25",
+      "removed": false,
+      "title": "How Hedge Funds Are Navigating Stock Market Volatility",
+      "topic": "Markets",
+      "url": "https://www.goldmansachs.com/insights/the-markets/how-hedge-funds-are-navigating-stock-market-volatility"
     },
     "https://www.goldmansachs.com/insights/the-markets/how-higher-rates-and-ai-issuance-are-affecting-credit-markets": {
       "content_hash": "cce0806a1aa16dd0a8444a50b7101fa0390ac219bf5fed3b5137d3a363e14360",

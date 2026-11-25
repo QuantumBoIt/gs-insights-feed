@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 25 Nov 2026 08:40:58 +0000</lastBuildDate>
-    <item>
-      <title>Balancing the Risks to Portfolios from an Innovation Boom and Inflation</title>
-      <link>https://www.goldmansachs.com/insights/articles/balancing-the-risks-to-portfolios-from-an-innovation-boom-and-inflation</link>
-      <description>Goldman Sachs Research says five strategies may help balance the risks to portfolios from an innovation boom and rising inflation. </description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/balancing-the-risks-to-portfolios-from-an-innovation-boom-and-inflation</guid>
-      <category>Markets</category>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Mine-to-Magnet Strategy Is Spurring M&amp;A in Rare Earths </title>
-      <link>https://www.goldmansachs.com/insights/articles/the-mine-to-magnet-strategy-is-spurring-m-a-in-rare-earths</link>
-      <description>Electric vehicles, AI, and alternative energy all have something in common: critical minerals and rare earths.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/the-mine-to-magnet-strategy-is-spurring-m-a-in-rare-earths</guid>
-      <category>Markets</category>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Nov 2026 21:44:37 +0000</lastBuildDate>
     <item>
       <title>How Do Geopolitical Alliances Affect Economic Growth?</title>
       <link>https://www.goldmansachs.com/insights/articles/how-do-geopolitical-alliances-affect-economic-growth</link>
@@ -748,17 +732,17 @@
     </item>
     <item>
       <title>US Economics Outlook: The End of the Inflation Shocks</title>
-      <link>https://www.goldmansachs.com/insights/articles/us-economics-outlook-end-of-the-inflation-shocks</link>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/us-economics-outlook-end-of-the-inflation-shocks</link>
       <description>Goldman Sachs Research forecasts 2.4% US GDP growth in 2027, with solid consumption growth and strong business investment growth offset by drags from housing and trade.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/us-economics-outlook-end-of-the-inflation-shocks</guid>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/us-economics-outlook-end-of-the-inflation-shocks</guid>
       <category>Outlooks</category>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>UK Economics Outlook: Cyclical Headwinds, Strengthening Fundamentals</title>
-      <link>https://www.goldmansachs.com/insights/articles/uk-economics-outlook-cyclical-headwinds-strengthening-fundamentals</link>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-research/uk-economics-outlook-cyclical-headwinds-strengthening-fundamentals</link>
       <description>UK GDP is projected to rise 1.4% in 2027 on a Q4/Q4 basis, exceeding consensus forecasts.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/uk-economics-outlook-cyclical-headwinds-strengthening-fundamentals</guid>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-research/uk-economics-outlook-cyclical-headwinds-strengthening-fundamentals</guid>
       <category>Outlooks</category>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
@@ -793,6 +777,21 @@
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/european-stocks-are-forecast-to-rise-in-2027-even-as-earnings-growth-slows</guid>
       <category>Outlooks</category>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lord Chris Holmes on Turning Ambition into Action</title>
+      <link>https://www.goldmansachs.com/insights/talks-at-gs/lord-chris-holmes</link>
+      <description>Paralympian and legislator, Lord Chris Holmes discusses inclusive technology, leadership, and turning ambition into action.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/talks-at-gs/lord-chris-holmes</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Hedge Funds Are Navigating Stock Market Volatility</title>
+      <link>https://www.goldmansachs.com/insights/the-markets/how-hedge-funds-are-navigating-stock-market-volatility</link>
+      <description>Hedge funds are becoming more cautious as volatility rises, says Vincent Lin, co-head of Prime Insights and Analytics within FICC and Equities, on The Markets podcast.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/the-markets/how-hedge-funds-are-navigating-stock-market-volatility</guid>
+      <category>Markets</category>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

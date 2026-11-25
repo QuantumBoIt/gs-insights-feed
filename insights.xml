@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Nov 2026 22:29:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:40:58 +0000</lastBuildDate>
     <item>
       <title>Balancing the Risks to Portfolios from an Innovation Boom and Inflation</title>
       <link>https://www.goldmansachs.com/insights/articles/balancing-the-risks-to-portfolios-from-an-innovation-boom-and-inflation</link>
@@ -771,6 +771,14 @@
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What Will Determine the Durability of the AI Investment Cycle?</title>
+      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-will-determine-the-durability-of-the-ai-investment-cycle</link>
+      <description>Returns on AI-related investment, demand, funding, and power will determine whether the investment cycle endures, according to two industry experts.</description>
+      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-will-determine-the-durability-of-the-ai-investment-cycle</guid>
+      <category>Artificial Intelligence</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Japanese Stocks Are Projected to Rally Again in the Coming Year</title>
       <link>https://www.goldmansachs.com/insights/articles/japanese-stocks-are-projected-to-rally-again-in-the-coming-year</link>
       <description>Goldman Sachs Research calls 2027 a “transitional year” for Japanese equities. A focus on investing in growth could help to spread gains beyond banks and AI.</description>
@@ -784,14 +792,6 @@
       <description>Goldman Sachs Research projects a 9% total return for Europe’s STOXX 600 index over the next 12 months.</description>
       <guid isPermaLink="false">https://www.goldmansachs.com/insights/articles/european-stocks-are-forecast-to-rise-in-2027-even-as-earnings-growth-slows</guid>
       <category>Outlooks</category>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Will Determine the Durability of the AI Investment Cycle?</title>
-      <link>https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-will-determine-the-durability-of-the-ai-investment-cycle</link>
-      <description>Returns on AI-related investment, demand, funding, and power will determine whether the investment cycle endures, according to two industry experts.</description>
-      <guid isPermaLink="false">https://www.goldmansachs.com/insights/goldman-sachs-exchanges/what-will-determine-the-durability-of-the-ai-investment-cycle</guid>
-      <category>Artificial Intelligence</category>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
